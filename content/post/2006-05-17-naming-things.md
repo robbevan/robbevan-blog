@@ -1,5 +1,6 @@
 ---
 title: Naming things
+date: "2006-05-17T12:54:36Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/05/17/naming-things/
@@ -11,7 +12,7 @@ categories:
 ---
 [Bruce Sterling][1] is doing the rounds [in London][2] at the moment: I caught him on Monday at a New Statesman event upstairs at the [Grouse and Claret][3]. Bruce gave a highly entertaining &#8216;cyberpunk exegesis&#8217; of a bewildering array of contemporary issues and ideas: the UK&#8217;s surveillance culture, Web 2.0, Climate Change and of course the Internet of Things to **name** just a few. Good &#8216;names&#8217; for things seem more important than ever now: Bruce mentioned that Tim O&#8217;Reilly &#8211; who coined the term [Web 2.0][4] &#8211; has an English degree, so &#8220;he&#8217;s good at naming things&#8221;, and in his design/tech book &#8216;[Shaping Things&#8217;][5], Bruce stresses that the ability to take on a name, an identity is one of the key features of a &#8216;spime&#8217; (a Sterling neologism: an object that exists in <span style="color: red;">sp</span>ace and t<span style="color: red;">ime</span>):
 
-> &#8230;the means of production [of third-stage objects] are re-engineered around a capacity for identity. The object becomes an instantiation of identity. It&#8217;s named, and it broadcasts its name, then it can be tracked. That&#8217;s a spime. 
+> &#8230;the means of production [of third-stage objects] are re-engineered around a capacity for identity. The object becomes an instantiation of identity. It&#8217;s named, and it broadcasts its name, then it can be tracked. That&#8217;s a spime.
 
 It used to be that we more often looked to sci-fi novelists like Bruce or William Gibson (who &#8216;invented&#8217; [cyberspace][6]) for neologisms to help us track the tech world, but now it seems the industry does a pretty good job of this itself (think Web 2.0, or its sometime namesake [Ajax][7] which can be broadcast and tracked so much more easily now it&#8217;s no longer XMLHttpRequest). I guess this is also why Bruce describes himself now as an &#8220;industry booster&#8221; as well as a novelist and why he&#8217;s admits he&#8217;s had to keep rewriting his novel about spimes over the last few years, as reality keeps changing faster than it can be imagined.
 

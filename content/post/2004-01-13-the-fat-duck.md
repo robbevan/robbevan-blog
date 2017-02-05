@@ -1,5 +1,6 @@
 ---
 title: The Fat Duck
+date: "2004-01-13T10:23:53Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/01/13/the-fat-duck/

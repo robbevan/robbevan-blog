@@ -1,5 +1,6 @@
 ---
 title: Free software for Symbian S60 phones
+date: "2005-12-19T11:26:33Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/12/19/free-software-for-symbian-s60-phones/
@@ -23,7 +24,7 @@ Update: Lost my phone recently. Here&#8217;s my list of the first five essential
       Restore contacts, calendar and todos the Mac way. Remember the days when you had to do this by hand?
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.shozu.com"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.shozu.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Shozu</a>
@@ -32,7 +33,7 @@ Update: Lost my phone recently. Here&#8217;s my list of the first five essential
       Almost certainly the best way to upload images from your phone to <a href="http://flickr.com/photos/robbevan/">Flickr</a>.
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.salling.com/"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.salling.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Salling Clicker</a>
@@ -41,7 +42,7 @@ Update: Lost my phone recently. Here&#8217;s my list of the first five essential
       It&#8217;s still a great party trick to be able to control iTunes remotely from your phone.
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.opera.com/products/mobile/"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.opera.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Opera Mobile</a>
@@ -50,7 +51,7 @@ Update: Lost my phone recently. Here&#8217;s my list of the first five essential
       The &#8220;fastest, most secure web browser available for S60 handsets&#8221;. My browser of choice (at least until Nokia&#8217;s new <a href="http://opensource.nokia.com/projects/S60browser/">Safari-based browser</a> becomes available).
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.forum.nokia.com/main/0,,034-821,00.html"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.forum.nokia.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Python for Series 60</a>

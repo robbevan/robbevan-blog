@@ -1,5 +1,6 @@
 ---
 title: 'Here&#8217;s what we ate'
+date: "2004-01-13T10:23:53Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/01/16/heres-what-we-ate/

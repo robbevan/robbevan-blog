@@ -1,5 +1,6 @@
 ---
 title: AppleJacked!
+date: "2005-11-01T23:46:36Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/11/01/applejacked/

@@ -1,5 +1,6 @@
 ---
 title: '<strike>Jacques Derrida</strike>'
+date: "2004-10-10T22:57:11Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/10/10/jacques-derrida/

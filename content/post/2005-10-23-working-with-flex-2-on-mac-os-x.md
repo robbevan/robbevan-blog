@@ -1,5 +1,6 @@
 ---
 title: Working with Flex 2 on Mac OS X
+date: "2005-10-23T18:13:33Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/10/23/working-with-flex-2-on-mac-os-x/
@@ -22,7 +23,7 @@ Once you&#8217;ve got the framework installed, you can use mxmlc &#8211; the (Ja
   <p>
     Update: in case you missed the original Flex 2 <a href="http://www.macromedia.com/macromedia/proom/pr/2005/announcing_flex2.html">announcement</a> and were wondering why you&#8217;d bother investing any time in an expensive enterprise-only technology, Macromedia also announced a new (very welcome) licensing model for Flex:
   </p>
-  
+
   <p>
     &#8220;Macromedia is also introducing a new tiered licensing model to bring the power of Flex development within reach of every professional application developer, while also offering value-added capabilities that scale to meet the needs of the most sophisticated enterprise projects. Flex Builder 2 will be sold for less than $1000 per developer and will include the ability to develop, compile, and deploy Flex applications that connect to XML and SOAP web services with no additional charges or server licensing required. Flex Enterprise Services 2 will be licensed on a per CPU, per project, and enterprise license basis to offer the development efficiency, performance, advanced integration capabilities, and testing support that advanced applications will require.&#8221;
   </p>

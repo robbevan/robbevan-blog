@@ -1,5 +1,6 @@
 ---
 title: Radio David Byrne
+date: "2005-04-04T23:50:44Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/04/05/radio-david-byrne/

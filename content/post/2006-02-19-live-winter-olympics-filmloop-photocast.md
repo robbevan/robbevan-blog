@@ -1,5 +1,6 @@
 ---
 title: Live Winter Olympics FilmLoop photocast
+date: "2006-02-19T20:19:26Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/02/19/live-winter-olympics-filmloop-photocast/

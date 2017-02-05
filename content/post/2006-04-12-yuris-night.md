@@ -1,5 +1,6 @@
 ---
 title: 'Yuri&#8217;s Night: World Space Party April 12th'
+date: "2006-04-12T12:32:52Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/04/12/yuris-night/
@@ -11,7 +12,7 @@ categories:
     <p>
       45 Years ago today, on April 12th 1961, Yuri Gagarin became the first human to go into space. On the same day, 25 years ago, John Young and Robert Crippen flew the first Space Shuttle flight to orbit. Today we celebrate!
     </p>
-    
+
     <blockquote>
       </div> <p class="technorati-tags">
         (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/yuri-gagarin" rel="tag">yuri-gagarin</a> | <a href="http://technorati.com/tag/space" rel="tag">space</a> | <a href="http://technorati.com/tag/world-space-party" rel="world-space-party">imax</a>)

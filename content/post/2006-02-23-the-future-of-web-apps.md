@@ -1,5 +1,6 @@
 ---
 title: The Future of Web Apps
+date: "2006-02-23T00:07:14Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/02/23/the-future-of-web-apps/
@@ -13,7 +14,7 @@ Like most of the UK&#8217;s web development community I was at the Carson Worksh
 [<img src="http://static.flickr.com/42/97209782_ce4bf0bd5c_m.jpg" alt="" class="flickr" style="float: none; padding: 0;" />][6]<p class="caption"">
 
 [DHH&#8217;s Devil][7]  
-<img src="http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Originally uploaded by [Damien Tanner][8].</p> 
+<img src="http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Originally uploaded by [Damien Tanner][8].</p>
 Anyway, by now, the talks (sorry, &#8216;podcasts&#8217;) are <span class="hilite">all</span> [available for download][1], there are numerous write-ups (best of which are [Simon Willison&#8217;s notes][9]), hundreds of [Flickr images][10] and [Lars Plougmann&#8217;s][11] [mindmaps][12].
 
 <div class="update">

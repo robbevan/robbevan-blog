@@ -1,6 +1,7 @@
 ---
 title: Running Macromedia Flex with JBoss on Mac OS X Server
 author: Rob Bevan
+date: "2005-10-06T01:45:45Z"
 layout: post
 permalink: /2004/04/04/running-macromedia-flex-with-jboss-on-mac-os-x-server/
 categories:

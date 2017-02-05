@@ -1,5 +1,6 @@
 ---
 title: ActionScript syntax colouring in Xcode
+date: "2004-06-01T07:22:24Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/06/01/actionscript-syntax-colouring-in-xcode/

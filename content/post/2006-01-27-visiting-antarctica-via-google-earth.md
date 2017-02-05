@@ -1,5 +1,6 @@
 ---
 title: Visiting Antarctica via Google Earth
+date: "2006-01-27T07:23:10Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/01/27/visiting-antarctica-via-google-earth/

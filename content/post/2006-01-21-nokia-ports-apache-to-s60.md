@@ -1,5 +1,6 @@
 ---
 title: Nokia ports Apache to S60
+date: "2006-01-21T07:42:12Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/01/21/nokia-ports-apache-to-s60/

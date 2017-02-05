@@ -1,5 +1,6 @@
 ---
 title: The Eagle Has Landed on my iPod
+date: "2006-02-27T22:43:13Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/02/27/the-eagle-has-landed-on-my-ipod/
@@ -15,7 +16,7 @@ What has really surprised me however, is how much I&#8217;m enjoying video on th
 [<img src="http://static.flickr.com/54/105416903_eafa802f50_m.jpg" alt="" class="flickr" style="float: none; padding: 0;" />][3]<p class="caption"">
 
 [Shaving on the way to the moon][4]  
-<img src="http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Originally uploaded by [Rob Bevan][5].</p> 
+<img src="http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Originally uploaded by [Rob Bevan][5].</p>
 My wait for the return train was just enough time for the best sequence &#8211; the Eagle&#8217;s descent to the surface of the moon &#8211; which actually just reminded me of <span class="hilite">all</span> the times I&#8217;ve peered out of the the window of a plane (I always watch) as it lands: there&#8217;s that long wait as the plane seems to hover interminably just above the ground before touching down. This is usually the only moment I get a little tense whilst flying, unlike my mate [Tim][6] who pretty much feels that way the entire flight. (He was so visibly distressed when we flew to Glasgow once that one of the cabin crew came over to find out if he was going to be OK, and tried to comfort him with &#8220;don&#8217;t worry &#8211; we&#8217;re the lucky crew!&#8221;, which understandably made things worse.) I&#8217;m constantly on the lookout at the moment for moon-related material to pass on to Tim for his [&#8216;golf on the moon&#8217; project][7]: clearly he&#8217;s going to have to deal with his fear of flying first.
 
 And just because this is doing the rounds today, is very funny and brilliantly executed: [what if Microsoft redesigned the iPod packaging?][8]

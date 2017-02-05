@@ -1,5 +1,6 @@
 ---
 title: Mac the Knife
+date: "2004-03-31T08:13:34Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/03/31/mac-the-knife/

@@ -1,5 +1,6 @@
 ---
 title: 'Maeda&#8217;s Desktop Food images'
+date: "2004-07-03T07:58:00Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/07/03/maedas-desktop-food-images/

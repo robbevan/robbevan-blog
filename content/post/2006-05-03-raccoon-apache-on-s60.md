@@ -1,5 +1,6 @@
 ---
 title: 'Raccoon: Apache on S60'
+date: "2006-05-03T20:50:17Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/05/03/raccoon-apache-on-s60/
@@ -17,7 +18,7 @@ Here&#8217;s Apache running on my [N70][3].
 
 From the Read Me:
 
-> Raccoon consists of two parts: a Symbian port of the Apache httpd webserver and a &#8220;connector&#8221; that together with a gateway provides a mobile phone with a global name in the operator networks of today. In short, you can now host a website on your mobile phone that is accessible from any web browser on the Internet. 
+> Raccoon consists of two parts: a Symbian port of the Apache httpd webserver and a &#8220;connector&#8221; that together with a gateway provides a mobile phone with a global name in the operator networks of today. In short, you can now host a website on your mobile phone that is accessible from any web browser on the Internet.
 
 There is a lot of (demo) functionality to explore: &#8220;there are custom modules for accessing the core functionality of the phone &#8211; camera, contacts, favourites, log and messages &#8211; and modules for sending instant and inbox messages to the phone, and a module for finding mobile websites in the proximity&#8221;.
 

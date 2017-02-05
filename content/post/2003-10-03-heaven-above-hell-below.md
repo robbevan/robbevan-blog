@@ -1,5 +1,6 @@
 ---
 title: Heaven Above, Hell Below
+date: "2003-10-03T18:05:00Z"
 author: Rob Bevan
 layout: post
 permalink: /2003/10/03/heaven-above-hell-below/

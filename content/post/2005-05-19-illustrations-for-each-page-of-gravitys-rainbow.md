@@ -1,5 +1,6 @@
 ---
 title: 'Illustrations for each page of Gravity&#8217;s Rainbow'
+date: "2005-05-19T21:41:57Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/05/19/illustrations-for-each-page-of-gravitys-rainbow/

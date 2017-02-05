@@ -1,5 +1,6 @@
 ---
 title: Comment using the Skype API
+date: "2005-11-12T18:49:19Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/11/12/using-the-skype-api/

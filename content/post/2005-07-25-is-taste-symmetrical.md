@@ -1,5 +1,6 @@
 ---
 title: Is taste symmetrical?
+date: "2005-07-25T13:22:54Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/07/25/is-taste-symmetrical/

@@ -1,5 +1,6 @@
 ---
 title: 'PlayTime: Playing with Pictures'
+date: "2006-11-22T10:27:23Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/11/22/playtime-playing-with-pictures/

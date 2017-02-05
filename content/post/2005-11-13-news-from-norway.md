@@ -1,8 +1,9 @@
 ---
 title: News from Norway
+date: "2005-11-13T08:59:34Z"
 author: Rob Bevan
 layout: post
-permalink: /2005/11/13/news-from-norway-2/
+permalink: /2005/11/13/news-from-norway/
 categories:
   - del.icio.us
   - Links
@@ -20,7 +21,7 @@ In the first in an occasional series of &#8216;linked links&#8217; and by way of
       A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.aftenposten.no/english/local/article1125479.ece"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif" class="favicon" alt="" width="16" height="16" />Aker river runs white</a>
@@ -29,7 +30,7 @@ In the first in an occasional series of &#8216;linked links&#8217; and by way of
       A mishap involving the delivery of paint in downtown Oslo on Friday left the River Aker colored an eerie shade of white. (Picture)
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.aftenposten.no/english/local/article1142226.ece"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif" class="favicon" alt="" width="16" height="16" />Tarantula no toy</a>
@@ -38,7 +39,7 @@ In the first in an occasional series of &#8216;linked links&#8217; and by way of
       An escaped tarantula wandered around a shopping center for at least two weeks before shocked employees finally reacted.
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.aftenposten.no/english/local/article1148474.ece"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif" class="favicon" alt="" width="16" height="16" />One shot, two moose</a>
@@ -47,7 +48,7 @@ In the first in an occasional series of &#8216;linked links&#8217; and by way of
       A hunter in Troms in northern Norway could not believe his eyes when he saw the result of a single shot.
     </li>
   </ul>
-  
+
   <ul class="link">
     <li class="description">
       <a href="http://www.aftenposten.no/english/local/article1148570.ece"><img src="http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif" class="favicon" alt="" width="16" height="16" />Carnivorous lizard in toilet</a>

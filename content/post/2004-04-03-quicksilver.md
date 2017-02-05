@@ -1,5 +1,6 @@
 ---
 title: Quicksilver
+date: "2004-04-03T12:40:00Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/04/03/quicksilver/
@@ -10,7 +11,7 @@ Just in time for the publication of [The Confusion][1], I finally finished Neal 
   <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0099410680/robbish-21"><img src="http://images-eu.amazon.com/images/P/0434008176.02._PE30_SCMZZZZZZZ_.jpg" /></a>
 </div>
 
-Stephenson claims that Qwghlm (a pair of islands situated off the northwestern coast of Britain, which also features in [Cryptonomicon][7]) is a &#8220;a wholly fictitious and fanciful invention&#8221;. I&#8217;m not so sure. I get spam from Qwghlm almost very day (Subject: re: what is the url? tmnsnv nc zkhojqa, Subject: cait concrrring mkuxy bznhboayzggmc, or how about this one: Subject: Re: *OLQJWQEM*, an olive press). My guess is it won&#8217;t be long before I get a Qwghlm-style 419 email detailing hitherto unknown Qwghlmian ancestors and promising a share of an enormous cache of Spanish gold, or perhaps the ruby pendant presented to my great-grandfather John Alexander Tonjoroff (a senator in the Bulgarian Sobranje) by the then Prince Ferdinand in about 1886, and supposedly a family heirloom ever since. 
+Stephenson claims that Qwghlm (a pair of islands situated off the northwestern coast of Britain, which also features in [Cryptonomicon][7]) is a &#8220;a wholly fictitious and fanciful invention&#8221;. I&#8217;m not so sure. I get spam from Qwghlm almost very day (Subject: re: what is the url? tmnsnv nc zkhojqa, Subject: cait concrrring mkuxy bznhboayzggmc, or how about this one: Subject: Re: *OLQJWQEM*, an olive press). My guess is it won&#8217;t be long before I get a Qwghlm-style 419 email detailing hitherto unknown Qwghlmian ancestors and promising a share of an enormous cache of Spanish gold, or perhaps the ruby pendant presented to my great-grandfather John Alexander Tonjoroff (a senator in the Bulgarian Sobranje) by the then Prince Ferdinand in about 1886, and supposedly a family heirloom ever since.
 
 I also only just discovered from the Quicksilver Metaweb that Stephenson was taking part in [Writers Week][8] at the festival in Adelaide whilst I was there in March (from the [Neil Stephenson Sightings page][9]). Sadly, I was probably in a pub somewhere nearby at the time. Or not so sadly.
 

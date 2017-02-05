@@ -1,5 +1,6 @@
 ---
 title: Plat du Jour live
+date: "2005-10-06T12:49:44Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/10/06/plat-du-jour-live/

@@ -1,5 +1,6 @@
 ---
 title: Opera announces the Opera Platform
+date: "2005-11-15T18:20:01Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/11/15/opera-releases-sdk-for-web-applications-on-mobile-phones/

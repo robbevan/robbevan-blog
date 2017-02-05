@@ -1,5 +1,6 @@
 ---
 title: Liquorice redux
+date: "2005-08-02T20:21:08Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/08/02/liquorice-redux/

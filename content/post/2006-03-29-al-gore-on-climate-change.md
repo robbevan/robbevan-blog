@@ -1,5 +1,6 @@
 ---
 title: Al Gore on Climate Change
+date: "2006-03-29T00:03:00Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/03/29/al-gore-on-climate-change/
@@ -14,7 +15,7 @@ Here&#8217;s Al Gore and The Climate Group&#8217;s Steve Howard standing beneath
 [<img src="http://static.flickr.com/35/119514736_5733136bce_m.jpg" alt="" class="flickr" style="float: none; padding: 0;" />][8]<p class="caption"">
 
 [Al Gore and The Climate Group&#8217;s Steve Howard at the bfi London IMAX][9]  
-<img src="http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Originally uploaded by [Rob Bevan][10].</p> 
+<img src="http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico" class="favicon" alt="" width="16" height="16" />Originally uploaded by [Rob Bevan][10].</p>
 The vertiginous, somewhat uncomfortable feeling you get sitting up close to an IMAX screen (the UK&#8217;s largest) really enhanced the images of huge ice shelves collapsing into the sea and <span class="hilite">all</span> the ensuing discussion of &#8216;tipping points&#8217;&#8230;
 
 (See also [The Climate Group&#8217;s coverage][11] of today&#8217;s event).

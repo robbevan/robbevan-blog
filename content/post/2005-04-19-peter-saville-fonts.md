@@ -1,5 +1,6 @@
 ---
 title: Peter Saville fonts
+date: "2005-04-19T05:48:21Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/04/19/peter-saville-fonts/

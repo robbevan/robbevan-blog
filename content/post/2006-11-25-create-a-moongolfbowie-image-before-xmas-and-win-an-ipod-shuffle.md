@@ -1,5 +1,6 @@
 ---
 title: Create a Moon/Golf/Bowie image before Xmas and win an iPod Shuffle
+date: "2006-11-25T08:39:00Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/11/25/create-a-moongolfbowie-image-before-xmas-and-win-an-ipod-shuffle/
@@ -10,7 +11,7 @@ categories:
   - Space
   - XPT
 ---
-To celebrate the success of the [PlayTime][1] event and continue Tim Wright&#8217;s mission to play [golf on the moon (with David Bowie)][2], XPT is offering a iPod Shuffle to the person who comes up with the best photographic simulation of a particular aspect of the the 30-year plan. 
+To celebrate the success of the [PlayTime][1] event and continue Tim Wright&#8217;s mission to play [golf on the moon (with David Bowie)][2], XPT is offering a iPod Shuffle to the person who comes up with the best photographic simulation of a particular aspect of the the 30-year plan.
 
 [<img style="border: 1px solid #ccc; margin: 0 0 10px 0; padding: 0;" src="http://robbevan.com/talks/playtime_competition.png" alt="moongolfbowiecompetition" />][3]
 

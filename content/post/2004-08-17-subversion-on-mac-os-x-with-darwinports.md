@@ -1,5 +1,6 @@
 ---
 title: Subversion on Mac OS X with DarwinPorts
+date: "2004-08-16T23:41:17Z"
 author: Rob Bevan
 layout: post
 permalink: /2004/08/17/subversion-on-mac-os-x-with-darwinports/
@@ -16,7 +17,7 @@ I put together a [Subversion startup item][6] (installed into /Library/StartUpIt
   <p>
     Update: Apple has now has a useful article <a href="http://developer.apple.com/tools/subversionxcode.html">Getting Control with Subversion and Xcode</a> detailing how to compile Subversion from source for use with the version of Apache2 shipped with Mac OS X Server, as well as how to install <a href="http://websvn.tigris.org/">WebSVN</a>, which offers as web-based &#8220;view onto your subversion repositories that&#8217;s been designed to reflect the Subversion methodology&#8221;. Although I&#8217;m not sure why an article about Subversion suggests downloading WebSVN rather than checking it out from the svn repository:
   </p>
-  
+
   <p>
     <code>svn co http://guest:guest@websvn.tigris.org/svn/websvn/tags/1.61/ websvn</code></div> <p class="technorati-tags">
       (Technorati tags: <a href="http://technorati.com/tag/subversion" rel="tag">subversion</a> | <a href="http://technorati.com/tag/darwinports" rel="tag">darwinports</a>)

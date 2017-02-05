@@ -1,5 +1,6 @@
 ---
 title: Push url from Mac to bluetooth phone
+date: "2005-12-17T06:28:29Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/12/17/push-url-from-mac-to-bluetooth-phone/
@@ -27,16 +28,16 @@ Google&#8217;s new [mobile version of Gmail][6] &#8211; and in Safari hit Cmd-% 
   Update: Interesting sidenote: seems you can use Google&#8217;s mobile gateway to convert your site (and any site you link to) to WML simply by pre-pending http://www.google.com/gwt/n?u= to your url:</p> <p>
     <strong style="padding: 2px; border: 1px solid #ccc;">http://www.google.com/gwt/n?u=http://blog.robbevan.com&_gwt_noimg=1</strong>
   </p>
-  
+
   <p>
     (via <a href="http://muness.blogspot.com/2005/12/google-wml-gateway.html">Mundane Essays</a>) </div> <p>
       See also <a href="http://www.impossibilities.com/blog/entry_blog-196.php">Robert Hall&#8217;s post</a> on how to use the Bluetooth Object Push Automator Action to enhance Flash Lite development.
     </p>
-    
+
     <p>
       Now <span class="hilite">all</span> I need to do is to figure out how to make Opera the default browser on my phone. Anyone know if this is possible?
     </p>
-    
+
     <p class="technorati-tags">
       (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/quicksilver" rel="tag">quicksilver</a> | <a href="http://technorati.com/tag/bluetoooth" rel="tag">bluetooth</a> | <a href="http://technorati.com/tag/applescript" rel="tag">applescript</a> | <a href="http://technorati.com/tag/automator" rel="tag">automator</a>)
     </p>

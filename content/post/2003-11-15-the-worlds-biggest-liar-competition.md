@@ -1,5 +1,6 @@
 ---
 title: 'The World&#8217;s Biggest Liar Competition'
+date: "2003-11-15T08:48:10Z"
 author: Rob Bevan
 layout: post
 permalink: /2003/11/15/the-worlds-biggest-liar-competition/

@@ -1,5 +1,6 @@
 ---
 title: Google Food Photo Blog
+date: "2006-02-05T08:54:45Z"
 author: Rob Bevan
 layout: post
 permalink: /2006/02/05/pipette-dressing-tomato-mozzarella-appetizer-google-style/

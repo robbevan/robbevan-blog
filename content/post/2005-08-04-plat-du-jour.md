@@ -1,5 +1,6 @@
 ---
 title: Plat du Jour
+date: "2005-08-03T23:11:35Z"
 author: Rob Bevan
 layout: post
 permalink: /2005/08/04/plat-du-jour/
