@@ -1,3 +1,18 @@
 baseurl = "https://robbevan.com"
 title = "Rob Bevan"
-languageCode = "en-us"
+languageCode = "en-GB"
+paginate = 5
+enableRobotsTXT = true
+googleAnalytics = ""
+SectionPagesMenu = "main"
+
+[params]
+  description = "Rob Bevan's blog"
+  author = "Rob Bevan"
+  show_menu = false
+  powered_by = true
+
+  [params.seo]
+    google_verify = ""
+    bing_verify = ""
+    yandex_verify = ""
