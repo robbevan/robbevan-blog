@@ -2,7 +2,6 @@
 title: Subversion on Mac OS X with DarwinPorts
 date: "2004-08-16T23:41:17Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/08/17/subversion-on-mac-os-x-with-darwinports/
 categories:
   - Software

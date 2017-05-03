@@ -2,7 +2,6 @@
 title: Giving .Mac the chop
 date: "2005-10-07T13:47:37Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/10/07/giving-mac-the-chop/
 categories:
   - Software

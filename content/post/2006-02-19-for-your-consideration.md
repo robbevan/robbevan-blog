@@ -2,7 +2,6 @@
 title: For Your Consideration
 date: "2006-02-19T18:18:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/02/19/for-your-consideration/
 categories:
   - Film

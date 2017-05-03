@@ -2,7 +2,6 @@
 title: The Future of Web Apps
 date: "2006-02-23T00:07:14Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/02/23/the-future-of-web-apps/
 categories:
   - Conferences

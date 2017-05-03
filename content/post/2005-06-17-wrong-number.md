@@ -2,7 +2,6 @@
 title: Wrong number
 date: "2005-06-17T14:53:30Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/06/17/wrong-number/
 categories:
   - Software

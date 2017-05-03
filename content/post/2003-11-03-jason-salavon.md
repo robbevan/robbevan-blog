@@ -2,7 +2,6 @@
 title: Jason Salavon
 date: "2003-11-03T15:22:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2003/11/03/jason-salavon/
 categories:
   - Art

@@ -2,7 +2,6 @@
 title: Naming things
 date: "2006-05-17T12:54:36Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/05/17/naming-things/
 categories:
   - Books

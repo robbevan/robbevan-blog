@@ -2,7 +2,6 @@
 title: The coldest spot on Earth
 author: Rob Bevan
 date: "2003-11-01T12:52:16Z"
-layout: post
 permalink: /2003/11/01/the-coldest-spot-on-earth/
 categories:
   - Cold

@@ -2,7 +2,6 @@
 title: Quicksilver
 date: "2004-04-03T12:40:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/04/03/quicksilver/
 ---
 Just in time for the publication of [The Confusion][1], I finally finished Neal Stephenson&#8217;s [Quicksilver][2]. It&#8217;s probably taken me longer to read it than Stephenson took to write it, even in long hand ([Colophon][3]: &#8220;The manuscript of The Baroque Cycle was written by hand on 100% cotton paper using three different fountain pens: a Waterman Gentleman, a Rotring, and a Jorg Hysek.&#8221;). I feel like I&#8217;ve been reading it in long *eye*, although the experience was much enhanced by [The Metaweb][4], a wiki set up by Stephenson and others for the book, especially the Quicksilver [annotations page][5]. If you&#8217;ve ever wondered how to pronounce [Qwghlm][6] (hint: begins with a tongue-click and ends with a swallowing noise) this is where to find out.

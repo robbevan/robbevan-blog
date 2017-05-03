@@ -2,7 +2,6 @@
 title: Berghaus knives scam
 date: "2004-09-16T17:19:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/09/16/berghaus-knives-scam/
 categories:
   - Knives

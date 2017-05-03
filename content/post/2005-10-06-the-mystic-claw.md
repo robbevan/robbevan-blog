@@ -2,7 +2,6 @@
 title: The mystic claw
 date: "2005-10-06T01:45:45Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/10/06/the-mystic-claw/
 categories:
   - Food and Drink

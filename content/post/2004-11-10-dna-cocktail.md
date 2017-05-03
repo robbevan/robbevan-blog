@@ -2,7 +2,6 @@
 title: DNA Cocktail
 date: "2004-11-10T08:43:11Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/11/10/dna-cocktail/
 categories:
   - Food and Drink

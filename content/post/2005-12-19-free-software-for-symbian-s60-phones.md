@@ -2,7 +2,6 @@
 title: Free software for Symbian S60 phones
 date: "2005-12-19T11:26:33Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/12/19/free-software-for-symbian-s60-phones/
 categories:
   - Links

@@ -2,7 +2,6 @@
 title: Hacking wild Sourdough
 date: "2004-07-06T08:14:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/07/06/hacking-wild-sourdough/
 categories:
   - Cooking

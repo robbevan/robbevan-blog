@@ -2,7 +2,6 @@
 title: More on semi-private del.icio.us bookmarks
 date: "2005-11-05T15:42:03Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/11/05/more-on-semi-private-delicious-bookmarks/
 categories:
   - del.icio.us

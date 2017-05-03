@@ -2,7 +2,6 @@
 title: Herding animals remotely
 date: "2004-06-11T12:26:43Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/06/11/herding-animals-remotely/
 categories:
   - Technology

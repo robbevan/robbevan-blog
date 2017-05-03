@@ -2,7 +2,6 @@
 title: Google Analytics
 date: "2005-11-14T12:38:47Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/11/14/google-analytics/
 categories:
   - Software

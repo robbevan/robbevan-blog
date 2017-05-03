@@ -2,7 +2,6 @@
 title: Rails 1.0 released
 date: "2005-12-13T23:09:27Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/12/13/rails-10-released/
 categories:
   - Software

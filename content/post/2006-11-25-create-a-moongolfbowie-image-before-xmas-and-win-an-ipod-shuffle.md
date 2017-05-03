@@ -2,7 +2,6 @@
 title: Create a Moon/Golf/Bowie image before Xmas and win an iPod Shuffle
 date: "2006-11-25T08:39:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/11/25/create-a-moongolfbowie-image-before-xmas-and-win-an-ipod-shuffle/
 categories:
   - Conferences

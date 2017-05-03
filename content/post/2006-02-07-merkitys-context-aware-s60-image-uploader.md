@@ -2,7 +2,6 @@
 title: 'Merkitys: context-aware S60 image uploader'
 date: "2006-02-07T14:06:51Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/02/07/merkitys-context-aware-s60-image-uploader/
 categories:
   - Mobile

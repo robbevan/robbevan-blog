@@ -2,7 +2,6 @@
 title: Digital camera woes
 author: Rob Bevan
 date: "2003-11-26T15:08:22Z"
-layout: post
 permalink: /2003/11/26/digital-camera-woes/
 categories:
   - Technology

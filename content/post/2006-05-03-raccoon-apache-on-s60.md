@@ -2,7 +2,6 @@
 title: 'Raccoon: Apache on S60'
 date: "2006-05-03T20:50:17Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/05/03/raccoon-apache-on-s60/
 categories:
   - Mobile

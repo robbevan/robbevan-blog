@@ -2,7 +2,6 @@
 title: As It Happens
 date: "2003-09-03T20:20:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2003/09/03/as-it-happens/
 categories:
   - Art

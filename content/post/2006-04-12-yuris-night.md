@@ -2,7 +2,6 @@
 title: 'Yuri&#8217;s Night: World Space Party April 12th'
 date: "2006-04-12T12:32:52Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/04/12/yuris-night/
 categories:
   - Space

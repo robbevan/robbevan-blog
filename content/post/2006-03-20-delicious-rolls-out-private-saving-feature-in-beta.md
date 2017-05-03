@@ -2,7 +2,6 @@
 title: del.icio.us rolls out private saving feature (in beta)
 date: "2006-03-20T06:31:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/03/20/delicious-rolls-out-private-saving-feature-in-beta/
 categories:
   - del.icio.us

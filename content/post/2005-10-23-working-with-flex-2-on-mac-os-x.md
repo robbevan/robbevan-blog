@@ -2,7 +2,6 @@
 title: Working with Flex 2 on Mac OS X
 date: "2005-10-23T18:13:33Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/10/23/working-with-flex-2-on-mac-os-x/
 categories:
   - Software

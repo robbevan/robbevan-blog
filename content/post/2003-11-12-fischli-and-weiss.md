@@ -2,7 +2,6 @@
 title: Fischli and Weiss
 date: "2003-11-12T13:00:03Z"
 author: Rob Bevan
-layout: post
 permalink: /2003/11/12/fischli-and-weiss/
 categories:
   - Art

@@ -2,7 +2,6 @@
 title: News from Norway
 date: "2005-11-13T08:59:34Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/11/13/news-from-norway/
 categories:
   - del.icio.us

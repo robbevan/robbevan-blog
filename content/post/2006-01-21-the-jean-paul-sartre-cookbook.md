@@ -2,7 +2,6 @@
 title: The Jean-Paul Sartre Cookbook
 date: "2006-01-21T07:15:52Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/01/21/the-jean-paul-sartre-cookbook/
 categories:
   - Cooking

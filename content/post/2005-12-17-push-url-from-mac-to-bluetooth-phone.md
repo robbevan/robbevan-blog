@@ -2,7 +2,6 @@
 title: Push url from Mac to bluetooth phone
 date: "2005-12-17T06:28:29Z"
 author: Rob Bevan
-layout: post
 permalink: /2005/12/17/push-url-from-mac-to-bluetooth-phone/
 categories:
   - Mobile

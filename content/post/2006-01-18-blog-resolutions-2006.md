@@ -2,7 +2,6 @@
 title: Blog Resolutions 2006
 date: "2006-01-18T11:14:40Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/01/18/blog-resolutions-2006/
 categories:
   - WordPress

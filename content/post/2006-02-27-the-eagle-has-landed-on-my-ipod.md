@@ -2,7 +2,6 @@
 title: The Eagle Has Landed on my iPod
 date: "2006-02-27T22:43:13Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/02/27/the-eagle-has-landed-on-my-ipod/
 categories:
   - iPod

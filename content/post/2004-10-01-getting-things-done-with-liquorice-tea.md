@@ -2,7 +2,6 @@
 title: Getting Things Done with liquorice tea
 date: "2004-10-01T09:28:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/10/01/getting-things-done-with-liquorice-tea/
 categories:
   - Food and Drink

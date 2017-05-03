@@ -2,7 +2,6 @@
 title: Al Gore on Climate Change
 date: "2006-03-29T00:03:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2006/03/29/al-gore-on-climate-change/
 categories:
   - Climate Change

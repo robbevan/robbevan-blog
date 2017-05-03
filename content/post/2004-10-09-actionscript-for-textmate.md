@@ -2,7 +2,6 @@
 title: ActionScript for TextMate
 date: "2004-10-09T08:19:09Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/10/09/actionscript-for-textmate/
 categories:
   - Software

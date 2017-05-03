@@ -2,7 +2,6 @@
 title: Spam poetry
 date: "2004-06-18T07:28:00Z"
 author: Rob Bevan
-layout: post
 permalink: /2004/06/18/spam-poetry/
 categories:
   - Spam
