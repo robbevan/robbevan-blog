@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/mobile/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Mobile on Rob Bevan</title>
+    <link>https://robbevan.com/categories/mobile/</link>
+    <description>Recent content in Mobile on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 03 May 2006 20:50:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Raccoon: Apache on S60</title>
@@ -14,28 +17,7 @@
       <pubDate>Wed, 03 May 2006 20:50:17 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-05-03-raccoon-apache-on-s60/</guid>
-      <description>&lt;p&gt;Nokia Research recently announced the Apache webserver had been ported to run on S60 phones (see &lt;a href=&#34;http://robbevan.com/blog/2006/01/21/nokia-ports-apache-to-s60/&#34;&gt;my earlier post&lt;/a&gt;). The plan had been to &amp;#8220;bring a full-fledged webserver to S60 and to make a webserver running on a mobile phone accessible from the Internet using any web browser&amp;#8221;. Now the client binary is &lt;a href=&#34;http://research.nokia.com/research/projects/mobile-web-server/index.html&#34;&gt;available for download&lt;/a&gt; and you can sign up for an account on Nokia&amp;#8217;s gateway and try this for yourself.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#8217;s Apache running on my &lt;a href=&#34;http://www.nokia.com/n70&#34;&gt;N70&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;border: 1px solid gray; float: none; margin-bottom: 10px; padding: 0;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/raccoon.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(I recently upgraded to the N70 from the 6630: I wasn&amp;#8217;t sure whether to wait for a S60 3rd Edition phone but in the end the 2 megapixel slide-and-shoot camera, the flash and larger memory won me over even if the tiny keyboard and &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt;-blue backlighting is a considerable step in the wrong direction, usability-wise).&lt;/p&gt;
-
-&lt;p&gt;From the Read Me:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Raccoon consists of two parts: a Symbian port of the Apache httpd webserver and a &amp;#8220;connector&amp;#8221; that together with a gateway provides a mobile phone with a global name in the operator networks of today. In short, you can now host a website on your mobile phone that is accessible from any web browser on the Internet.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There is a lot of (demo) functionality to explore: &amp;#8220;there are custom modules for accessing the core functionality of the phone &amp;#8211; camera, contacts, favourites, log and messages &amp;#8211; and modules for sending instant and inbox messages to the phone, and a module for finding mobile websites in the proximity&amp;#8221;.&lt;/p&gt;
-
-&lt;p&gt;Now that I&amp;#8217;ve got this up and running I guess I need to get to work on my [mobsite][4].&lt;/p&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://blogs.s60.com/tommi/2006/05/turn_your_s60_smartphone_into.html&#34;&gt;Tommi&amp;#8217;s S60 applications blog&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;[4]: &lt;a href=&#34;http://rob.bevan.guest.at.openlaboratory.net:2051/&#34;&gt;http://rob.bevan.guest.at.openlaboratory.net:2051/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
+      <description>Nokia Research recently announced the Apache webserver had been ported to run on S60 phones (see my earlier post). The plan had been to &amp;#8220;bring a full-fledged webserver to S60 and to make a webserver running on a mobile phone accessible from the Internet using any web browser&amp;#8221;. Now the client binary is available for download and you can sign up for an account on Nokia&amp;#8217;s gateway and try this for yourself.</description>
     </item>
     
     <item>
@@ -44,14 +26,7 @@
       <pubDate>Tue, 07 Feb 2006 14:06:51 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</guid>
-      <description>&lt;p&gt;Like &lt;a href=&#34;http://www.shozu.com&#34;&gt;Shozu&lt;/a&gt;, new S60 app &lt;a href=&#34;http://meaning.3xi.org/&#34;&gt;Merkitys&lt;/a&gt; (Finnish for &amp;#8216;Meaning&amp;#8217;) allows easy upload of images from your phone to &lt;a href=&#34;http://flickr.com/photos/robbevan/&#34;&gt;Flickr&lt;/a&gt; (or &lt;a href=&#34;http://meaning.3xi.org/documents/Help/Setting+up+your+own+server&#34;&gt;your own server&lt;/a&gt;). Merkitys however also automatically adds &amp;#8216;context&amp;#8217;, which includes location (i.e. GSM location information: Mobile Country Code, Mobile Network Code, Location Area Code and Cell ID, but also GPS data if you also have a supported receiver) as well as the usual user-defined description and tags etc., and &amp;#8211; curiously &amp;#8211; the addresses of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; bluetooth devices in the vicinity. Although this is only the first beta release, it &lt;a href=&#34;http://flickr.com/photos/robbevan/96727185/&#34;&gt;worked flawlessly&lt;/a&gt; for me. The source is also &lt;a href=&#34;http://meaning.3xi.org/download/source/&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://alindh.iki.fi/2006/02/07/now-this-is-a-cool-application/&#34;&gt;the mobile experience&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/merkitys&#34; rel=&#34;tag&#34;&gt;merkitys&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/flickr&#34; rel=&#34;tag&#34;&gt;flickr&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Like Shozu, new S60 app Merkitys (Finnish for &amp;#8216;Meaning&amp;#8217;) allows easy upload of images from your phone to Flickr (or your own server). Merkitys however also automatically adds &amp;#8216;context&amp;#8217;, which includes location (i.e. GSM location information: Mobile Country Code, Mobile Network Code, Location Area Code and Cell ID, but also GPS data if you also have a supported receiver) as well as the usual user-defined description and tags etc., and &amp;#8211; curiously &amp;#8211; the addresses of all bluetooth devices in the vicinity.</description>
     </item>
     
     <item>
@@ -60,20 +35,9 @@
       <pubDate>Sat, 21 Jan 2006 07:42:12 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-01-21-nokia-ports-apache-to-s60/</guid>
-      <description>&lt;p&gt;In a first step towards allowing users to maintain &amp;#8220;personal mobile websites&amp;#8221;, Nokia research has announced it has &lt;a href=&#34;http://research.nokia.com/research/software/mobile-web-server/index.html&#34;&gt;ported Apache httpd and mod_python to the S60/Symbian platform&lt;/a&gt;. (The code is so far only free for use within Nokia.)&lt;/p&gt;
-
-&lt;p&gt;My head is still reeling from the implications of this last paragraph, which seems completely farfetched and yet perfectly obvious at the same time:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We believe that being able to run a globally accessible personal website on your mobile phone has the potential of changing the Internet landscape. If every mobile phone or even every smartphone initially, is equipped with a webserver then very quickly most websites will reside on mobile phones. That is bound to have some impact not only on how mobile phones are perceived but also on how the web evolves.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://www.eriksmartt.com/blog/archives/218&#34;&gt;eriksmartt.com&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/apache&#34; rel=&#34;tag&#34;&gt;apache&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/python&#34; rel=&#34;tag&#34;&gt;python&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>In a first step towards allowing users to maintain &amp;#8220;personal mobile websites&amp;#8221;, Nokia research has announced it has ported Apache httpd and mod_python to the S60/Symbian platform. (The code is so far only free for use within Nokia.)
+My head is still reeling from the implications of this last paragraph, which seems completely farfetched and yet perfectly obvious at the same time:
+ We believe that being able to run a globally accessible personal website on your mobile phone has the potential of changing the Internet landscape.</description>
     </item>
     
     <item>
@@ -82,63 +46,8 @@
       <pubDate>Mon, 19 Dec 2005 11:26:33 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
-      <description>&lt;p&gt;Whilst searching the Opera Mobile forums, I came across &lt;a href=&#34;http://my.opera.com/community/forums/topic.dml?id=112098&#34;&gt;this fairly comprehensive list&lt;/a&gt; of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.&lt;/p&gt;
-
-&lt;p&gt;Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 &lt;a href=&#34;http://www.macromedia.com/devnet/devices/articles/flashlite_v2_preview.html&#34;&gt;announced back in November&lt;/a&gt;, you&amp;#8217;ll also be excited to hear from &lt;a href=&#34;http://www.macromedia.com/cfusion/webforums/forum/messageview.cfm?catid=472&amp;amp;threadid=1085444&amp;amp;enterthread=y&#34;&gt;this official forum post&lt;/a&gt; that this will be available to developers from &lt;a href=&#34;http://labs.macromedia.com/&#34;&gt;Macromedia Labs&lt;/a&gt; in January.&lt;/p&gt;
-
-&lt;p&gt;Update: Lost my phone recently. Here&amp;#8217;s my list of the first five essential S60 apps I re-installed:&lt;/p&gt;
-
-&lt;div class=&#34;links&#34;&gt;
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.apple.com/macosx/features/isync/&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.apple.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;iSync Agent&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      Restore contacts, calendar and todos the Mac way. Remember the days when you had to do this by hand?
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.shozu.com&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.shozu.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Shozu&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      Almost certainly the best way to upload images from your phone to &lt;a href=&#34;http://flickr.com/photos/robbevan/&#34;&gt;Flickr&lt;/a&gt;.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.salling.com/&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.salling.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Salling Clicker&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      It&amp;#8217;s still a great party trick to be able to control iTunes remotely from your phone.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.opera.com/products/mobile/&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.opera.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Opera Mobile&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      The &amp;#8220;fastest, most secure web browser available for S60 handsets&amp;#8221;. My browser of choice (at least until Nokia&amp;#8217;s new &lt;a href=&#34;http://opensource.nokia.com/projects/S60browser/&#34;&gt;Safari-based browser&lt;/a&gt; becomes available).
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.forum.nokia.com/main/0,,034-821,00.html&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.forum.nokia.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Python for Series 60&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      Rapid application development and prototyping, and the ability to create stand-alone Series 60 applications written in Python. Two scripts I use a lot: &lt;a href=&#34;http://anil.recoil.org/&#34;&gt;Anil Madhavapeddy&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://anil.recoil.org/projects/imgcollect-1.0.py&#34;&gt;imgcollect.py&lt;/a&gt;, a neat way to push &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; your phone&amp;#8217;s images to your laptop and &lt;a href=&#34;http://korakot.stumbleupon.com/&#34;&gt;korakot&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://discussion.forum.nokia.com/forum/showthread.php?threadid=63694&#34;&gt;s60_gmap.py&lt;/a&gt; (see also korakot&amp;#8217;s library of &lt;a href=&#34;http://www.bigbold.com/snippets/user/korakot/tag/series60&#34;&gt;snippets&lt;/a&gt;).
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/opera&#34; rel=&#34;tag&#34;&gt;opera&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/flash-lite&#34; rel=&#34;tag&#34;&gt;flash-lite&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/isync&#34; rel=&#34;tag&#34;&gt;isync&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/shozu&#34; rel=&#34;tag&#34;&gt;shozu&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/flickr&#34; rel=&#34;tag&#34;&gt;flickr&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/salling-clicker&#34; rel=&#34;tag&#34;&gt;salling-clicker&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/python&#34; rel=&#34;tag&#34;&gt;python&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Whilst searching the Opera Mobile forums, I came across this fairly comprehensive list of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.
+Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 announced back in November, you&amp;#8217;ll also be excited to hear from this official forum post that this will be available to developers from Macromedia Labs in January.</description>
     </item>
     
     <item>
@@ -147,41 +56,8 @@
       <pubDate>Sat, 17 Dec 2005 06:28:29 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</guid>
-      <description>&lt;p&gt;Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a &lt;a href=&#34;http://robbevan.com/blog/2005/04/27/lifeblog/&#34;&gt;Nokia 6630&lt;/a&gt;). So I knocked up a simple solution using &lt;a href=&#34;http://quicksilver.blacktree.com/&#34;&gt;QuickSilver&lt;/a&gt; and Framework Labs&amp;#8217; &lt;a href=&#34;http://www.frameworklabs.de/bluepush.html&#34;&gt;Bluetooth Object Push Automator Action&lt;/a&gt; stuck together with a little AppleScript.&lt;/p&gt;
-
-&lt;p&gt;After you&amp;#8217;ve installed the action, create an &lt;a href=&#34;http://www.apple.com/macosx/features/automator/&#34;&gt;Automator&lt;/a&gt; workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&amp;#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone. (Anything you drop on this app will now get pushed to your phone.)&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;padding-bottom: 10px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/bluetooth-push-automator-action.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then copy &lt;a href=&#34;http://robbevan.com/blog/wp-content/uploads/Push2Phone.zip&#34;&gt;this AppleScript&lt;/a&gt; for QuickSilver to &lt;code&gt;~/Library/Application Support/QuickSilver/Actions&lt;/code&gt; and &lt;strong&gt;be sure to modify the tmp_file_path and app_path properties in the script for your environment&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;padding: 0 10px 16px 0;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/push2phone-6630-screenshot.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you should be able to select a url &amp;#8211; like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong style=&#34;padding: 2px; border: 1px solid #ccc;&#34;&gt;&lt;a href=&#34;http://m.gmail.com&#34;&gt;http://m.gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Google&amp;#8217;s new &lt;a href=&#34;http://www.google.com/glm/gmail&#34;&gt;mobile version of Gmail&lt;/a&gt; &amp;#8211; and in Safari hit Cmd-% to send this to QuickSilver (in Firefox you&amp;#8217;ll need to cut and paste) and then type &amp;#8216;pu&amp;#8217; or similar to forward it to your phone.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;update&#34;&gt;
-  Update: Interesting sidenote: seems you can use Google&amp;#8217;s mobile gateway to convert your site (and any site you link to) to WML simply by pre-pending &lt;a href=&#34;http://www.google.com/gwt/n?u=&#34;&gt;http://www.google.com/gwt/n?u=&lt;/a&gt; to your url:&lt;/p&gt; &lt;p&gt;
-    &lt;strong style=&#34;padding: 2px; border: 1px solid #ccc;&#34;&gt;&lt;a href=&#34;http://www.google.com/gwt/n?u=http://blog.robbevan.com&amp;amp;_gwt_noimg=1&#34;&gt;http://www.google.com/gwt/n?u=http://blog.robbevan.com&amp;amp;_gwt_noimg=1&lt;/a&gt;&lt;/strong&gt;
-  &lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;p&gt;
-    (via &lt;a href=&#34;http://muness.blogspot.com/2005/12/google-wml-gateway.html&#34;&gt;Mundane Essays&lt;/a&gt;) &lt;/div&gt; &lt;p&gt;
-      See also &lt;a href=&#34;http://www.impossibilities.com/blog/entry_blog-196.php&#34;&gt;Robert Hall&amp;#8217;s post&lt;/a&gt; on how to use the Bluetooth Object Push Automator Action to enhance Flash Lite development.
-    &lt;/p&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;p&amp;gt;
-  Now &amp;lt;span class=&amp;quot;hilite&amp;quot;&amp;gt;all&amp;lt;/span&amp;gt; I need to do is to figure out how to make Opera the default browser on my phone. Anyone know if this is possible?
-&amp;lt;/p&amp;gt;
-
-&amp;lt;p class=&amp;quot;technorati-tags&amp;quot;&amp;gt;
-  (&amp;lt;img style=&amp;quot;float: none; padding: 2px 2px 0 2px;&amp;quot;  src=&amp;quot;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; Technorati tags: &amp;lt;a href=&amp;quot;http://technorati.com/tag/quicksilver&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;quicksilver&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/bluetoooth&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;bluetooth&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/applescript&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;applescript&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/automator&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;automator&amp;lt;/a&amp;gt;)
-&amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a Nokia 6630). So I knocked up a simple solution using QuickSilver and Framework Labs&amp;#8217; Bluetooth Object Push Automator Action stuck together with a little AppleScript.
+After you&amp;#8217;ve installed the action, create an Automator workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&amp;#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone.</description>
     </item>
     
     <item>
@@ -190,22 +66,8 @@
       <pubDate>Tue, 15 Nov 2005 18:20:01 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.opera.com/products/mobile/platform/&#34;&gt;The Opera Platform&lt;/a&gt;: is this the &lt;a href=&#34;http://www.konfabulator.com/&#34;&gt;Konfabulator&lt;/a&gt; for mobile?&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The Opera Platform&amp;#8482; SDK is an SDK for developing rich client-side web applications on mobile devices such as Symbian Series60 phones (MS Smartphone support coming soon). With the Opera Platform&amp;#8482; Application Player, developers can create applications that interact with the phone&amp;#8217;s native functionality, such as the phone&amp;#8217;s address book, calendar or message store. In addition, developers can, using Ajax technology, interact directly with a multitude of web services, both home-grown and pre-existing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;update&#34;&gt;
-  &lt;p&gt;
-    In other Opera-related news, if you&amp;#8217;re not already using &lt;a href=&#34;http://www.opera.com/products/mobile/&#34;&gt;Opera for Mobile&lt;/a&gt;, &lt;a href=&#34;http://www.opera.com/products/mobile/operamini/&#34;&gt;Opera Mini&lt;/a&gt; (previously only available for free to users in Nordic countries) is now &lt;a href=&#34;http://mocoblog.com/2005/11/09/opera-mini-now-freely-available-for-all-the-world-software/&#34;&gt;freely available&lt;/a&gt; for download.
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (Technorati tags: &lt;a href=&#34;http://technorati.com/tag/opera&#34; rel=&#34;tag&#34;&gt;opera&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/ajax&#34; rel=&#34;tag&#34;&gt;ajax&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>The Opera Platform: is this the Konfabulator for mobile?
+ The Opera Platform&amp;#8482; SDK is an SDK for developing rich client-side web applications on mobile devices such as Symbian Series60 phones (MS Smartphone support coming soon). With the Opera Platform&amp;#8482; Application Player, developers can create applications that interact with the phone&amp;#8217;s native functionality, such as the phone&amp;#8217;s address book, calendar or message store. In addition, developers can, using Ajax technology, interact directly with a multitude of web services, both home-grown and pre-existing.</description>
     </item>
     
   </channel>

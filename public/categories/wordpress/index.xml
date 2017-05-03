@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/wordpress/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Wordpress on Rob Bevan</title>
+    <link>https://robbevan.com/categories/wordpress/</link>
+    <description>Recent content in Wordpress on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 18 Jan 2006 11:14:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Blog Resolutions 2006</title>
@@ -14,27 +17,9 @@
       <pubDate>Wed, 18 Jan 2006 11:14:40 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-01-18-blog-resolutions-2006/</guid>
-      <description>&lt;p&gt;Apart from the obvious need/desire to post more often, here&amp;#8217;s a bunch of improvements I want to make to this blog in the coming weeks. I was hoping to get some of this done during &lt;a href=&#34;http://www.ketchupweek.com/&#34;&gt;&amp;#8216;ketchup&amp;#8217; week&lt;/a&gt;, but family, friends and a &lt;a href=&#34;http://www.variety.com/ac2006_article/VR1117935157?nav=bafta&#34;&gt;bumper crop of BAFTA screeners&lt;/a&gt; were welcome distractions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strike&gt;&lt;strong&gt;&lt;a href=&#34;http://wordpress.org/download/&#34;&gt;Upgrade to WordPress 2.0.1&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-I&amp;#8217;ve been localhostin&amp;#8217; the beta for some time, and keeping up with it on &lt;a href=&#34;http://wordpress.com/&#34;&gt;wordpress.com&lt;/a&gt;, but now it and &lt;a href=&#34;http://orderedlist.com/&#34;&gt;Steve Smith&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://orderedlist.com/wordpress-plugins/wp-tiger-administration/&#34;&gt;Tiger Admin plugin&lt;/a&gt; are out and there are fixes/workarounds for the WP 2.0-MarsEdit 1.1 issues it&amp;#8217;s time to upgrade this install.&lt;/strike&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Categorise posts better&lt;/strong&gt;&lt;br /&gt;
-Been holding off on a complete reorganisation of categories until I can take advantage of the new &amp;#8216;Ajax Category Addition&amp;#8217; feature of WP 2.0. A few top level categories, with more obviously separate feeds, and many more tag-like secondary ones are what&amp;#8217;s needed, along with &lt;a href=&#34;http://www.neato.co.nz/ultimate-tag-warrior/&#34;&gt;improved&lt;/a&gt; &lt;a href=&#34;http://www.hitormiss.org/projects/weighted-categories/&#34;&gt;ways&lt;/a&gt; to navigate these.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Release some WP plugins&lt;/strong&gt;&lt;br /&gt;
-I&amp;#8217;ve written a couple of plugins for use on this site and I have some others in development. First release will likely be the one I&amp;#8217;ve been using to display &lt;a href=&#34;http://en.wikipedia.org/wiki/Favicon&#34;&gt;favicons&lt;/a&gt; in my &lt;a href=&#34;http://robbevan.com/blog/category/links/&#34;&gt;Link-categorised posts&lt;/a&gt;. Perhaps I&amp;#8217;ll use my so far dormant &lt;a href=&#34;http://robbevan.wordpress.com&#34;&gt;wordpress.com site&lt;/a&gt; for plugin-related announcements.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Add new sections and links&lt;/strong&gt;&lt;br /&gt;
-Aside from adding some other site sections (about, contact, the usual stuff, plus a few extras), I want to add a whole bunch of links by publishing my list of &lt;a href=&#34;http://ranchero.com/netnewswire/&#34;&gt;NetNewsWire&lt;/a&gt; subscriptions, probably using &lt;a href=&#34;http://www.yabfog.com/wp/opml-renderer/&#34;&gt;this OMPL renderer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Get tumbling&lt;/strong&gt;&lt;br /&gt;
-I&amp;#8217;d like to get into the habit of &amp;#8220;quick and dirty stream of consciousness&amp;#8221; &lt;a href=&#34;http://www.kottke.org/05/10/tumblelogs&#34;&gt;tumblelog-style&lt;/a&gt; posting, either here or &lt;a href=&#34;http://tumble.robbevan.net/&#34;&gt;elsewhere&lt;/a&gt;. If you&amp;#8217;re going to do this well it obviously requires real commitment, very streamlined processes and clear differentiation from the &lt;a href=&#34;http://chneukirchen.org/anarchaia&#34;&gt;best&lt;/a&gt; &lt;a href=&#34;http://project.ioni.st/&#34;&gt;examples&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/wordpress&#34; rel=&#34;tag&#34;&gt;wordpress&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Apart from the obvious need/desire to post more often, here&amp;#8217;s a bunch of improvements I want to make to this blog in the coming weeks. I was hoping to get some of this done during &amp;#8216;ketchup&amp;#8217; week, but family, friends and a bumper crop of BAFTA screeners were welcome distractions.
+Upgrade to WordPress 2.0.1
+I&amp;#8217;ve been localhostin&amp;#8217; the beta for some time, and keeping up with it on wordpress.com, but now it and Steve Smith&amp;#8217;s Tiger Admin plugin are out and there are fixes/workarounds for the WP 2.</description>
     </item>
     
   </channel>

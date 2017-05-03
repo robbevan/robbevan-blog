@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/cold/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Cold on Rob Bevan</title>
+    <link>https://robbevan.com/categories/cold/</link>
+    <description>Recent content in Cold on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/cold/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 19 Feb 2006 20:19:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/cold/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Live Winter Olympics FilmLoop photocast</title>
@@ -14,12 +17,8 @@
       <pubDate>Sun, 19 Feb 2006 20:19:26 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-19-live-winter-olympics-filmloop-photocast/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://invite.filmloop.com/x?E18CiSXWtAUmnZvg2Y8DPVzTSuKlxixI&#34;&gt;&lt;img style=&#34;float: none; padding-bottom: 10px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/torino-filmloop.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;These images from today&amp;#8217;s &lt;a href=&#34;http://www.torino2006.org/ENG/IDF/CC/C73C_CCM410101.html&#34;&gt;4x10km Men&amp;#8217;s relay&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;http://filmloop.com/whatis.html&#34;&gt;FilmLoop&lt;/a&gt; is a free photo broadcasting (&amp;#8220;photocasting&amp;#8221;) network that presents pictures in a &amp;#8220;Loop&amp;#8221; player on your desktop.)&lt;/p&gt;
-</description>
+      <description>These images from today&amp;#8217;s 4x10km Men&amp;#8217;s relay.
+(FilmLoop is a free photo broadcasting (&amp;#8220;photocasting&amp;#8221;) network that presents pictures in a &amp;#8220;Loop&amp;#8221; player on your desktop.)</description>
     </item>
     
     <item>
@@ -28,16 +27,8 @@
       <pubDate>Fri, 27 Jan 2006 07:23:10 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-01-27-visiting-antarctica-via-google-earth/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.polarview.org/&#34;&gt;PolarView&lt;/a&gt; have released &lt;a href=&#34;http://www.seaice.dk/polarview/google.s/PolarView_Antarctic_Node.kmz&#34;&gt;a .kmz file&lt;/a&gt; for &lt;a href=&#34;http://earth.google.com/&#34;&gt;Google Earth&lt;/a&gt; providing more &lt;a href=&#34;http://www.seaice.dk/polarview/google.s/&#34;&gt;Antarctic data&lt;/a&gt;, including the location of drift buoys, larger identified icebergs, selected research vessels and research stations, as well as some higher resolution imagery. Naturally I was drawn to &lt;a href=&#34;http://npolar.no/geonet/items-logistics/working_Antarctica.html&#34;&gt;Troll&lt;/a&gt;, the Norwegian base on Queen Maud Land (named by a popular vote of Norwegian schoolchildren).&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;float: none; padding-bottom: 10px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/troll.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Who knows whether I&amp;#8217;ll ever &lt;a href=&#34;http://www.43things.com/things/people/4279&#34;&gt;make it to Antarctica&lt;/a&gt; for real, but in the meantime my name at least will be heading &lt;a href=&#34;http://www.south.com/&#34;&gt;SOUTH&lt;/a&gt; with the Ben Saunders&amp;#8217; &lt;a href=&#34;http://www.bensaunders.com/south/images/names.jpg&#34;&gt;sledge&lt;/a&gt;. I&amp;#8217;ve just purchased &lt;a href=&#34;http://www.bensaunders.com/south/own.htm&#34;&gt;mile 897&lt;/a&gt; of Ben and team-mate Tony Haile&amp;#8217;s 1800-mile trip to the pole and back.&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/antartica&#34; rel=&#34;tag&#34;&gt;antartica&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/google-earth&#34; rel=&#34;tag&#34;&gt;google-earth&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/south&#34; rel=&#34;tag&#34;&gt;south&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>PolarView have released a .kmz file for Google Earth providing more Antarctic data, including the location of drift buoys, larger identified icebergs, selected research vessels and research stations, as well as some higher resolution imagery. Naturally I was drawn to Troll, the Norwegian base on Queen Maud Land (named by a popular vote of Norwegian schoolchildren).
+Who knows whether I&amp;#8217;ll ever make it to Antarctica for real, but in the meantime my name at least will be heading SOUTH with the Ben Saunders&amp;#8217; sledge.</description>
     </item>
     
     <item>
@@ -46,12 +37,9 @@
       <pubDate>Sat, 01 Nov 2003 12:52:16 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2003-11-01-the-coldest-spot-on-earth/</guid>
-      <description>&lt;p&gt;Whilst doing some research on Food Science and on Nicholas Kurti in particular, the so-called &amp;#8216;father of Molecular Gastronomy&amp;#8217;, I discovered that &lt;a href=&#34;http://www.admin.ox.ac.uk/po/020425b.shtml&#34;&gt;Oxford&amp;#8217;s Science Area&lt;/a&gt;, where Kurti worked and not far from where I live, is renowned for once having been the &amp;#8216;coldest spot on Earth&amp;#8217;: &amp;#8220;Using demagnetisation of nuclear alignment, Professor Kurti was able to create temperatures of a millionth of a degree above absolute zero.&amp;#8221;&lt;/p&gt;
-
-&lt;p&gt;Cool.&lt;/p&gt;
-
-&lt;p&gt;Kurti&amp;#8217;s interest in what he called &amp;#8216;gastronomic physics&amp;#8217; also led him to invent an &amp;#8216;&lt;a href=&#34;http://www.ansible.demon.co.uk/writing/platens2.html#bakedalaska&#34;&gt;Inverted Baked Alaska&lt;/a&gt;&amp;#8216; which consisted of frozen meringue filled with piping hot apricot puree, described as &amp;#8216;sticking a spoon into Iceland and getting an eyeful of magma&amp;#8217;. Here is Heston Blumenthal&amp;#8217;s recent update of Kurti&amp;#8217;s original recipe in the Guardian: &lt;a href=&#34;http://shopping.guardian.co.uk/electrical/story/0,1587,1067129,00.html&#34;&gt;Nicholas Kurti&amp;#8217;s stuffed profiteroles&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Whilst doing some research on Food Science and on Nicholas Kurti in particular, the so-called &amp;#8216;father of Molecular Gastronomy&amp;#8217;, I discovered that Oxford&amp;#8217;s Science Area, where Kurti worked and not far from where I live, is renowned for once having been the &amp;#8216;coldest spot on Earth&amp;#8217;: &amp;#8220;Using demagnetisation of nuclear alignment, Professor Kurti was able to create temperatures of a millionth of a degree above absolute zero.&amp;#8221;
+Cool.
+Kurti&amp;#8217;s interest in what he called &amp;#8216;gastronomic physics&amp;#8217; also led him to invent an &amp;#8216;Inverted Baked Alaska&amp;#8216; which consisted of frozen meringue filled with piping hot apricot puree, described as &amp;#8216;sticking a spoon into Iceland and getting an eyeful of magma&amp;#8217;.</description>
     </item>
     
   </channel>

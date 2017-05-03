@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/science/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Science on Rob Bevan</title>
+    <link>https://robbevan.com/categories/science/</link>
+    <description>Recent content in Science on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 25 Jul 2005 13:22:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Is taste symmetrical?</title>
@@ -14,10 +17,8 @@
       <pubDate>Mon, 25 Jul 2005 13:22:54 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-07-25-is-taste-symmetrical/</guid>
-      <description>&lt;p&gt;Overheard on a train (two women chatting about lunch): &amp;#8220;Is taste symmetrical?&amp;#8221;, meaning &lt;a href=&#34;http://chemse.oxfordjournals.org/cgi/content/full/26/7/875&#34;&gt;Are Human Taste Thresholds Similar on the Right and Left Sides of the Tongue?&lt;/a&gt; Basically, the answer is &lt;strong&gt;yes&lt;/strong&gt;: &amp;#8220;taste threshold sensitivity is equivalent on the left and right anterior tongue for most individuals.&amp;#8221;&lt;/p&gt;
-
-&lt;p&gt;And whilst we&amp;#8217;re on the subject of eavesdropping, check out &lt;a href=&#34;http://overheardinnewyork.com/&#34;&gt;Overheard in New York&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Overheard on a train (two women chatting about lunch): &amp;#8220;Is taste symmetrical?&amp;#8221;, meaning Are Human Taste Thresholds Similar on the Right and Left Sides of the Tongue? Basically, the answer is yes: &amp;#8220;taste threshold sensitivity is equivalent on the left and right anterior tongue for most individuals.&amp;#8221;
+And whilst we&amp;#8217;re on the subject of eavesdropping, check out Overheard in New York.</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Wed, 10 Nov 2004 08:43:11 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2004-11-10-dna-cocktail/</guid>
-      <description>&lt;p&gt;One of the highlights for me at the &lt;a href=&#34;http://www.pallabs.org/achievements.php&#34;&gt;PAL Digital Science Lab&lt;/a&gt; for &lt;a href=&#34;http://www.wellcome.ac.uk&#34;&gt;Wellcome&lt;/a&gt;/&lt;a href=&#34;http://www.nesta.org.uk&#34;&gt;NESTA&lt;/a&gt; I attended recently was an evening spent sampling a couple of Dean Maddon&amp;#8217;s &lt;a href=&#34;http://www.ncbe.reading.ac.uk/DNA50/cocktail.html&#34;&gt;cocktails of nucleic acids&lt;/a&gt;. I&amp;#8217;m pleased to note that &lt;a href=&#34;http://www.ncbe.reading.ac.uk/DNA50/PDF/DNActl.pdf&#34;&gt;the recipe&lt;/a&gt; is available online. Best served in a test tube, obviously.&lt;/p&gt;
-</description>
+      <description>One of the highlights for me at the PAL Digital Science Lab for Wellcome/NESTA I attended recently was an evening spent sampling a couple of Dean Maddon&amp;#8217;s cocktails of nucleic acids. I&amp;#8217;m pleased to note that the recipe is available online. Best served in a test tube, obviously.</description>
     </item>
     
   </channel>

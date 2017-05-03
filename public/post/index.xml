@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Rob Bevan</title>
-    <link>https://robbevan.com/post/index.xml</link>
-    <description>Recent content in Post-rsses on Rob Bevan</description>
+    <title>Posts on Rob Bevan</title>
+    <link>https://robbevan.com/post/</link>
+    <description>Recent content in Posts on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-GB</language>
     <lastBuildDate>Sat, 25 Nov 2006 08:39:00 +0000</lastBuildDate>
-    <atom:link href="https://robbevan.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://robbevan.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Create a Moon/Golf/Bowie image before Xmas and win an iPod Shuffle</title>
@@ -15,12 +17,9 @@
       <pubDate>Sat, 25 Nov 2006 08:39:00 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-11-25-create-a-moongolfbowie-image-before-xmas-and-win-an-ipod-shuffle/</guid>
-      <description>&lt;p&gt;To celebrate the success of the &lt;a href=&#34;http://timwright.typepad.com/main/2006/09/playtime_on_oct.html&#34;&gt;PlayTime&lt;/a&gt; event and continue Tim Wright&amp;#8217;s mission to play &lt;a href=&#34;http://timwright.typepad.com/main/golf_on_the_moon/index.html&#34;&gt;golf on the moon (with David Bowie)&lt;/a&gt;, XPT is offering a iPod Shuffle to the person who comes up with the best photographic simulation of a particular aspect of the the 30-year plan.&lt;/p&gt;
+      <description>To celebrate the success of the PlayTime event and continue Tim Wright&amp;#8217;s mission to play golf on the moon (with David Bowie), XPT is offering a iPod Shuffle to the person who comes up with the best photographic simulation of a particular aspect of the the 30-year plan.
 
-&lt;p&gt;&lt;a href=&#34;http://golfonthemoon.ning.com&#34;&gt;&lt;img style=&#34;border: 1px solid #ccc; margin: 0 0 10px 0; padding: 0;&#34; src=&#34;http://robbevan.com/talks/playtime_competition.png&#34; alt=&#34;moongolfbowiecompetition&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;By concretising events and situations in a series of manipulated images, we are making the whole project more real, more achievable. Simulation=Solution. Remember &amp;#8211; don&amp;#8217;t leave space to the professionals.&lt;/p&gt;
-</description>
+By concretising events and situations in a series of manipulated images, we are making the whole project more real, more achievable. Simulation=Solution.</description>
     </item>
     
     <item>
@@ -29,18 +28,9 @@
       <pubDate>Wed, 22 Nov 2006 10:27:23 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-11-22-playtime-playing-with-pictures/</guid>
-      <description>&lt;p&gt;A few weeks on, I&amp;#8217;m finally getting around to uploading &lt;a href=&#34;http://robbevan.com/talks/playtime.pdf&#34;&gt;my slides&lt;/a&gt; from my &lt;a href=&#34;http://www.xpt.com/uk/news/playtime-4th-october-2006-a-day-of-workshops-presentations-and-space-age-play/&#34;&gt;PlayTime&lt;/a&gt; presentation, Playing with Pictures (it&amp;#8217;s a &lt;a href=&#34;http://robbevan.com/talks/playtime.pdf&#34;&gt;20MB+ PDF file&lt;/a&gt;, exported from Keynote). I was intending to annotate these so that they&amp;#8217;d make more sense to someone who weren&amp;#8217;t at my session, but I&amp;#8217;m not sure when, if ever, I&amp;#8217;ll do this.&lt;/p&gt;
+      <description>A few weeks on, I&amp;#8217;m finally getting around to uploading my slides from my PlayTime presentation, Playing with Pictures (it&amp;#8217;s a 20MB+ PDF file, exported from Keynote). I was intending to annotate these so that they&amp;#8217;d make more sense to someone who weren&amp;#8217;t at my session, but I&amp;#8217;m not sure when, if ever, I&amp;#8217;ll do this.
 
-&lt;p&gt;&lt;a href=&#34;http://robbevan.com/talks/playtime.pdf&#34;&gt;&lt;img style=&#34;border: 1px solid gray; float: none; margin-bottom: 10px; padding: 0;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/playtime.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This gist of it however was this: Photo manipulation has always had a bit of a bad name, and even today we&amp;#8217;re still worried that adding, removing or modifying parts of a photographic image detract from photography&amp;#8217;s perceived ability to show us the truth. But you could argue that these techniques &amp;#8211; and especially montage/manipulation (cf. the history of collage, Eisenstein etc, blah blah) &amp;#8211; allow us to see other, new truths (all that nonsense about MegaWords was a joke about quantifying this). And the things you need, stock imagery, skills, tools etc. are becoming more available and affordable all the time: see &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the examples of the web services* I mentioned. So we&amp;#8217;re going to see a lot more of it, especially with the YouTube generation, and it&amp;#8217;s also something that we (XPT and everyone else) are going to continue to have a lot of fun with&amp;#8230;&lt;/p&gt;
-
-&lt;p&gt;*Most of the links to these are embedded in the PDF, but for convenience here are the best of them: &lt;a href=&#34;http://worth1000.com&#34;&gt;Worth1000&lt;/a&gt;, &lt;a href=&#34;http://www.coudal.com/tennis.php&#34;&gt;Photoshop Tennis&lt;/a&gt;, &lt;a href=&#34;http://istockphoto.com&#34;&gt;iStockPhoto&lt;/a&gt;, &lt;a href=&#34;http://snipshot.com/&#34;&gt;Snipshot&lt;/a&gt;, &lt;a href=&#34;http://www.snapmania.com/info/en/trm/&#34;&gt;Tourist Remover&lt;/a&gt;, &lt;a href=&#34;http://www.riya.com/&#34;&gt;Riya Visual Search&lt;/a&gt;, &lt;a href=&#34;http://www.lazymask.com/&#34;&gt;Lazy Mask&lt;/a&gt;, &lt;a href=&#34;http://zonetag.research.yahoo.com/&#34;&gt;Zonetag&lt;/a&gt;, &lt;a href=&#34;http://www.scanr.com/&#34;&gt;scanR&lt;/a&gt;, &lt;a href=&#34;http://labs.systemone.at/retrievr/&#34;&gt;retrievr&lt;/a&gt;, &lt;a href=&#34;http://www.mappr.com&#34;&gt;Mappr&lt;/a&gt;, &lt;a href=&#34;http://golfonthemoon.ning.com&#34;&gt;Ning Photos&lt;/a&gt; and &lt;a href=&#34;http://moon.google.com&#34;&gt;Google Moon&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;News about the Moon-Golf-Bowie photo competition we&amp;#8217;re running and the &amp;#8216;Golf on the Moon&amp;#8217; Google Maps site to follow in a subsequent post.&lt;/p&gt;
-
-&lt;p&gt;There I was thinking I&amp;#8217;d completely got out of the habit of blogging.&lt;/p&gt;
-</description>
+This gist of it however was this: Photo manipulation has always had a bit of a bad name, and even today we&amp;#8217;re still worried that adding, removing or modifying parts of a photographic image detract from photography&amp;#8217;s perceived ability to show us the truth.</description>
     </item>
     
     <item>
@@ -49,18 +39,7 @@
       <pubDate>Wed, 17 May 2006 12:54:36 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-05-17-naming-things/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Bruce_Sterling&#34;&gt;Bruce Sterling&lt;/a&gt; is doing the rounds &lt;a href=&#34;http://blog.wired.com/sterling/index.blog?entry_id=1475334&#34;&gt;in London&lt;/a&gt; at the moment: I caught him on Monday at a New Statesman event upstairs at the &lt;a href=&#34;http://beerintheevening.com/pubs/s/21/2155/Grouse_and_Claret/Belgravia&#34;&gt;Grouse and Claret&lt;/a&gt;. Bruce gave a highly entertaining &amp;#8216;cyberpunk exegesis&amp;#8217; of a bewildering array of contemporary issues and ideas: the UK&amp;#8217;s surveillance culture, Web 2.0, Climate Change and of course the Internet of Things to &lt;strong&gt;name&lt;/strong&gt; just a few. Good &amp;#8216;names&amp;#8217; for things seem more important than ever now: Bruce mentioned that Tim O&amp;#8217;Reilly &amp;#8211; who coined the term &lt;a href=&#34;http://radar.oreilly.com/archives/2005/10/web_20_compact_definition.html&#34;&gt;Web 2.0&lt;/a&gt; &amp;#8211; has an English degree, so &amp;#8220;he&amp;#8217;s good at naming things&amp;#8221;, and in his design/tech book &amp;#8216;&lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/0262693267/robbish-21&#34;&gt;Shaping Things&amp;#8217;&lt;/a&gt;, Bruce stresses that the ability to take on a name, an identity is one of the key features of a &amp;#8216;spime&amp;#8217; (a Sterling neologism: an object that exists in &lt;span style=&#34;color: red;&#34;&gt;sp&lt;/span&gt;ace and t&lt;span style=&#34;color: red;&#34;&gt;ime&lt;/span&gt;):&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;#8230;the means of production [of third-stage objects] are re-engineered around a capacity for identity. The object becomes an instantiation of identity. It&amp;#8217;s named, and it broadcasts its name, then it can be tracked. That&amp;#8217;s a spime.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;It used to be that we more often looked to sci-fi novelists like Bruce or William Gibson (who &amp;#8216;invented&amp;#8217; &lt;a href=&#34;http://en.wikipedia.org/wiki/Cyberspace&#34;&gt;cyberspace&lt;/a&gt;) for neologisms to help us track the tech world, but now it seems the industry does a pretty good job of this itself (think Web 2.0, or its sometime namesake &lt;a href=&#34;http://adaptivepath.com/publications/essays/archives/000385.php&#34;&gt;Ajax&lt;/a&gt; which can be broadcast and tracked so much more easily now it&amp;#8217;s no longer XMLHttpRequest). I guess this is also why Bruce describes himself now as an &amp;#8220;industry booster&amp;#8221; as well as a novelist and why he&amp;#8217;s admits he&amp;#8217;s had to keep rewriting his novel about spimes over the last few years, as reality keeps changing faster than it can be imagined.&lt;/p&gt;
-
-&lt;p&gt;Something that could really benefit from a new name though is &amp;#8216;climate change&amp;#8217;, a name that would go on to help create (&lt;a href=&#34;http://www.viridiandesign.org/&#34;&gt;Viridian&amp;#8217;s&lt;/a&gt;) &amp;#8216;irresistible demand for a global atmosphere upgrade&amp;#8217;, in the same way that merely the idea of Web 2.0 (or any other technology that &lt;a href=&#34;http://martinfowler.com/bliki/EvaluatingRuby.html&#34;&gt;&amp;#8220;sounded good on a golf course&amp;#8221;&lt;/a&gt;) is fuelling so many irresistible demands.&lt;/p&gt;
-
-&lt;p&gt;Some links: &lt;a href=&#34;http://www.newstatesman.co.uk/nma/nma2006/nma2006podcasts.php&#34;&gt;Podcast&lt;/a&gt; of the New Statesman event (and Dave Phelan&amp;#8217;s &lt;a href=&#34;http://www.davephelan.org/blog/index.php/2006/05/16/bruce-sterling-roundup/&#34;&gt;notes&lt;/a&gt;). Bruce Sterlings&amp;#8217;s &lt;a href=&#34;http://www.oreillynet.com/pub/a/network/2006/03/20/distributing-the-future.html&#34;&gt;ETech keynote on the Internet of Things&lt;/a&gt;. &lt;a href=&#34;http://research.techkwondo.com/&#34;&gt;Julian Bleecker&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://research.techkwondo.com/files/WhyThingsMatter.pdf&#34;&gt;Manifesto for Networked Things&lt;/a&gt; &lt;subs&gt;(pdf)&lt;/subs&gt;. Ulla-Maaria Mutanen (of &lt;a href=&#34;http://ullamaaria.typepad.com/hobbyprincess/2005/03/draft_craft_man.html&#34;&gt;Craft Manifesto&lt;/a&gt; fame)&amp;#8217;s &lt;a href=&#34;http://www.thinglinks.com/&#34;&gt;ThingLinks&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Bruce Sterling is doing the rounds in London at the moment: I caught him on Monday at a New Statesman event upstairs at the Grouse and Claret. Bruce gave a highly entertaining &amp;#8216;cyberpunk exegesis&amp;#8217; of a bewildering array of contemporary issues and ideas: the UK&amp;#8217;s surveillance culture, Web 2.0, Climate Change and of course the Internet of Things to name just a few. Good &amp;#8216;names&amp;#8217; for things seem more important than ever now: Bruce mentioned that Tim O&amp;#8217;Reilly &amp;#8211; who coined the term Web 2.</description>
     </item>
     
     <item>
@@ -69,28 +48,7 @@
       <pubDate>Wed, 03 May 2006 20:50:17 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-05-03-raccoon-apache-on-s60/</guid>
-      <description>&lt;p&gt;Nokia Research recently announced the Apache webserver had been ported to run on S60 phones (see &lt;a href=&#34;http://robbevan.com/blog/2006/01/21/nokia-ports-apache-to-s60/&#34;&gt;my earlier post&lt;/a&gt;). The plan had been to &amp;#8220;bring a full-fledged webserver to S60 and to make a webserver running on a mobile phone accessible from the Internet using any web browser&amp;#8221;. Now the client binary is &lt;a href=&#34;http://research.nokia.com/research/projects/mobile-web-server/index.html&#34;&gt;available for download&lt;/a&gt; and you can sign up for an account on Nokia&amp;#8217;s gateway and try this for yourself.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#8217;s Apache running on my &lt;a href=&#34;http://www.nokia.com/n70&#34;&gt;N70&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;border: 1px solid gray; float: none; margin-bottom: 10px; padding: 0;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/raccoon.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(I recently upgraded to the N70 from the 6630: I wasn&amp;#8217;t sure whether to wait for a S60 3rd Edition phone but in the end the 2 megapixel slide-and-shoot camera, the flash and larger memory won me over even if the tiny keyboard and &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt;-blue backlighting is a considerable step in the wrong direction, usability-wise).&lt;/p&gt;
-
-&lt;p&gt;From the Read Me:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Raccoon consists of two parts: a Symbian port of the Apache httpd webserver and a &amp;#8220;connector&amp;#8221; that together with a gateway provides a mobile phone with a global name in the operator networks of today. In short, you can now host a website on your mobile phone that is accessible from any web browser on the Internet.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There is a lot of (demo) functionality to explore: &amp;#8220;there are custom modules for accessing the core functionality of the phone &amp;#8211; camera, contacts, favourites, log and messages &amp;#8211; and modules for sending instant and inbox messages to the phone, and a module for finding mobile websites in the proximity&amp;#8221;.&lt;/p&gt;
-
-&lt;p&gt;Now that I&amp;#8217;ve got this up and running I guess I need to get to work on my [mobsite][4].&lt;/p&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://blogs.s60.com/tommi/2006/05/turn_your_s60_smartphone_into.html&#34;&gt;Tommi&amp;#8217;s S60 applications blog&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;[4]: &lt;a href=&#34;http://rob.bevan.guest.at.openlaboratory.net:2051/&#34;&gt;http://rob.bevan.guest.at.openlaboratory.net:2051/&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
+      <description>Nokia Research recently announced the Apache webserver had been ported to run on S60 phones (see my earlier post). The plan had been to &amp;#8220;bring a full-fledged webserver to S60 and to make a webserver running on a mobile phone accessible from the Internet using any web browser&amp;#8221;. Now the client binary is available for download and you can sign up for an account on Nokia&amp;#8217;s gateway and try this for yourself.</description>
     </item>
     
     <item>
@@ -99,18 +57,7 @@
       <pubDate>Wed, 12 Apr 2006 12:32:52 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-04-12-yuris-night/</guid>
-      <description>&lt;p&gt;&lt;div style=&#34;height: 150px&#34;&gt;
-  &lt;a href=&#34;http://www.yurisnight.net/2006/index.php&#34;&gt;&lt;img src=&#34;http://www.yurisnight.net/images/yurisNightButtons/YurisNight_150x150.png&#34; alt=&#34;Yuri&#39;s Night | World Space Party | April 12&#34; title=&#34;Yuri&#39;s Night | World Space Party | April 12&#34; width=&#34;150&#34; height=&#34;150&#34; border=&#34;0&#34; style=&#34;float: right; padding-left: 32px;&#34; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;
-    &lt;p&gt;
-      45 Years ago today, on April 12th 1961, Yuri Gagarin became the first human to go into space. On the same day, 25 years ago, John Young and Robert Crippen flew the first Space Shuttle flight to orbit. Today we celebrate!
-    &lt;/p&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;blockquote&amp;gt;
-  &amp;lt;/div&amp;gt; &amp;lt;p class=&amp;quot;technorati-tags&amp;quot;&amp;gt;
-    (&amp;lt;img style=&amp;quot;float: none; padding: 2px 2px 0 2px;&amp;quot;  src=&amp;quot;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; Technorati tags: &amp;lt;a href=&amp;quot;http://technorati.com/tag/yuri-gagarin&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;yuri-gagarin&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/space&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;space&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/world-space-party&amp;quot; rel=&amp;quot;world-space-party&amp;quot;&amp;gt;imax&amp;lt;/a&amp;gt;)
-  &amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>45 Years ago today, on April 12th 1961, Yuri Gagarin became the first human to go into space. On the same day, 25 years ago, John Young and Robert Crippen flew the first Space Shuttle flight to orbit. Today we celebrate! &amp;lt;blockquote&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;p class=&amp;quot;technorati-tags&amp;quot;&amp;gt; (&amp;lt;img style=&amp;quot;float: none; padding: 2px 2px 0 2px;&amp;quot; src=&amp;quot;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; Technorati tags: &amp;lt;a href=&amp;quot;http://technorati.com/tag/yuri-gagarin&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;yuri-gagarin&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/space&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;space&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.</description>
     </item>
     
     <item>
@@ -119,22 +66,7 @@
       <pubDate>Wed, 29 Mar 2006 00:03:00 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-03-29-al-gore-on-climate-change/</guid>
-      <description>&lt;p&gt;I was invited today by one of my clients &amp;#8211; &lt;a href=&#34;http://theclimategroup.org&#34;&gt;The Climate Group&lt;/a&gt; &amp;#8211; to watch &lt;a href=&#34;http://www.algore-08.com/&#34;&gt;Al Gore&lt;/a&gt; give his presentation on Climate Change at &lt;a href=&#34;http://www.bfi.org.uk/incinemas/imax/&#34;&gt;the bfi London IMAX Cinema&lt;/a&gt;. Gore&amp;#8217;s presentation is &lt;a href=&#34;http://dir.salon.com/story/opinion/feature/2005/11/04/gore/index.html&#34;&gt;pretty&lt;/a&gt; &lt;a href=&#34;http://giussani.typepad.com/loip/2006/02/ted2006_al_gore.html&#34;&gt;well&lt;/a&gt; &lt;a href=&#34;http://www.worldchanging.com/archives/004139.html&#34;&gt;covered&lt;/a&gt; elsewhere, so I&amp;#8217;m not even going to try and summarise it here (it was too dark to take notes and besides I&amp;#8217;m a lousy note-taker anyway). Suffice to say for someone who has a reputation for being boring, he&amp;#8217;s both funny and extremely passionate about our need to find a common moral purpose to deal with this &amp;#8220;planetary emergency&amp;#8221;.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;#8217;s Al Gore and The Climate Group&amp;#8217;s Steve Howard standing beneath &amp;#8220;one of the world&amp;#8217;s most widely recognised and requested photographs of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; time&amp;#8221; the last &lt;a href=&#34;http://www.gsfc.nasa.gov/gsfc/earth/pictures/2002/1203apollo17/earthm.jpg&#34;&gt;image of the Earth&lt;/a&gt; shot by a human being (from Apollo 17 in 1972).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/robbevan/119514736/&#34; title=&#34;photo sharing&#34;&gt;&lt;img src=&#34;http://static.flickr.com/35/119514736_5733136bce_m.jpg&#34; alt=&#34;&#34; class=&#34;flickr&#34; style=&#34;float: none; padding: 0;&#34; /&gt;&lt;/a&gt;&lt;p class=&#34;caption&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/robbevan/119514736/&#34;&gt;Al Gore and The Climate Group&amp;#8217;s Steve Howard at the bfi London IMAX&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/robbevan/&#34;&gt;Rob Bevan&lt;/a&gt;.&lt;/p&gt;
-The vertiginous, somewhat uncomfortable feeling you get sitting up close to an IMAX screen (the UK&amp;#8217;s largest) really enhanced the images of huge ice shelves collapsing into the sea and &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the ensuing discussion of &amp;#8216;tipping points&amp;#8217;&amp;#8230;&lt;/p&gt;
-
-&lt;p&gt;(See also &lt;a href=&#34;http://www.theclimategroup.org/index.php?pid=784&#34;&gt;The Climate Group&amp;#8217;s coverage&lt;/a&gt; of today&amp;#8217;s event).&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/al-gore&#34; rel=&#34;tag&#34;&gt;al-gore&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/climate-change&#34; rel=&#34;tag&#34;&gt;climate-change&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/imax&#34; rel=&#34;tag&#34;&gt;imax&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>I was invited today by one of my clients &amp;#8211; The Climate Group &amp;#8211; to watch Al Gore give his presentation on Climate Change at the bfi London IMAX Cinema. Gore&amp;#8217;s presentation is pretty well covered elsewhere, so I&amp;#8217;m not even going to try and summarise it here (it was too dark to take notes and besides I&amp;#8217;m a lousy note-taker anyway). Suffice to say for someone who has a reputation for being boring, he&amp;#8217;s both funny and extremely passionate about our need to find a common moral purpose to deal with this &amp;#8220;planetary emergency&amp;#8221;.</description>
     </item>
     
     <item>
@@ -143,16 +75,9 @@ The vertiginous, somewhat uncomfortable feeling you get sitting up close to an I
       <pubDate>Mon, 20 Mar 2006 06:31:00 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
-      <description>&lt;p&gt;From &lt;a href=&#34;http://blog.del.icio.us/blog/2006/03/private_saving_.html&#34;&gt;del.ico.us/blog&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/delicious&#34; rel=&#34;tag&#34;&gt;delicious&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>From del.ico.us/blog:
+ This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is all about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.
+ (Technorati tags: delicious) </description>
     </item>
     
     <item>
@@ -161,24 +86,7 @@ The vertiginous, somewhat uncomfortable feeling you get sitting up close to an I
       <pubDate>Mon, 27 Feb 2006 22:43:13 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</guid>
-      <description>&lt;p&gt;About the only good thing to result from the theft of my bag just before Christmas was replacing my ageing original 1G iPod with a sleek new black 5G video iPod (whoever thought that glossy white &amp;#8216;iBook&amp;#8217; look was a good idea?). Actually that&amp;#8217;s not strictly true: I&amp;#8217;ve effectively &amp;#8216;upgraded&amp;#8217; many of my closest and most familiar possessions at the cost of many hours cancelling credit cards, talking to insurers and replacing missing Christmas gifts.&lt;/p&gt;
-
-&lt;p&gt;What has really surprised me however, is how much I&amp;#8217;m enjoying video on the move. Just today I was watching the 1969 &lt;a href=&#34;http://video.google.com/videoplay?docid=4166049933953240830&amp;amp;q=45017&#34;&gt;&amp;#8216;The Eagle Has Landed&amp;#8217; film&lt;/a&gt; (recently made available on Google Video, along with a number of other &lt;a href=&#34;http://video.google.com/videosearch?q=owner%3Anara+type%3Anasa&amp;amp;so=0&#34;&gt;NASA History of Space Flight Motion Pictures&lt;/a&gt;), watching Neil or maybe Buzz &lt;strong&gt;shaving&lt;/strong&gt; on the 3-day flight to the moon. The commentary describes this as &amp;#8216;housekeeping&amp;#8217; whilst I was thinking &amp;#8216;why bother?&amp;#8217; before I realised I&amp;#8217;d just missed my stop on the tube.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/robbevan/105416903/&#34; title=&#34;photo sharing&#34;&gt;&lt;img src=&#34;http://static.flickr.com/54/105416903_eafa802f50_m.jpg&#34; alt=&#34;&#34; class=&#34;flickr&#34; style=&#34;float: none; padding: 0;&#34; /&gt;&lt;/a&gt;&lt;p class=&#34;caption&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/robbevan/105416903/&#34;&gt;Shaving on the way to the moon&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/robbevan/&#34;&gt;Rob Bevan&lt;/a&gt;.&lt;/p&gt;
-My wait for the return train was just enough time for the best sequence &amp;#8211; the Eagle&amp;#8217;s descent to the surface of the moon &amp;#8211; which actually just reminded me of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the times I&amp;#8217;ve peered out of the the window of a plane (I always watch) as it lands: there&amp;#8217;s that long wait as the plane seems to hover interminably just above the ground before touching down. This is usually the only moment I get a little tense whilst flying, unlike my mate &lt;a href=&#34;http://timwright.typepad.com/&#34;&gt;Tim&lt;/a&gt; who pretty much feels that way the entire flight. (He was so visibly distressed when we flew to Glasgow once that one of the cabin crew came over to find out if he was going to be OK, and tried to comfort him with &amp;#8220;don&amp;#8217;t worry &amp;#8211; we&amp;#8217;re the lucky crew!&amp;#8221;, which understandably made things worse.) I&amp;#8217;m constantly on the lookout at the moment for moon-related material to pass on to Tim for his &lt;a href=&#34;http://timwright.typepad.com/playing_golf_on_the_moon_/&#34;&gt;&amp;#8216;golf on the moon&amp;#8217; project&lt;/a&gt;: clearly he&amp;#8217;s going to have to deal with his fear of flying first.&lt;/p&gt;
-
-&lt;p&gt;And just because this is doing the rounds today, is very funny and brilliantly executed: &lt;a href=&#34;http://www.youtube.com/?v=VAGr3mVVUwE&#34;&gt;what if Microsoft redesigned the iPod packaging?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(Finally, one housekeeping note: &lt;a href=&#34;http://www.macdevcenter.com/pub/a/mac/2005/11/18/video-ipod.html&#34;&gt;here&amp;#8217;s a smart way&lt;/a&gt; to get video from your iPod on TV using a cable you probably already have, instead of the $19/£15 proprietary Apple iPod AV Cable.)&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/ipod&#34; rel=&#34;tag&#34;&gt;ipod&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/google-video&#34; rel=&#34;tag&#34;&gt;google-video&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/moon&#34; rel=&#34;tag&#34;&gt;moon&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>About the only good thing to result from the theft of my bag just before Christmas was replacing my ageing original 1G iPod with a sleek new black 5G video iPod (whoever thought that glossy white &amp;#8216;iBook&amp;#8217; look was a good idea?). Actually that&amp;#8217;s not strictly true: I&amp;#8217;ve effectively &amp;#8216;upgraded&amp;#8217; many of my closest and most familiar possessions at the cost of many hours cancelling credit cards, talking to insurers and replacing missing Christmas gifts.</description>
     </item>
     
     <item>
@@ -187,22 +95,7 @@ My wait for the return train was just enough time for the best sequence &amp;#82
       <pubDate>Thu, 23 Feb 2006 00:07:14 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-23-the-future-of-web-apps/</guid>
-      <description>&lt;p&gt;Like most of the UK&amp;#8217;s web development community I was at the Carson Workshops &lt;a href=&#34;http://www.carsonworkshops.com/summit/&#34;&gt;Future of Web Apps&lt;/a&gt; summit a couple of weeks ago. A couple of highlights for me were &lt;a href=&#34;http://www.plasticbag.org/archives/2006/02/my_future_of_web_apps_slides.shtml&#34;&gt;Tom Coates&amp;#8217;&lt;/a&gt; wonderfully lucid and entertaining synthesis of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; things Web 2.0 (see also &lt;a href=&#34;http://jeremy.zawodny.com/blog/&#34;&gt;Jeremy Zawodny&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://jeremy.zawodny.com/blog/archives/006323.html&#34;&gt;annotations&lt;/a&gt; of Tom&amp;#8217;s slides) and &lt;a href=&#34;http://www.loudthinking.com/&#34;&gt;David Heinemeier Hansson&amp;#8217;s&lt;/a&gt; Ruby on Rails &amp;#8216;sermon&amp;#8217;. Although I&amp;#8217;ve been working with Rails intermittently for at least eighteen months I&amp;#8217;ve never seen David speak and it had never really occurred to me before just how &lt;strong&gt;Scandinavian&lt;/strong&gt; Rails is: minimal, beautifully designed and good for the soul.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/96005585@N00/97209782/&#34; title=&#34;photo sharing&#34;&gt;&lt;img src=&#34;http://static.flickr.com/42/97209782_ce4bf0bd5c_m.jpg&#34; alt=&#34;&#34; class=&#34;flickr&#34; style=&#34;float: none; padding: 0;&#34; /&gt;&lt;/a&gt;&lt;p class=&#34;caption&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/brettlider/36071096/&#34;&gt;DHH&amp;#8217;s Devil&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/96005585@N00/&#34;&gt;Damien Tanner&lt;/a&gt;.&lt;/p&gt;
-Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; &lt;a href=&#34;http://www.carsonworkshops.com/summit/&#34;&gt;available for download&lt;/a&gt;, there are numerous write-ups (best of which are &lt;a href=&#34;http://simon.incutio.com/archive/2006/02/08/summit&#34;&gt;Simon Willison&amp;#8217;s notes&lt;/a&gt;), hundreds of &lt;a href=&#34;http://www.flickr.com/photos/tags/futureofwebapps&#34;&gt;Flickr images&lt;/a&gt; and &lt;a href=&#34;http://www.mindthis.net/&#34;&gt;Lars Plougmann&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://flickr.com/photos/criminalintent/search/tags:futureofwebapps%2Cmindmap/tagmode:all/&#34;&gt;mindmaps&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&#34;update&#34;&gt;
-  Update: and &lt;a href=&#34;http://nubyonrails.com/articles/2006/02/23/carson-workshops-summit-podcast-feed&#34;&gt;Geoffrey Grosenbach&lt;/a&gt; has assembled &lt;a href=&#34;http://topfunky.com/clients/carson/podcast.xml&#34;&gt;a feed&lt;/a&gt; so you can subscribe to a one-time podcast and get &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the talks in your favourite podcasting client
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/futureofwebapps&#34; rel=&#34;tag&#34;&gt;futureofwebapps&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/rails&#34; rel=&#34;tag&#34;&gt;rails&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Like most of the UK&amp;#8217;s web development community I was at the Carson Workshops Future of Web Apps summit a couple of weeks ago. A couple of highlights for me were Tom Coates&amp;#8217; wonderfully lucid and entertaining synthesis of all things Web 2.0 (see also Jeremy Zawodny&amp;#8217;s annotations of Tom&amp;#8217;s slides) and David Heinemeier Hansson&amp;#8217;s Ruby on Rails &amp;#8216;sermon&amp;#8217;. Although I&amp;#8217;ve been working with Rails intermittently for at least eighteen months I&amp;#8217;ve never seen David speak and it had never really occurred to me before just how Scandinavian Rails is: minimal, beautifully designed and good for the soul.</description>
     </item>
     
     <item>
@@ -211,12 +104,8 @@ Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span c
       <pubDate>Sun, 19 Feb 2006 20:19:26 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-19-live-winter-olympics-filmloop-photocast/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://invite.filmloop.com/x?E18CiSXWtAUmnZvg2Y8DPVzTSuKlxixI&#34;&gt;&lt;img style=&#34;float: none; padding-bottom: 10px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/torino-filmloop.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;These images from today&amp;#8217;s &lt;a href=&#34;http://www.torino2006.org/ENG/IDF/CC/C73C_CCM410101.html&#34;&gt;4x10km Men&amp;#8217;s relay&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(&lt;a href=&#34;http://filmloop.com/whatis.html&#34;&gt;FilmLoop&lt;/a&gt; is a free photo broadcasting (&amp;#8220;photocasting&amp;#8221;) network that presents pictures in a &amp;#8220;Loop&amp;#8221; player on your desktop.)&lt;/p&gt;
-</description>
+      <description>These images from today&amp;#8217;s 4x10km Men&amp;#8217;s relay.
+(FilmLoop is a free photo broadcasting (&amp;#8220;photocasting&amp;#8221;) network that presents pictures in a &amp;#8220;Loop&amp;#8221; player on your desktop.)</description>
     </item>
     
     <item>
@@ -231,10 +120,7 @@ Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span c
 
 &lt;p&gt;Shame not to see Cronenberg&amp;#8217;s &lt;strong&gt;A History of Violence&lt;/strong&gt; in the running for more than adapted screenplay (although William Hurt is Oscar-nominated for his supporting role) or the hilarious &lt;strong&gt;A Cock &amp;amp; Bull Story&lt;/strong&gt;, the endlessly prolific Michael Winterbottom&amp;#8217;s attempt to film &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/0375761195/robbish-21/&#34;&gt;Tristam Shandy&lt;/a&gt; and a role call of current British comedy stars. Deservedly ignored in the UK though was Woody Allen&amp;#8217;s &lt;strong&gt;Match Point&lt;/strong&gt; (see &lt;a href=&#34;http://www.dadblog.co.uk/archives/2006/01/woody_allen_and.html&#34;&gt;Lloyd Shepherd&amp;#8217;s post&lt;/a&gt; on why we Brits think this movie is &amp;#8216;lamentable&amp;#8217;).&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;div class=&#34;screeners&#34;&gt;
-  &lt;a href=&#34;http://imdb.com/title/tt0423409/&#34;&gt;A Cock &amp; Bull Story&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0399146/&#34;&gt;A History of Violence&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0372784/&#34;&gt;Batman Begins&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000B73GYE&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0411195/&#34;&gt;Breakfast on Pluto&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; &lt;span class=&#34;nominee&#34;&gt;&lt;a href=&#34;http://us.imdb.com/title/tt0388795/&#34;&gt;Brokeback Mountain&lt;/a&gt; (encrypted) (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000B83J86&#34;&gt;UK&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt; &lt;span class=&#34;nominee&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0379725/&#34;&gt;Capote&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0402894/&#34;&gt;Casanova&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0367594/&#34;&gt;Charlie and the Chocolate Factory&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000B7QAHO&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0363771/&#34;&gt;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0352248/&#34;&gt;Cinderella Man&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000B7QNX0&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;span class=&#34;nominee&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0387131/&#34;&gt;The Constant Gardener&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000B7QLLO&#34;&gt;UK&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0121164/&#34;&gt;Corpse Bride&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000BPCUTS&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;span class=&#34;nominee&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0375679/&#34;&gt;Crash&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000ATJKM0&#34;&gt;UK&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0435625/&#34;&gt;The Descent&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000A8NZ0O&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0468736/&#34;&gt;Festival&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000AYARC2&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;span class=&#34;nominee&#34;&gt;&lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0433383/&#34;&gt;Goodnight, and Good Luck&lt;/a&gt; (encrypted)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0418763/&#34;&gt;Jarhead&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0330373/&#34;&gt;Harry Potter and the Goblet of Fire&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0385017/&#34;&gt;In My Father&amp;#8217;s Den&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000AND8MO&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0396688/&#34;&gt;The King&lt;/a&gt;&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0320661/&#34;&gt;Kingdom of Heaven&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000A896J8&#34;&gt;UK&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0434124/&#34;&gt;Kinky Boots&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000BYCIO6&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0375920/&#34;&gt;The Libertine&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0365485/&#34;&gt;The Matador&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0428803/&#34;&gt;March of the Penguins&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000CETV9U&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0416320/&#34;&gt;Match Point&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0415978/&#34;&gt;Me and You and Everyone We Know&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000BJV0ZE&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://us.imdb.com/title/tt0397535/&#34;&gt;Memoirs of a Geisha&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0413015&#34;&gt;Mrs Henderson Presents&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000CQO6IY&#34;&gt;UK)&lt;/a&gt;&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0408306/&#34;&gt;Munich&lt;/a&gt; (encrypted)&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://us.imdb.com/title/tt0396752/&#34;&gt;Nanny McPhee&lt;/a&gt; (encrypted) (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000BYCGXY&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0402399/&#34;&gt;The New World&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0395972/&#34;&gt;North Country&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0380599/&#34;&gt;Oliver Twist&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000CDYDVW&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0451850/&#34;&gt;Paheli&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000AC538M&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0414387/&#34;&gt;Pride &amp; Prejudice&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000BKTB3Q&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0395251/&#34;&gt;The Producers&lt;/a&gt; (encrypted)&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0377107/&#34;&gt;Proof&lt;/a&gt;&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0421238/&#34;&gt;The Proposition&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0420901/&#34;&gt;Shooting Dogs&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0121766/&#34;&gt;Star Wars: Episode III &amp;#8211; Revenge of the Sith&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B00097E6EU&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;a href=&#34;http://us.imdb.com/title/tt0365737/&#34;&gt;Syriana&lt;/a&gt;&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0419294/&#34;&gt;The Three Burials of Melquiades Estrada&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0468565/&#34;&gt;Tsotsi&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://us.imdb.com/title/tt0407265/&#34;&gt;Transamerica&lt;/a&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0358273/&#34;&gt;Walk the Line&lt;/a&gt; (Amazon: &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/B000BPCV0Q&#34;&gt;UK&lt;/a&gt;)&lt;br /&gt; &lt;span class=&#34;not-watched&#34;&gt;&lt;a href=&#34;http://imdb.com/title/tt0384686/&#34;&gt;The White Countess&lt;/a&gt;&lt;/span&gt;&lt;br /&gt; &lt;a href=&#34;http://imdb.com/title/tt0412080/&#34;&gt;The World&amp;#8217;s Fastest Indian&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; &lt;span class=&#34;nominee&#34; style=&#34;border-top: 1px dotted grey; padding-top: 4px;&#34;&gt;= Best Film nominee&lt;/span&gt; &lt;/div&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -243,14 +129,7 @@ Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span c
       <pubDate>Tue, 07 Feb 2006 14:06:51 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</guid>
-      <description>&lt;p&gt;Like &lt;a href=&#34;http://www.shozu.com&#34;&gt;Shozu&lt;/a&gt;, new S60 app &lt;a href=&#34;http://meaning.3xi.org/&#34;&gt;Merkitys&lt;/a&gt; (Finnish for &amp;#8216;Meaning&amp;#8217;) allows easy upload of images from your phone to &lt;a href=&#34;http://flickr.com/photos/robbevan/&#34;&gt;Flickr&lt;/a&gt; (or &lt;a href=&#34;http://meaning.3xi.org/documents/Help/Setting+up+your+own+server&#34;&gt;your own server&lt;/a&gt;). Merkitys however also automatically adds &amp;#8216;context&amp;#8217;, which includes location (i.e. GSM location information: Mobile Country Code, Mobile Network Code, Location Area Code and Cell ID, but also GPS data if you also have a supported receiver) as well as the usual user-defined description and tags etc., and &amp;#8211; curiously &amp;#8211; the addresses of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; bluetooth devices in the vicinity. Although this is only the first beta release, it &lt;a href=&#34;http://flickr.com/photos/robbevan/96727185/&#34;&gt;worked flawlessly&lt;/a&gt; for me. The source is also &lt;a href=&#34;http://meaning.3xi.org/download/source/&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://alindh.iki.fi/2006/02/07/now-this-is-a-cool-application/&#34;&gt;the mobile experience&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/merkitys&#34; rel=&#34;tag&#34;&gt;merkitys&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/flickr&#34; rel=&#34;tag&#34;&gt;flickr&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Like Shozu, new S60 app Merkitys (Finnish for &amp;#8216;Meaning&amp;#8217;) allows easy upload of images from your phone to Flickr (or your own server). Merkitys however also automatically adds &amp;#8216;context&amp;#8217;, which includes location (i.e. GSM location information: Mobile Country Code, Mobile Network Code, Location Area Code and Cell ID, but also GPS data if you also have a supported receiver) as well as the usual user-defined description and tags etc., and &amp;#8211; curiously &amp;#8211; the addresses of all bluetooth devices in the vicinity.</description>
     </item>
     
     <item>
@@ -259,15 +138,10 @@ Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span c
       <pubDate>Sun, 05 Feb 2006 08:54:45 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-05-pipette-dressing-tomato-mozzarella-appetizer-google-style/</guid>
-      <description>&lt;p&gt;For the past year Brett Lider has been blogging the food he has eaten at Google&amp;#8230;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/brettlider/36071096/&#34; title=&#34;photo sharing&#34;&gt;&lt;img src=&#34;http://static.flickr.com/24/36071096_518413e2cb_m.jpg&#34; alt=&#34;&#34; class=&#34;flickr&#34; style=&#34;float: none; padding: 0;&#34; /&gt;&lt;/a&gt;&lt;p class=&#34;caption&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/brettlider/36071096/&#34;&gt;Pipette + dressing + tomato + mozzarella = Appetizer, Google-style&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/brettlider/&#34;&gt;Brett L.&lt;/a&gt;.&lt;/p&gt; &lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/google&#34; rel=&#34;tag&#34;&gt;google&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/food&#34; rel=&#34;tag&#34;&gt;food&lt;/a&gt;)
-&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description>For the past year Brett Lider has been blogging the food he has eaten at Google&amp;#8230;
+Pipette + dressing + tomato + mozzarella = Appetizer, Google-style
+Originally uploaded by Brett L..
+(Technorati tags: google | food) </description>
     </item>
     
     <item>
@@ -276,16 +150,8 @@ Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span c
       <pubDate>Fri, 27 Jan 2006 07:23:10 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-01-27-visiting-antarctica-via-google-earth/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.polarview.org/&#34;&gt;PolarView&lt;/a&gt; have released &lt;a href=&#34;http://www.seaice.dk/polarview/google.s/PolarView_Antarctic_Node.kmz&#34;&gt;a .kmz file&lt;/a&gt; for &lt;a href=&#34;http://earth.google.com/&#34;&gt;Google Earth&lt;/a&gt; providing more &lt;a href=&#34;http://www.seaice.dk/polarview/google.s/&#34;&gt;Antarctic data&lt;/a&gt;, including the location of drift buoys, larger identified icebergs, selected research vessels and research stations, as well as some higher resolution imagery. Naturally I was drawn to &lt;a href=&#34;http://npolar.no/geonet/items-logistics/working_Antarctica.html&#34;&gt;Troll&lt;/a&gt;, the Norwegian base on Queen Maud Land (named by a popular vote of Norwegian schoolchildren).&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;float: none; padding-bottom: 10px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/troll.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Who knows whether I&amp;#8217;ll ever &lt;a href=&#34;http://www.43things.com/things/people/4279&#34;&gt;make it to Antarctica&lt;/a&gt; for real, but in the meantime my name at least will be heading &lt;a href=&#34;http://www.south.com/&#34;&gt;SOUTH&lt;/a&gt; with the Ben Saunders&amp;#8217; &lt;a href=&#34;http://www.bensaunders.com/south/images/names.jpg&#34;&gt;sledge&lt;/a&gt;. I&amp;#8217;ve just purchased &lt;a href=&#34;http://www.bensaunders.com/south/own.htm&#34;&gt;mile 897&lt;/a&gt; of Ben and team-mate Tony Haile&amp;#8217;s 1800-mile trip to the pole and back.&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/antartica&#34; rel=&#34;tag&#34;&gt;antartica&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/google-earth&#34; rel=&#34;tag&#34;&gt;google-earth&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/south&#34; rel=&#34;tag&#34;&gt;south&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>PolarView have released a .kmz file for Google Earth providing more Antarctic data, including the location of drift buoys, larger identified icebergs, selected research vessels and research stations, as well as some higher resolution imagery. Naturally I was drawn to Troll, the Norwegian base on Queen Maud Land (named by a popular vote of Norwegian schoolchildren).
+Who knows whether I&amp;#8217;ll ever make it to Antarctica for real, but in the meantime my name at least will be heading SOUTH with the Ben Saunders&amp;#8217; sledge.</description>
     </item>
     
     <item>
@@ -294,20 +160,518 @@ Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span c
       <pubDate>Sat, 21 Jan 2006 07:42:12 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-01-21-nokia-ports-apache-to-s60/</guid>
-      <description>&lt;p&gt;In a first step towards allowing users to maintain &amp;#8220;personal mobile websites&amp;#8221;, Nokia research has announced it has &lt;a href=&#34;http://research.nokia.com/research/software/mobile-web-server/index.html&#34;&gt;ported Apache httpd and mod_python to the S60/Symbian platform&lt;/a&gt;. (The code is so far only free for use within Nokia.)&lt;/p&gt;
-
-&lt;p&gt;My head is still reeling from the implications of this last paragraph, which seems completely farfetched and yet perfectly obvious at the same time:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We believe that being able to run a globally accessible personal website on your mobile phone has the potential of changing the Internet landscape. If every mobile phone or even every smartphone initially, is equipped with a webserver then very quickly most websites will reside on mobile phones. That is bound to have some impact not only on how mobile phones are perceived but also on how the web evolves.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(via &lt;a href=&#34;http://www.eriksmartt.com/blog/archives/218&#34;&gt;eriksmartt.com&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/apache&#34; rel=&#34;tag&#34;&gt;apache&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/python&#34; rel=&#34;tag&#34;&gt;python&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>In a first step towards allowing users to maintain &amp;#8220;personal mobile websites&amp;#8221;, Nokia research has announced it has ported Apache httpd and mod_python to the S60/Symbian platform. (The code is so far only free for use within Nokia.)
+My head is still reeling from the implications of this last paragraph, which seems completely farfetched and yet perfectly obvious at the same time:
+ We believe that being able to run a globally accessible personal website on your mobile phone has the potential of changing the Internet landscape.</description>
+    </item>
+    
+    <item>
+      <title>The Jean-Paul Sartre Cookbook</title>
+      <link>https://robbevan.com/post/2006-01-21-the-jean-paul-sartre-cookbook/</link>
+      <pubDate>Sat, 21 Jan 2006 07:15:52 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2006-01-21-the-jean-paul-sartre-cookbook/</guid>
+      <description>From The Jean-Paul Sartre Cookbook:
+ I keep creating omelets one after another, like soldiers marching into the sea, but each one seems empty, hollow, like stone. I want to create an omelet that expresses the meaninglessness of existence, and instead they taste like cheese.
+ (via Memex 1.1)
+(Technorati tags: cookbook | cooking | sartre | philosophy) </description>
+    </item>
+    
+    <item>
+      <title>Blog Resolutions 2006</title>
+      <link>https://robbevan.com/post/2006-01-18-blog-resolutions-2006/</link>
+      <pubDate>Wed, 18 Jan 2006 11:14:40 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2006-01-18-blog-resolutions-2006/</guid>
+      <description>Apart from the obvious need/desire to post more often, here&amp;#8217;s a bunch of improvements I want to make to this blog in the coming weeks. I was hoping to get some of this done during &amp;#8216;ketchup&amp;#8217; week, but family, friends and a bumper crop of BAFTA screeners were welcome distractions.
+Upgrade to WordPress 2.0.1
+I&amp;#8217;ve been localhostin&amp;#8217; the beta for some time, and keeping up with it on wordpress.com, but now it and Steve Smith&amp;#8217;s Tiger Admin plugin are out and there are fixes/workarounds for the WP 2.</description>
+    </item>
+    
+    <item>
+      <title>Free software for Symbian S60 phones</title>
+      <link>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</link>
+      <pubDate>Mon, 19 Dec 2005 11:26:33 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
+      <description>Whilst searching the Opera Mobile forums, I came across this fairly comprehensive list of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.
+Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 announced back in November, you&amp;#8217;ll also be excited to hear from this official forum post that this will be available to developers from Macromedia Labs in January.</description>
+    </item>
+    
+    <item>
+      <title>Push url from Mac to bluetooth phone</title>
+      <link>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</link>
+      <pubDate>Sat, 17 Dec 2005 06:28:29 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</guid>
+      <description>Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a Nokia 6630). So I knocked up a simple solution using QuickSilver and Framework Labs&amp;#8217; Bluetooth Object Push Automator Action stuck together with a little AppleScript.
+After you&amp;#8217;ve installed the action, create an Automator workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&amp;#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone.</description>
+    </item>
+    
+    <item>
+      <title>Rails 1.0 released</title>
+      <link>https://robbevan.com/post/2005-12-13-rails-10-released/</link>
+      <pubDate>Tue, 13 Dec 2005 23:09:27 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-12-13-rails-10-released/</guid>
+      <description>15 months after its initial launch, Rails finally reaches 1.0. Maybe now the constant stream of innovation will slow down long enough for some of us to catch up&amp;#8230; oh, wait, perhaps not&amp;#8230; &amp;#8220;1.1 is already pretty far along in development and will see some of the biggest upgrades of any Rails release&amp;#8221;. Can&amp;#8217;t wait.
+(Technorati tags: rails) </description>
+    </item>
+    
+    <item>
+      <title>Opera announces the Opera Platform</title>
+      <link>https://robbevan.com/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</link>
+      <pubDate>Tue, 15 Nov 2005 18:20:01 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</guid>
+      <description>The Opera Platform: is this the Konfabulator for mobile?
+ The Opera Platform&amp;#8482; SDK is an SDK for developing rich client-side web applications on mobile devices such as Symbian Series60 phones (MS Smartphone support coming soon). With the Opera Platform&amp;#8482; Application Player, developers can create applications that interact with the phone&amp;#8217;s native functionality, such as the phone&amp;#8217;s address book, calendar or message store. In addition, developers can, using Ajax technology, interact directly with a multitude of web services, both home-grown and pre-existing.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics</title>
+      <link>https://robbevan.com/post/2005-11-14-google-analytics/</link>
+      <pubDate>Mon, 14 Nov 2005 12:38:47 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-11-14-google-analytics/</guid>
+      <description>A few months ago Google bought Urchin, provider of web analytics software &amp;#8216;used by over 20% of the Fortune 500&amp;#8242; and also, until their recent move, by TextDrive where this site is hosted. TextDrive seemed unable to re-negotiate a site license for Urchin (and began work on a home-grown Ruby on Rails solution code-named Anemone). Here&amp;#8217;s the reason why: Google Analytics, released today, is essentially Urchin 5 for free. And I was just thinking about buying Mint.</description>
+    </item>
+    
+    <item>
+      <title>News from Norway</title>
+      <link>https://robbevan.com/post/2005-11-13-news-from-norway/</link>
+      <pubDate>Sun, 13 Nov 2005 08:59:34 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-11-13-news-from-norway/</guid>
+      <description>In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to Merlin Mann&amp;#8217;s5ives here are some great stories from the English version of Aftenposten, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve bookmarked at del.icio.us* recently.
+(I&amp;#8217;m half-Norwegian, so I enjoy keeping up-to-date with what&amp;#8217;s happening in the &amp;#8216;motherland&amp;#8217;, but it&amp;#8217;s a great feed nevertheless.)
+Giant boulder closes highway  A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.</description>
+    </item>
+    
+    <item>
+      <title>Comment using the Skype API</title>
+      <link>https://robbevan.com/post/2005-11-12-using-the-skype-api/</link>
+      <pubDate>Sat, 12 Nov 2005 18:49:19 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-11-12-using-the-skype-api/</guid>
+      <description>I spent some time yesterday playing around with the Skype API because I wanted to see if I can initiate text-to-speech calls for a project we have in development.
+Seems like the Mac OS X API, like the Skype app itself, lags a little behind the Windows/Linux versions and the Applescript interface (which is easiest to use from a cgi script) is only partially implemented.
+I did manage to get a simple web-based IM sending app running on OS X server.</description>
+    </item>
+    
+    <item>
+      <title>More on semi-private del.icio.us bookmarks</title>
+      <link>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</link>
+      <pubDate>Sat, 05 Nov 2005 15:42:03 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</guid>
+      <description>Jon Udell&amp;#8217;spost (via Lifehacker) on Alex Bosworth&amp;#8217;s hack to save semi-private delicious bookmarks using the for:yourname tag prompted me to fix an aspect of my use of delicious that has been bugging me recently.
+For a while now, I&amp;#8217;ve been using a variation on Frasier Speirs&amp;#8217; AppleScript to post to delicious directly from QuickSilver, tagging these GTD-style with @review, for those times when I want bookmark something quickly without going to the trouble of describing, annotating and tagging the link.</description>
+    </item>
+    
+    <item>
+      <title>AppleJacked!</title>
+      <link>https://robbevan.com/post/2005-11-01-applejacked/</link>
+      <pubDate>Tue, 01 Nov 2005 23:46:36 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-11-01-applejacked/</guid>
+      <description>For some reason, my PowerBook decided not to recognise me this morning and wouldn&amp;#8217;t allow me to log in. Eventually, I figured out I could reset my (corrupt) account&amp;#8217;s password from the login window using my &amp;#8216;master password&amp;#8217;, but then I wasn&amp;#8217;t able to start up to anything other than a blue screen. (Coincidentally, I&amp;#8217;d earlier read that one ofMac OS X 10.4.3&amp;#8242;s fixes &amp;#8211; released today &amp;#8211; addressed (an unrelated) issue in which high ASCII characters in a password could lead to a blue screen at startup, or prevent log in.</description>
+    </item>
+    
+    <item>
+      <title>Working with Flex 2 on Mac OS X</title>
+      <link>https://robbevan.com/post/2005-10-23-working-with-flex-2-on-mac-os-x/</link>
+      <pubDate>Sun, 23 Oct 2005 18:13:33 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-10-23-working-with-flex-2-on-mac-os-x/</guid>
+      <description>(Note: this post was originally written on release of the Flex 2 alpha. I&amp;#8217;ve since updated it for the Flex 2 beta.)
+Macromedia recently announced Macromedia Labs and the availability of the Flex 2 product line alpha, which includes a new Eclipse-based IDE and a new high performance client runtime (Flash Player 8.5) alongside the development framework. Unfortunately, for now, development on the Mac is not supported and Macromedia only provide an installer for Flex Builder 2, the Flex Framework 2, Flex samples and command line tools for Windows.</description>
+    </item>
+    
+    <item>
+      <title>Giving .Mac the chop</title>
+      <link>https://robbevan.com/post/2005-10-07-giving-mac-the-chop/</link>
+      <pubDate>Fri, 07 Oct 2005 13:47:37 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-10-07-giving-mac-the-chop/</guid>
+      <description>Today I let my .Macsubscription expire. I&amp;#8217;ve been a .Macsubscriber since Apple began charging for what was once a free service, but I can no longer justify the &amp;#8216;equivalent of &amp;pound;5.75 a month&amp;#8217; for Apple&amp;#8217;s suite of Internet services. I&amp;#8217;ve grudgingly paid the $100 fee for the past couple of years, largely for the ability to sync my bookmarks, calendars and contacts across machines, even if each time I&amp;#8217;ve felt vaguely conned at having to pay for something that ought to be free (the same feeling you get on finding out you need to purchase a new QuickTime Pro key with each version bump).</description>
+    </item>
+    
+    <item>
+      <title>Plat du Jour live</title>
+      <link>https://robbevan.com/post/2005-10-06-plat-du-jour-live/</link>
+      <pubDate>Thu, 06 Oct 2005 12:49:44 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-10-06-plat-du-jour-live/</guid>
+      <description>Went to see Matthew Herbert and his apron-clad &amp;#8216;brigade&amp;#8217; perform Plat du Jour at the Barbican on Monday night. Unfortunately I couldn&amp;#8217;t shake the feeling that Herbert and co were a little bored by the idea of a last London performance (they delayed the start for a few minutes trying to work out if they could do the whole thing in reverse, just to make it more interesting for themselves) and his slightly irritating assumption that most of the audience had seen it before seemed like a reason not to try too hard.</description>
+    </item>
+    
+    <item>
+      <title>Running Macromedia Flex with JBoss on Mac OS X Server</title>
+      <link>https://robbevan.com/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/</link>
+      <pubDate>Thu, 06 Oct 2005 01:45:45 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/</guid>
+      <description>Although one of the early Flex beta installers for Linux also worked on Mac OS X, this is no longer true for the 1.0 release version. However, this doesn&amp;#8217;t mean it can&amp;#8217;t be installed. All you need to do is extract the WAR files from the installer: unzip -d flex flex-10-lin.bin (extracting the contents of the archive to a new directory &amp;#8216;flex&amp;#8217; in the working directory). These will be in the dist directory at flex/R_/dist.</description>
+    </item>
+    
+    <item>
+      <title>The mystic claw</title>
+      <link>https://robbevan.com/post/2005-10-06-the-mystic-claw/</link>
+      <pubDate>Thu, 06 Oct 2005 01:45:45 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-10-06-the-mystic-claw/</guid>
+      <description>My arrival back from Halifax with a live lobster for dinner re-ignited the &amp;#8216;is it cruel to dispatch a lobster in boiling water&amp;#8217; debate in our household. I&amp;#8217;ve always had a bit of a lobster fetish (I once had a fabulous Katherine Hammnet lobster t-shirt, now faded beyond recognition), so the mere presence of a live lobster in the house was a big thrill for me and especially for the kids.</description>
+    </item>
+    
+    <item>
+      <title>Bonk</title>
+      <link>https://robbevan.com/post/2005-08-24-bonk/</link>
+      <pubDate>Wed, 24 Aug 2005 13:03:51 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-08-24-bonk/</guid>
+      <description>A few years ago, after we had first created the fictional world of XPT, my brother (who&amp;#8217;s a lot more familiar with the art world than I was then or now) alerted me to Finnish artist Alvar Gullichsen&amp;#8217;s Bonk Business Inc.
+&amp;gt; &amp;#8230;a multiglobal industrial enterprise at the forefront of 3rd millennium technologies. The company is the world leader in fully Defunctioned Machinery, Cosmic Therapy applications, Advanced Disinformation Systems (ADS), Repacked consumer products and LBH (Localized Black Hole) technology.</description>
+    </item>
+    
+    <item>
+      <title>Plat du Jour</title>
+      <link>https://robbevan.com/post/2005-08-04-plat-du-jour/</link>
+      <pubDate>Wed, 03 Aug 2005 23:11:35 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-08-04-plat-du-jour/</guid>
+      <description>The long-awaited (by me at least) new album Plat du Jour from Matthew Herbert was released last week. Over two years in the making this is a &amp;#8216;concept&amp;#8217; album about &amp;#8220;the international language of food&amp;#8221; with some great tunes, including two standout tracks: Celebrity, made entirely from food aimed at children endorsed by celebrities and the only vocal track (&amp;#8220;Go Gordon, go Ramsay, go Beyonc&amp;eacute;&amp;#8230;&amp;#8221;) and The Nine Seeds Of Navdanya, generated from seeds provided by a conservation organisation in India.</description>
+    </item>
+    
+    <item>
+      <title>Liquorice redux</title>
+      <link>https://robbevan.com/post/2005-08-02-liquorice-redux/</link>
+      <pubDate>Tue, 02 Aug 2005 20:21:08 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-08-02-liquorice-redux/</guid>
+      <description>Knowing my predilection for liquorice, some family members recently brought me box of crushed liquorice root back from Egypt. Rather than drink the infusion, I thought I&amp;#8217;d attempt to recreate a Heston Blumenthal dish we ate at the Fat Duck 18 months ago: SALMON POACHED WITH LIQUORICE. I remembered I&amp;#8217;d kept Blumenthal&amp;#8217;s recipe for liquorice jelly from The Guardian in 2003 for exactly this reason. The dish we ate at the Fat Duck was garnished with chicory (without doubt the best chicory I&amp;#8217;ve ever tasted), but The Guardian version (and the version on today&amp;#8217;s menu at the Fat Duck) recommends pink grapefruit and asparagus alongside the salmon, as &amp;#8220;both liquorice and asparagus contain a compound called asparagine&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Is taste symmetrical?</title>
+      <link>https://robbevan.com/post/2005-07-25-is-taste-symmetrical/</link>
+      <pubDate>Mon, 25 Jul 2005 13:22:54 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-07-25-is-taste-symmetrical/</guid>
+      <description>Overheard on a train (two women chatting about lunch): &amp;#8220;Is taste symmetrical?&amp;#8221;, meaning Are Human Taste Thresholds Similar on the Right and Left Sides of the Tongue? Basically, the answer is yes: &amp;#8220;taste threshold sensitivity is equivalent on the left and right anterior tongue for most individuals.&amp;#8221;
+And whilst we&amp;#8217;re on the subject of eavesdropping, check out Overheard in New York.</description>
+    </item>
+    
+    <item>
+      <title>Dinner at 25,000ft</title>
+      <link>https://robbevan.com/post/2005-07-01-dinner-at-25000ft/</link>
+      <pubDate>Fri, 01 Jul 2005 20:55:21 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-07-01-dinner-at-25000ft/</guid>
+      <description>David Hempleman-Adams, who broke a 25-year-old world balloon altitude record in December last year with the aim of drawing attention to climate change, broke another world record yesterday, hosting a dinner party for his mates Bear Grylls and Alan Veal, 7,000m (25,000ft) above Salisbury Plain. The three-course meal included asparagus tips, duck a l&amp;#8217;orange and fruit terrine. Dining four miles above the earth has its own particular hazards as Patrick Barkham reports in today&amp;#8217;s Guardian: &amp;#8220;they had to snatch off their masks and gulp their food before taking some more oxygen, while being careful not to drop anything &amp;#8211; a spear of asparagus falling from that height could kill someone.</description>
+    </item>
+    
+    <item>
+      <title>Wrong number</title>
+      <link>https://robbevan.com/post/2005-06-17-wrong-number/</link>
+      <pubDate>Fri, 17 Jun 2005 14:53:30 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-06-17-wrong-number/</guid>
+      <description>Just had my first SkypeIn wrong number: &amp;#8220;&amp;#8216;Ello, is that KwikFit?&amp;#8221;
+http://www.skype.com/go/skypebuttons
+--   </description>
+    </item>
+    
+    <item>
+      <title>Illustrations for each page of Gravity&amp;#8217;s Rainbow</title>
+      <link>https://robbevan.com/post/2005-05-19-illustrations-for-each-page-of-gravitys-rainbow/</link>
+      <pubDate>Thu, 19 May 2005 21:41:57 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-05-19-illustrations-for-each-page-of-gravitys-rainbow/</guid>
+      <description>Gravity&amp;#8217;s Rainbow being my favourite book and all, seems like I have to link to this: &amp;#8220;nobody asked me to, but I did it anyway&amp;#8221;. Although this is perhaps a more impressive page.</description>
+    </item>
+    
+    <item>
+      <title>Lifeblog</title>
+      <link>https://robbevan.com/post/2005-04-27-lifeblog/</link>
+      <pubDate>Wed, 27 Apr 2005 21:33:47 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-04-27-lifeblog/</guid>
+      <description>After a year long fling with Sony Ericsson, I&amp;#8217;ve come back to Nokia and upgraded to a 6630 Smartphone. Actually, I haven&amp;#8217;t dumped the T610 entirely, this will sit next to my server, with a pay as you go SIM, so I can start working on a couple of SMS apps using Tim Ellis&amp;#8217; excellent UltraSMS utility.
+The 6630 is a great phone. Not only does it have a very usable 1.</description>
+    </item>
+    
+    <item>
+      <title>Peter Saville fonts</title>
+      <link>https://robbevan.com/post/2005-04-19-peter-saville-fonts/</link>
+      <pubDate>Tue, 19 Apr 2005 05:48:21 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-04-19-peter-saville-fonts/</guid>
+      <description>If you can work your way around the site&amp;#8217;s terrible navigation, there are some great free fonts to be had here.</description>
+    </item>
+    
+    <item>
+      <title>Radio David Byrne</title>
+      <link>https://robbevan.com/post/2005-04-05-radio-david-byrne/</link>
+      <pubDate>Mon, 04 Apr 2005 23:50:44 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-04-05-radio-david-byrne/</guid>
+      <description>My new favourite internet radio station. Also available in iTunes&amp;#8217; &amp;#8220;Eclectic&amp;#8221; category.</description>
+    </item>
+    
+    <item>
+      <title>Ta-da</title>
+      <link>https://robbevan.com/post/2005-01-20-ta-da/</link>
+      <pubDate>Thu, 20 Jan 2005 17:25:13 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2005-01-20-ta-da/</guid>
+      <description>I&amp;#8217;m a huge fan of Basecamp and have been a happy and productive basecamper for six months or so. My favourite feature has always been the To-Do list and now 37signals have released this as a separate app: Ta-da Lists. In their own words, &amp;#8220;just what you need and nothing you don&amp;#8217;t&amp;#8221;. Best of all, it&amp;#8217;s free.</description>
+    </item>
+    
+    <item>
+      <title>DNA Cocktail</title>
+      <link>https://robbevan.com/post/2004-11-10-dna-cocktail/</link>
+      <pubDate>Wed, 10 Nov 2004 08:43:11 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-11-10-dna-cocktail/</guid>
+      <description>One of the highlights for me at the PAL Digital Science Lab for Wellcome/NESTA I attended recently was an evening spent sampling a couple of Dean Maddon&amp;#8217;s cocktails of nucleic acids. I&amp;#8217;m pleased to note that the recipe is available online. Best served in a test tube, obviously.</description>
+    </item>
+    
+    <item>
+      <title>&lt;strike&gt;Jacques Derrida&lt;/strike&gt;</title>
+      <link>https://robbevan.com/post/2004-10-10-jacques-derrida/</link>
+      <pubDate>Sun, 10 Oct 2004 22:57:11 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-10-10-jacques-derrida/</guid>
+      <description>One of my erstwhile heroes, Jacques Derrida, the Blake Carrington of French Philosophy, is dead. Or perhaps now we just refer to him &amp;#8216;sous rature&amp;#8217;: Jacques Derrida.</description>
+    </item>
+    
+    <item>
+      <title>ActionScript for TextMate</title>
+      <link>https://robbevan.com/post/2004-10-09-actionscript-for-textmate/</link>
+      <pubDate>Sat, 09 Oct 2004 08:19:09 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-10-09-actionscript-for-textmate/</guid>
+      <description>This installer adds ActionScript syntax colouring and a Test Movie in Flash command to the awesome TextMate editor for Mac OS X. Test Movie in Flash works with .fla files added to your project (hit Cmd-Rtn with a .fla file selected), although at the moment TextMate displays binary files as text, which for a large file can be slow. Hopefully this issue will be dealt with in the upcoming 1.0.1.</description>
+    </item>
+    
+    <item>
+      <title>Getting Things Done with liquorice tea</title>
+      <link>https://robbevan.com/post/2004-10-01-getting-things-done-with-liquorice-tea/</link>
+      <pubDate>Fri, 01 Oct 2004 09:28:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-10-01-getting-things-done-with-liquorice-tea/</guid>
+      <description>The Getting Things Done meme is not just exploding across the web: recently Victoria Moore in the Weekend Guardian refered to a liquorice tea as stuff that &amp;#8220;somehow encourages the transparent and focused mind required to Get Things Done&amp;#8221; (it&amp;#8217;s the capitalisation that gives it away, surely: and clearly a reference to David Allen&amp;#8217;s &amp;#8220;mind like water&amp;#8221;, a state in which you only give the attention to things that they deserve).</description>
+    </item>
+    
+    <item>
+      <title>Berghaus knives scam</title>
+      <link>https://robbevan.com/post/2004-09-16-berghaus-knives-scam/</link>
+      <pubDate>Thu, 16 Sep 2004 17:19:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-09-16-berghaus-knives-scam/</guid>
+      <description>A guy called Jacob called at my house today. He said he&amp;#8217;d been staying with my neighbour Roger and was on his way back to Holland after a catering trade show at RAF Benson, nearby. He didn&amp;#8217;t want to take all his stock back on the ferry with him: were we interested in taking any of it off his hands? If we could cover his costs he&amp;#8217;d let us have an entire case of knives and a 12-piece cookware set for roughly 10% of the retail price (1425 EURO for the pans, 795 for the knives).</description>
+    </item>
+    
+    <item>
+      <title>Subversion on Mac OS X with DarwinPorts</title>
+      <link>https://robbevan.com/post/2004-08-17-subversion-on-mac-os-x-with-darwinports/</link>
+      <pubDate>Mon, 16 Aug 2004 23:41:17 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-08-17-subversion-on-mac-os-x-with-darwinports/</guid>
+      <description>I wish I&amp;#8217;d had the benefit of this article a few months back when I was setting up my Subversion server. Although the svn documentation is excellent, it&amp;#8217;s good to see a Mac OS X specific tutorial.
+Installing Subversion (plus dependencies) using DarwinPorts is really simple: just cd to your darwinports/dports/ directory and type sudo port install subversion +mod_dav_svn. Instructions on how to install DarwinPorts are here.
+I put together a Subversion startup item (installed into /Library/StartUpItems/), although really this is just an Apache2 startup item, but I called it Subversion since that&amp;#8217;s all I&amp;#8217;m using Apache2 for.</description>
+    </item>
+    
+    <item>
+      <title>Hacking wild Sourdough</title>
+      <link>https://robbevan.com/post/2004-07-06-hacking-wild-sourdough/</link>
+      <pubDate>Tue, 06 Jul 2004 08:14:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-07-06-hacking-wild-sourdough/</guid>
+      <description>This discussion (&amp;#8220;Sourdough puts the art of hacking back into breadmaking&amp;#8221;) reminded me that my sourdough starter is currently in hibernation:</description>
+    </item>
+    
+    <item>
+      <title>Maeda&amp;#8217;s Desktop Food images</title>
+      <link>https://robbevan.com/post/2004-07-03-maedas-desktop-food-images/</link>
+      <pubDate>Sat, 03 Jul 2004 07:58:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-07-03-maedas-desktop-food-images/</guid>
+      <description>I&amp;#8217;m not really a big fan of custom desktop backgrounds, generally prefering to stick with the default &amp;#8216;Aqua Graphite&amp;#8217; image that I&amp;#8217;m used to, but if I was, one of John Maeda&amp;#8217;s food images would be my first choice. Perhaps this Damien Hirst&amp;#8217;s shark-in-the-tank influenced &amp;#8220;geometrical paradise of dried anchovies&amp;#8221;:</description>
+    </item>
+    
+    <item>
+      <title>John Cage&amp;#8217;s 4&amp;#8217;33&amp;#8243;</title>
+      <link>https://robbevan.com/post/2004-06-22-john-cages-433/</link>
+      <pubDate>Tue, 22 Jun 2004 09:56:28 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-06-22-john-cages-433/</guid>
+      <description>John Cage&amp;#8217;s most famous composition in MIDI, OGG, Sun .au and .wav formats!</description>
+    </item>
+    
+    <item>
+      <title>Spam poetry</title>
+      <link>https://robbevan.com/post/2004-06-18-spam-poetry/</link>
+      <pubDate>Fri, 18 Jun 2004 07:28:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-06-18-spam-poetry/</guid>
+      <description>06-18-2004 at 08:28 AM
+The Register is suggesting we start paying attention to the &amp;#8220;random collections of (often highly esoteric) words&amp;#8221; that &amp;#8220;spam tsunamists are in the habit of finishing their missives with&amp;#8221;, as if this constituted a form of William Burroughs-like cut-up poetry. Here&amp;#8217;s one I got this morning from spam poet Darla ftdvmufsxkpo@thaimail.com, entitled &amp;#8216;osmotic&amp;#8217;:
+deerskin,was greeted with,splenetic,again he pictured,downstream,technique of your,abeyance,up and gave,biology,handbags of antelope,depletion,of the four,linotype,family starts lying,kibbutzim,&amp;lt;span class=&amp;quot;hilite&amp;quot;&amp;gt;all&amp;lt;/span&amp;gt; the while.</description>
+    </item>
+    
+    <item>
+      <title>Herding animals remotely</title>
+      <link>https://robbevan.com/post/2004-06-11-herding-animals-remotely/</link>
+      <pubDate>Fri, 11 Jun 2004 12:26:43 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-06-11-herding-animals-remotely/</guid>
+      <description>Years ago, Tim and I invented a company called SHEIP, one of XPT&amp;#8217;s clients, who were developing animal networking technology that would enable sheep, for example, each to have individual IP addresses and to be herded remotely. It&amp;#8217;s good to see that this kind of technology really is in development, even if it&amp;#8217;s not quite ready for prime (beef) time: &amp;#8220;A farmer would control multiple herds from a single server at home as if they were playing a video game, said Zack Butler, of Dartmouth College in Hanover, New Hampshire.</description>
+    </item>
+    
+    <item>
+      <title>ActionScript syntax colouring in Xcode</title>
+      <link>https://robbevan.com/post/2004-06-01-actionscript-syntax-colouring-in-xcode/</link>
+      <pubDate>Tue, 01 Jun 2004 07:22:24 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-06-01-actionscript-syntax-colouring-in-xcode/</guid>
+      <description>(New: see also ActionScript for TextMate)
+I had this working previously in Project Builder, but the specification files were broken in Xcode. Thanks to the C# versions I found here, I&amp;#8217;ve been able to update these for Xcode. This installer adds two files, ActionScript.pbfilespec and ActionScript.pblangspec to /Library/Application Support/Apple/Developer Tools/Specifications, adding ActionScript syntax colouring and code completion (press opt-esc) to Xcode.
+Update: Sam Robbins updated ActionScript.pblangspec to include component methods and properties.</description>
+    </item>
+    
+    <item>
+      <title>Quicksilver</title>
+      <link>https://robbevan.com/post/2004-04-03-quicksilver/</link>
+      <pubDate>Sat, 03 Apr 2004 12:40:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-04-03-quicksilver/</guid>
+      <description>Just in time for the publication of The Confusion, I finally finished Neal Stephenson&amp;#8217;s Quicksilver. It&amp;#8217;s probably taken me longer to read it than Stephenson took to write it, even in long hand (Colophon: &amp;#8220;The manuscript of The Baroque Cycle was written by hand on 100% cotton paper using three different fountain pens: a Waterman Gentleman, a Rotring, and a Jorg Hysek.&amp;#8221;). I feel like I&amp;#8217;ve been reading it in long eye, although the experience was much enhanced by The Metaweb, a wiki set up by Stephenson and others for the book, especially the Quicksilver annotations page.</description>
+    </item>
+    
+    <item>
+      <title>Mac the Knife</title>
+      <link>https://robbevan.com/post/2004-03-31-mac-the-knife/</link>
+      <pubDate>Wed, 31 Mar 2004 08:13:34 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-03-31-mac-the-knife/</guid>
+      <description>Too bad I just got a very fine 3-piece hand-forged Gyuto Hocho Knife Set from Dick Fine Tools, otherwise I&amp;#8217;d be wanting one of these supposedly the &amp;#8220;world&amp;#8217;s sharpest knives&amp;#8221; and used by some of the world&amp;#8217;s greatest chefs. They may be sharp, but are they made the same way as Samurai swords? I think not.
+Next winter&amp;#8217;s purchase from Dick: the Ki-Wari Ono, a Japanse splitting axe that &amp;#8220;will make splitting firewood your favourite chore&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Here&amp;#8217;s what we ate</title>
+      <link>https://robbevan.com/post/2004-01-16-heres-what-we-ate/</link>
+      <pubDate>Tue, 13 Jan 2004 10:23:53 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-01-16-heres-what-we-ate/</guid>
+      <description>Degustation Menu &amp;#8211; £85.00
+Designed to maximise the Fat Duck dining experience. This menu &amp;#8211; consisting of a series of small courses (plus a few hidden extras) &amp;#8211; is intended to be taken by the whole table
+NITRO-GREEN TEA AND LIME MOUSSE
+OYSTER AND PASSION FRUIT JELLY, LAVENDER
+POMMERY GRAIN MUSTARD ICE CREAM, RED CABBAGE GASPACHO
+QUAIL JELLY, PEA PUREE, CREAM OF LANGOUSTINE
+SNAIL PORRIDGE
+Jabugo ham
+ROAST FOIE GRAS</description>
+    </item>
+    
+    <item>
+      <title>The Fat Duck</title>
+      <link>https://robbevan.com/post/2004-01-13-the-fat-duck/</link>
+      <pubDate>Tue, 13 Jan 2004 10:23:53 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2004-01-13-the-fat-duck/</guid>
+      <description>Dinner. Tonight. 8.30pm.
+Update: Here&amp;#8217;s what we ate  </description>
+    </item>
+    
+    <item>
+      <title>Digital camera woes</title>
+      <link>https://robbevan.com/post/2003-11-26-digital-camera-woes/</link>
+      <pubDate>Wed, 26 Nov 2003 15:08:22 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-11-26-digital-camera-woes/</guid>
+      <description>I spent about two hours today trying to fix my PowerShot S10 so I can take a picture of my phone (don&amp;#8217;t ask). I just kept getting the same E28 error in the viewfinder and then the lens would retract. So I reformatted the CF card and upgraded the [firmware]1 &amp;#8211; still nothing. Finally, I found this thread. The upshot is, no one but Canon knows what the error is and you have to pay them £150 to tell you.</description>
+    </item>
+    
+    <item>
+      <title>Macromedia Flex</title>
+      <link>https://robbevan.com/post/2003-11-17-macromedia-flex/</link>
+      <pubDate>Mon, 17 Nov 2003 15:59:12 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-11-17-macromedia-flex/</guid>
+      <description>If you&amp;#8217;ve spent any time, as I have over the last year or so, working with Flash as the presentation layer for Java-based webapps, keeping as much of your ActionScript as possible in text files so that you can integrate these with your version control system along with your other source files, and wishing you didn&amp;#8217;t have to use the Flash authoring tool to compile your movies, Flex (formerly Royale), a &amp;#8220;standards-based programming methodology for building the presentation tier of Rich Internet Applications&amp;#8221; from Macromedia (now in beta) might just be what you&amp;#8217;re looking for.</description>
+    </item>
+    
+    <item>
+      <title>The World&amp;#8217;s Biggest Liar Competition</title>
+      <link>https://robbevan.com/post/2003-11-15-the-worlds-biggest-liar-competition/</link>
+      <pubDate>Sat, 15 Nov 2003 08:48:10 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-11-15-the-worlds-biggest-liar-competition/</guid>
+      <description>It&amp;#8217;s that time again: Copeland Borough Council presents The World&amp;#8217;s Biggest Liar Competition, held annually at The Bridge Inn, Santon Bridge, Cumbria. This years contest will take place on Thursday, 20th November.
+In 2000, Tim and I took part in a Festival of Lying organised around the competition by artists Anna Best, Karen Guthrie, Nina Pope and Simon Poulter. Other speakers included crop circle maker Rob Irving, magician Peter Lamont, author Jon Ronson and Elvis.</description>
+    </item>
+    
+    <item>
+      <title>Fischli and Weiss</title>
+      <link>https://robbevan.com/post/2003-11-12-fischli-and-weiss/</link>
+      <pubDate>Wed, 12 Nov 2003 13:00:03 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-11-12-fischli-and-weiss/</guid>
+      <description>These guys have been working together since 1979, and in 1987 made a film called Der Lauf der Dinge (The Way Things Go) the inspiration behind Honda&amp;#8217;s recent Cog TV advert. Watch the trailer for The Way Things Go and be amazed.
+(I&amp;#8217;m reminded of Mehdi Norowzian&amp;#8217;s film Joy which was the starting point for Guinness&amp;#8217;s Anticipation, a hugely popular advert we at NoHo Digital turned into a hugely popular screensaver.</description>
+    </item>
+    
+    <item>
+      <title>Jason Salavon</title>
+      <link>https://robbevan.com/post/2003-11-03-jason-salavon/</link>
+      <pubDate>Mon, 03 Nov 2003 15:22:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-11-03-jason-salavon/</guid>
+      <description>Jason Salavon&amp;#8217;s work is just sublime. Especially his visualizations of &amp;#8220;statistical data tracking the US domestic production of shoes and slippers from 1960-1998 in 31 categories&amp;#8221;. And the nudes (he should enter these for Miss Digital World).
+Update: Inspired by Jason&amp;#8217;s work, Flickr member brevity (Neil Kandalgaonkar) has written an app &amp;#8220;to blend Flickr images which share the same tags&amp;#8221;.  </description>
+    </item>
+    
+    <item>
+      <title>The coldest spot on Earth</title>
+      <link>https://robbevan.com/post/2003-11-01-the-coldest-spot-on-earth/</link>
+      <pubDate>Sat, 01 Nov 2003 12:52:16 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-11-01-the-coldest-spot-on-earth/</guid>
+      <description>Whilst doing some research on Food Science and on Nicholas Kurti in particular, the so-called &amp;#8216;father of Molecular Gastronomy&amp;#8217;, I discovered that Oxford&amp;#8217;s Science Area, where Kurti worked and not far from where I live, is renowned for once having been the &amp;#8216;coldest spot on Earth&amp;#8217;: &amp;#8220;Using demagnetisation of nuclear alignment, Professor Kurti was able to create temperatures of a millionth of a degree above absolute zero.&amp;#8221;
+Cool.
+Kurti&amp;#8217;s interest in what he called &amp;#8216;gastronomic physics&amp;#8217; also led him to invent an &amp;#8216;Inverted Baked Alaska&amp;#8216; which consisted of frozen meringue filled with piping hot apricot puree, described as &amp;#8216;sticking a spoon into Iceland and getting an eyeful of magma&amp;#8217;.</description>
+    </item>
+    
+    <item>
+      <title>Heaven Above, Hell Below</title>
+      <link>https://robbevan.com/post/2003-10-03-heaven-above-hell-below/</link>
+      <pubDate>Fri, 03 Oct 2003 18:05:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-10-03-heaven-above-hell-below/</guid>
+      <description>At the Damien Hirst show I was struck most by perhaps the smallest and least conspicuous piece in the exhibition, a small &amp;#8216;pills and dead flies&amp;#8217; canvas in White Cube&amp;#8217;s reception. I think this demonstrates what I like most about Damien&amp;#8217;s work, the economy of some of his ideas &amp;#8211; I mean what two small objects of more or less the same size could be more different than a perfectly-formed white pill and a dead fly?</description>
+    </item>
+    
+    <item>
+      <title>Duets</title>
+      <link>https://robbevan.com/post/2003-10-02-duets/</link>
+      <pubDate>Thu, 02 Oct 2003 21:09:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-10-02-duets/</guid>
+      <description>Tim has been thinking about creative partnerships again, after we joined the crowds at the Hirst show at White Cube yesterday. I followed this up today by going to see Candice Breitz&amp;#8217;s video installations at Modern Art Oxford. One piece in particular struck a chord: Double Karen (Close to You) 2000 which samples video of Karen Carpenter singing a stripped down version of (They Long To Be) Close to You. One of a series of &amp;#8216;duets&amp;#8217; (the others feature Olivia Newton-John, Annie Lennox and Whitney Houston), the work consists of two identical monitors facing each other over a stairwell, showing one Karen singing only the words &amp;#8220;me-me-me&amp;#8221; to the other Karen who sings &amp;#8220;you-you-you&amp;#8221; in reply.</description>
+    </item>
+    
+    <item>
+      <title>As It Happens</title>
+      <link>https://robbevan.com/post/2003-09-03-as-it-happens/</link>
+      <pubDate>Wed, 03 Sep 2003 20:20:00 +0000</pubDate>
+      
+      <guid>https://robbevan.com/post/2003-09-03-as-it-happens/</guid>
+      <description>Jim Bengston, my uncle, has a new show. Most of these images are from the three months of any year Jim spends traveling the US in his Airstream (he&amp;#8217;s originally from Illinois, but has lived in Oslo since the 70s) but there are a few from times and places I recognise, like the one from New Years Eve in Berlin (we all climbed the Teufelsberg, a hill made from all the rubble left in the city after WW2).</description>
     </item>
     
   </channel>

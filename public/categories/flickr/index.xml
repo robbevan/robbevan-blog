@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/flickr/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Flickr on Rob Bevan</title>
+    <link>https://robbevan.com/categories/flickr/</link>
+    <description>Recent content in Flickr on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/flickr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 23 Feb 2006 00:07:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/flickr/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Future of Web Apps</title>
@@ -14,22 +17,7 @@
       <pubDate>Thu, 23 Feb 2006 00:07:14 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-23-the-future-of-web-apps/</guid>
-      <description>&lt;p&gt;Like most of the UK&amp;#8217;s web development community I was at the Carson Workshops &lt;a href=&#34;http://www.carsonworkshops.com/summit/&#34;&gt;Future of Web Apps&lt;/a&gt; summit a couple of weeks ago. A couple of highlights for me were &lt;a href=&#34;http://www.plasticbag.org/archives/2006/02/my_future_of_web_apps_slides.shtml&#34;&gt;Tom Coates&amp;#8217;&lt;/a&gt; wonderfully lucid and entertaining synthesis of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; things Web 2.0 (see also &lt;a href=&#34;http://jeremy.zawodny.com/blog/&#34;&gt;Jeremy Zawodny&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://jeremy.zawodny.com/blog/archives/006323.html&#34;&gt;annotations&lt;/a&gt; of Tom&amp;#8217;s slides) and &lt;a href=&#34;http://www.loudthinking.com/&#34;&gt;David Heinemeier Hansson&amp;#8217;s&lt;/a&gt; Ruby on Rails &amp;#8216;sermon&amp;#8217;. Although I&amp;#8217;ve been working with Rails intermittently for at least eighteen months I&amp;#8217;ve never seen David speak and it had never really occurred to me before just how &lt;strong&gt;Scandinavian&lt;/strong&gt; Rails is: minimal, beautifully designed and good for the soul.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/96005585@N00/97209782/&#34; title=&#34;photo sharing&#34;&gt;&lt;img src=&#34;http://static.flickr.com/42/97209782_ce4bf0bd5c_m.jpg&#34; alt=&#34;&#34; class=&#34;flickr&#34; style=&#34;float: none; padding: 0;&#34; /&gt;&lt;/a&gt;&lt;p class=&#34;caption&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/brettlider/36071096/&#34;&gt;DHH&amp;#8217;s Devil&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/96005585@N00/&#34;&gt;Damien Tanner&lt;/a&gt;.&lt;/p&gt;
-Anyway, by now, the talks (sorry, &amp;#8216;podcasts&amp;#8217;) are &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; &lt;a href=&#34;http://www.carsonworkshops.com/summit/&#34;&gt;available for download&lt;/a&gt;, there are numerous write-ups (best of which are &lt;a href=&#34;http://simon.incutio.com/archive/2006/02/08/summit&#34;&gt;Simon Willison&amp;#8217;s notes&lt;/a&gt;), hundreds of &lt;a href=&#34;http://www.flickr.com/photos/tags/futureofwebapps&#34;&gt;Flickr images&lt;/a&gt; and &lt;a href=&#34;http://www.mindthis.net/&#34;&gt;Lars Plougmann&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://flickr.com/photos/criminalintent/search/tags:futureofwebapps%2Cmindmap/tagmode:all/&#34;&gt;mindmaps&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&#34;update&#34;&gt;
-  Update: and &lt;a href=&#34;http://nubyonrails.com/articles/2006/02/23/carson-workshops-summit-podcast-feed&#34;&gt;Geoffrey Grosenbach&lt;/a&gt; has assembled &lt;a href=&#34;http://topfunky.com/clients/carson/podcast.xml&#34;&gt;a feed&lt;/a&gt; so you can subscribe to a one-time podcast and get &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the talks in your favourite podcasting client
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/futureofwebapps&#34; rel=&#34;tag&#34;&gt;futureofwebapps&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/rails&#34; rel=&#34;tag&#34;&gt;rails&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Like most of the UK&amp;#8217;s web development community I was at the Carson Workshops Future of Web Apps summit a couple of weeks ago. A couple of highlights for me were Tom Coates&amp;#8217; wonderfully lucid and entertaining synthesis of all things Web 2.0 (see also Jeremy Zawodny&amp;#8217;s annotations of Tom&amp;#8217;s slides) and David Heinemeier Hansson&amp;#8217;s Ruby on Rails &amp;#8216;sermon&amp;#8217;. Although I&amp;#8217;ve been working with Rails intermittently for at least eighteen months I&amp;#8217;ve never seen David speak and it had never really occurred to me before just how Scandinavian Rails is: minimal, beautifully designed and good for the soul.</description>
     </item>
     
   </channel>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/links/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Links on Rob Bevan</title>
+    <link>https://robbevan.com/categories/links/</link>
+    <description>Recent content in Links on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/links/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 20 Mar 2006 06:31:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/links/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>del.icio.us rolls out private saving feature (in beta)</title>
@@ -14,16 +17,9 @@
       <pubDate>Mon, 20 Mar 2006 06:31:00 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
-      <description>&lt;p&gt;From &lt;a href=&#34;http://blog.del.icio.us/blog/2006/03/private_saving_.html&#34;&gt;del.ico.us/blog&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/delicious&#34; rel=&#34;tag&#34;&gt;delicious&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>From del.ico.us/blog:
+ This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is all about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.
+ (Technorati tags: delicious) </description>
     </item>
     
     <item>
@@ -32,63 +28,8 @@
       <pubDate>Mon, 19 Dec 2005 11:26:33 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
-      <description>&lt;p&gt;Whilst searching the Opera Mobile forums, I came across &lt;a href=&#34;http://my.opera.com/community/forums/topic.dml?id=112098&#34;&gt;this fairly comprehensive list&lt;/a&gt; of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.&lt;/p&gt;
-
-&lt;p&gt;Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 &lt;a href=&#34;http://www.macromedia.com/devnet/devices/articles/flashlite_v2_preview.html&#34;&gt;announced back in November&lt;/a&gt;, you&amp;#8217;ll also be excited to hear from &lt;a href=&#34;http://www.macromedia.com/cfusion/webforums/forum/messageview.cfm?catid=472&amp;amp;threadid=1085444&amp;amp;enterthread=y&#34;&gt;this official forum post&lt;/a&gt; that this will be available to developers from &lt;a href=&#34;http://labs.macromedia.com/&#34;&gt;Macromedia Labs&lt;/a&gt; in January.&lt;/p&gt;
-
-&lt;p&gt;Update: Lost my phone recently. Here&amp;#8217;s my list of the first five essential S60 apps I re-installed:&lt;/p&gt;
-
-&lt;div class=&#34;links&#34;&gt;
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.apple.com/macosx/features/isync/&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.apple.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;iSync Agent&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      Restore contacts, calendar and todos the Mac way. Remember the days when you had to do this by hand?
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.shozu.com&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.shozu.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Shozu&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      Almost certainly the best way to upload images from your phone to &lt;a href=&#34;http://flickr.com/photos/robbevan/&#34;&gt;Flickr&lt;/a&gt;.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.salling.com/&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.salling.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Salling Clicker&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      It&amp;#8217;s still a great party trick to be able to control iTunes remotely from your phone.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.opera.com/products/mobile/&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.opera.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Opera Mobile&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      The &amp;#8220;fastest, most secure web browser available for S60 handsets&amp;#8221;. My browser of choice (at least until Nokia&amp;#8217;s new &lt;a href=&#34;http://opensource.nokia.com/projects/S60browser/&#34;&gt;Safari-based browser&lt;/a&gt; becomes available).
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.forum.nokia.com/main/0,,034-821,00.html&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.forum.nokia.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Python for Series 60&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      Rapid application development and prototyping, and the ability to create stand-alone Series 60 applications written in Python. Two scripts I use a lot: &lt;a href=&#34;http://anil.recoil.org/&#34;&gt;Anil Madhavapeddy&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://anil.recoil.org/projects/imgcollect-1.0.py&#34;&gt;imgcollect.py&lt;/a&gt;, a neat way to push &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; your phone&amp;#8217;s images to your laptop and &lt;a href=&#34;http://korakot.stumbleupon.com/&#34;&gt;korakot&amp;#8217;s&lt;/a&gt; &lt;a href=&#34;http://discussion.forum.nokia.com/forum/showthread.php?threadid=63694&#34;&gt;s60_gmap.py&lt;/a&gt; (see also korakot&amp;#8217;s library of &lt;a href=&#34;http://www.bigbold.com/snippets/user/korakot/tag/series60&#34;&gt;snippets&lt;/a&gt;).
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/opera&#34; rel=&#34;tag&#34;&gt;opera&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/s60&#34; rel=&#34;tag&#34;&gt;s60&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/flash-lite&#34; rel=&#34;tag&#34;&gt;flash-lite&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/isync&#34; rel=&#34;tag&#34;&gt;isync&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/shozu&#34; rel=&#34;tag&#34;&gt;shozu&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/flickr&#34; rel=&#34;tag&#34;&gt;flickr&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/salling-clicker&#34; rel=&#34;tag&#34;&gt;salling-clicker&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/python&#34; rel=&#34;tag&#34;&gt;python&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Whilst searching the Opera Mobile forums, I came across this fairly comprehensive list of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.
+Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 announced back in November, you&amp;#8217;ll also be excited to hear from this official forum post that this will be available to developers from Macromedia Labs in January.</description>
     </item>
     
     <item>
@@ -97,73 +38,9 @@
       <pubDate>Sun, 13 Nov 2005 08:59:34 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-11-13-news-from-norway/</guid>
-      <description>&lt;p&gt;In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to &lt;a href=&#34;http://www.merlinmann.com/&#34;&gt;Merlin Mann&amp;#8217;s&lt;/a&gt;&lt;a href=&#34;http://www.5ives.com/&#34;&gt;5ives&lt;/a&gt; here are some great stories from the English version of &lt;a href=&#34;http://www.aftenposten.no/english/&#34;&gt;Aftenposten&lt;/a&gt;, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve &lt;a href=&#34;http://del.icio.us/robbevan&#34;&gt;bookmarked&lt;/a&gt; at &lt;a href=&#34;http://del.icio.us&#34;&gt;del.icio.us&lt;/a&gt;* recently.&lt;/p&gt;
-
-&lt;p&gt;(I&amp;#8217;m half-Norwegian, so I enjoy keeping up-to-date with what&amp;#8217;s happening in the &amp;#8216;motherland&amp;#8217;, but it&amp;#8217;s a great &lt;a href=&#34;http://www.aftenposten.no/eksport/rss-1_0/?seksjon=english&amp;#038;utvalg=siste&#34; class=&#34;feed&#34;&gt;feed&lt;/a&gt; nevertheless.)&lt;/p&gt;
-
-&lt;div class=&#34;links&#34;&gt;
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1124727.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Giant boulder closes highway&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1125479.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Aker river runs white&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A mishap involving the delivery of paint in downtown Oslo on Friday left the River Aker colored an eerie shade of white. (Picture)
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1142226.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Tarantula no toy&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      An escaped tarantula wandered around a shopping center for at least two weeks before shocked employees finally reacted.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1148474.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;One shot, two moose&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A hunter in Troms in northern Norway could not believe his eyes when he saw the result of a single shot.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1148570.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Carnivorous lizard in toilet&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A three-year-old boy got the fright of his life on a trip to the toilet. (Picture)
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p style=&#34;font-size: 0.9em; text-align: right;&#34;&gt;
-  More &lt;a href=&#34;http://del.icio.us/robbevan/&#34;&gt;&lt;img style=&#34;float: none; padding: 4px 4px 0 4px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/delicious.small.gif&#34; alt=&#34;&#34; /&gt;del.icio.us bookmarks&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;(*apart from the impossible url, the other problem with &lt;a href=&#34;http://del.icio.us&#34;&gt;del.icio.us&lt;/a&gt; is that you can&amp;#8217;t use the name as a verb, in the same way that you can &lt;a href=&#34;http://google.com&#34;&gt;google&lt;/a&gt;, &lt;a href=&#34;http://skype.com&#34;&gt;skype&lt;/a&gt; or &lt;a href=&#34;http://digg.com&#34;&gt;digg&lt;/a&gt; something or someone: surely a prerequisite for any &amp;#8216;Web 2.0&amp;#8242; service)&lt;/p&gt;
-
-&lt;div class=&#34;update&#34;&gt;
-  &lt;p&gt;
-    Let&amp;#8217;s make it six: here&amp;#8217;s a story about a Norwegian restaurant that&amp;#8217;s &lt;a href=&#34;http://www.aftenposten.no/english/local/article1154580.ece&#34;&gt;decided to serve crow&lt;/a&gt;, which &amp;#8211; apparently &amp;#8211; &amp;#8220;is incredibly good. It tastes like chicken with a hint of game. &lt;em&gt;And it is safe to eat&lt;/em&gt;&amp;#8220;. And in other news, over in neighbouring Sweden a couple of drunken moose have been &lt;a href=&#34;http://customwire.ap.org/dynamic/stories/D/DRUNK_MOOSE?SITE=WABEJ&amp;#038;SECTION=HOME&amp;#038;TEMPLATE=DEFAULT&amp;#038;CTIME=2005-11-12-10-27-53&#34;&gt;causing havoc at a retirement home&lt;/a&gt;. This seems to be an ongoing problem with the wildlife in Sweden: earlier a suspected bird flu-infected seagull was &lt;a href=&#34;http://www.thelocal.se/article.php?ID=2411&amp;#038;date=20051102&amp;#038;PHPSESSID=322547e9d83ed11624be143e1deef578&#34;&gt;found to be drunk&lt;/a&gt;.
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (Technorati tags: &lt;a href=&#34;http://technorati.com/tag/norway&#34; rel=&#34;tag&#34;&gt;norway&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/delicious&#34; rel=&#34;tag&#34;&gt;delicious&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to Merlin Mann&amp;#8217;s5ives here are some great stories from the English version of Aftenposten, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve bookmarked at del.icio.us* recently.
+(I&amp;#8217;m half-Norwegian, so I enjoy keeping up-to-date with what&amp;#8217;s happening in the &amp;#8216;motherland&amp;#8217;, but it&amp;#8217;s a great feed nevertheless.)
+Giant boulder closes highway  A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.</description>
     </item>
     
   </channel>

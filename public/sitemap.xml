@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://robbevan.com/</loc>
-    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://robbevan.com/post/2006-11-25-create-a-moongolfbowie-image-before-xmas-and-win-an-ipod-shuffle/</loc>
@@ -339,6 +335,191 @@
   <url>
     <loc>https://robbevan.com/post/2003-09-03-as-it-happens/</loc>
     <lastmod>2003-09-03T20:20:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/art/</loc>
+    <lastmod>2005-08-24T13:03:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/books/</loc>
+    <lastmod>2006-05-17T12:54:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/</loc>
+    <lastmod>2005-08-24T13:03:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/climate-change/</loc>
+    <lastmod>2006-05-17T12:54:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/cold/</loc>
+    <lastmod>2006-02-19T20:19:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/conferences/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/cooking/</loc>
+    <lastmod>2006-01-21T07:15:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/del.icio.us/</loc>
+    <lastmod>2006-03-20T06:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/film/</loc>
+    <lastmod>2006-02-19T18:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/flickr/</loc>
+    <lastmod>2006-02-23T00:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/food-and-drink/</loc>
+    <lastmod>2006-02-05T08:54:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/golfonthemoon/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/in/</loc>
+    <lastmod>2005-04-19T05:48:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/ipod/</loc>
+    <lastmod>2006-02-27T22:43:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/knives/</loc>
+    <lastmod>2004-09-16T17:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/links/</loc>
+    <lastmod>2006-03-20T06:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/mobile/</loc>
+    <lastmod>2006-05-03T20:50:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/music/</loc>
+    <lastmod>2005-10-06T12:49:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/philosophy/</loc>
+    <lastmod>2006-01-21T07:15:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/playtime/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/post/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/science/</loc>
+    <lastmod>2005-07-25T13:22:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/software/</loc>
+    <lastmod>2005-12-19T11:26:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/space/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/spam/</loc>
+    <lastmod>2004-06-18T07:28:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/technology/</loc>
+    <lastmod>2006-05-17T12:54:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/web-2.0/</loc>
+    <lastmod>2006-05-17T12:54:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/wordpress/</loc>
+    <lastmod>2006-01-18T11:14:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robbevan.com/categories/xpt/</loc>
+    <lastmod>2006-11-25T08:39:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

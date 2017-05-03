@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/space/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Space on Rob Bevan</title>
+    <link>https://robbevan.com/categories/space/</link>
+    <description>Recent content in Space on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/space/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Sat, 25 Nov 2006 08:39:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/space/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Create a Moon/Golf/Bowie image before Xmas and win an iPod Shuffle</title>
@@ -14,12 +17,9 @@
       <pubDate>Sat, 25 Nov 2006 08:39:00 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-11-25-create-a-moongolfbowie-image-before-xmas-and-win-an-ipod-shuffle/</guid>
-      <description>&lt;p&gt;To celebrate the success of the &lt;a href=&#34;http://timwright.typepad.com/main/2006/09/playtime_on_oct.html&#34;&gt;PlayTime&lt;/a&gt; event and continue Tim Wright&amp;#8217;s mission to play &lt;a href=&#34;http://timwright.typepad.com/main/golf_on_the_moon/index.html&#34;&gt;golf on the moon (with David Bowie)&lt;/a&gt;, XPT is offering a iPod Shuffle to the person who comes up with the best photographic simulation of a particular aspect of the the 30-year plan.&lt;/p&gt;
+      <description>To celebrate the success of the PlayTime event and continue Tim Wright&amp;#8217;s mission to play golf on the moon (with David Bowie), XPT is offering a iPod Shuffle to the person who comes up with the best photographic simulation of a particular aspect of the the 30-year plan.
 
-&lt;p&gt;&lt;a href=&#34;http://golfonthemoon.ning.com&#34;&gt;&lt;img style=&#34;border: 1px solid #ccc; margin: 0 0 10px 0; padding: 0;&#34; src=&#34;http://robbevan.com/talks/playtime_competition.png&#34; alt=&#34;moongolfbowiecompetition&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;By concretising events and situations in a series of manipulated images, we are making the whole project more real, more achievable. Simulation=Solution. Remember &amp;#8211; don&amp;#8217;t leave space to the professionals.&lt;/p&gt;
-</description>
+By concretising events and situations in a series of manipulated images, we are making the whole project more real, more achievable. Simulation=Solution.</description>
     </item>
     
     <item>
@@ -28,18 +28,9 @@
       <pubDate>Wed, 22 Nov 2006 10:27:23 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-11-22-playtime-playing-with-pictures/</guid>
-      <description>&lt;p&gt;A few weeks on, I&amp;#8217;m finally getting around to uploading &lt;a href=&#34;http://robbevan.com/talks/playtime.pdf&#34;&gt;my slides&lt;/a&gt; from my &lt;a href=&#34;http://www.xpt.com/uk/news/playtime-4th-october-2006-a-day-of-workshops-presentations-and-space-age-play/&#34;&gt;PlayTime&lt;/a&gt; presentation, Playing with Pictures (it&amp;#8217;s a &lt;a href=&#34;http://robbevan.com/talks/playtime.pdf&#34;&gt;20MB+ PDF file&lt;/a&gt;, exported from Keynote). I was intending to annotate these so that they&amp;#8217;d make more sense to someone who weren&amp;#8217;t at my session, but I&amp;#8217;m not sure when, if ever, I&amp;#8217;ll do this.&lt;/p&gt;
+      <description>A few weeks on, I&amp;#8217;m finally getting around to uploading my slides from my PlayTime presentation, Playing with Pictures (it&amp;#8217;s a 20MB+ PDF file, exported from Keynote). I was intending to annotate these so that they&amp;#8217;d make more sense to someone who weren&amp;#8217;t at my session, but I&amp;#8217;m not sure when, if ever, I&amp;#8217;ll do this.
 
-&lt;p&gt;&lt;a href=&#34;http://robbevan.com/talks/playtime.pdf&#34;&gt;&lt;img style=&#34;border: 1px solid gray; float: none; margin-bottom: 10px; padding: 0;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/playtime.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This gist of it however was this: Photo manipulation has always had a bit of a bad name, and even today we&amp;#8217;re still worried that adding, removing or modifying parts of a photographic image detract from photography&amp;#8217;s perceived ability to show us the truth. But you could argue that these techniques &amp;#8211; and especially montage/manipulation (cf. the history of collage, Eisenstein etc, blah blah) &amp;#8211; allow us to see other, new truths (all that nonsense about MegaWords was a joke about quantifying this). And the things you need, stock imagery, skills, tools etc. are becoming more available and affordable all the time: see &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the examples of the web services* I mentioned. So we&amp;#8217;re going to see a lot more of it, especially with the YouTube generation, and it&amp;#8217;s also something that we (XPT and everyone else) are going to continue to have a lot of fun with&amp;#8230;&lt;/p&gt;
-
-&lt;p&gt;*Most of the links to these are embedded in the PDF, but for convenience here are the best of them: &lt;a href=&#34;http://worth1000.com&#34;&gt;Worth1000&lt;/a&gt;, &lt;a href=&#34;http://www.coudal.com/tennis.php&#34;&gt;Photoshop Tennis&lt;/a&gt;, &lt;a href=&#34;http://istockphoto.com&#34;&gt;iStockPhoto&lt;/a&gt;, &lt;a href=&#34;http://snipshot.com/&#34;&gt;Snipshot&lt;/a&gt;, &lt;a href=&#34;http://www.snapmania.com/info/en/trm/&#34;&gt;Tourist Remover&lt;/a&gt;, &lt;a href=&#34;http://www.riya.com/&#34;&gt;Riya Visual Search&lt;/a&gt;, &lt;a href=&#34;http://www.lazymask.com/&#34;&gt;Lazy Mask&lt;/a&gt;, &lt;a href=&#34;http://zonetag.research.yahoo.com/&#34;&gt;Zonetag&lt;/a&gt;, &lt;a href=&#34;http://www.scanr.com/&#34;&gt;scanR&lt;/a&gt;, &lt;a href=&#34;http://labs.systemone.at/retrievr/&#34;&gt;retrievr&lt;/a&gt;, &lt;a href=&#34;http://www.mappr.com&#34;&gt;Mappr&lt;/a&gt;, &lt;a href=&#34;http://golfonthemoon.ning.com&#34;&gt;Ning Photos&lt;/a&gt; and &lt;a href=&#34;http://moon.google.com&#34;&gt;Google Moon&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;News about the Moon-Golf-Bowie photo competition we&amp;#8217;re running and the &amp;#8216;Golf on the Moon&amp;#8217; Google Maps site to follow in a subsequent post.&lt;/p&gt;
-
-&lt;p&gt;There I was thinking I&amp;#8217;d completely got out of the habit of blogging.&lt;/p&gt;
-</description>
+This gist of it however was this: Photo manipulation has always had a bit of a bad name, and even today we&amp;#8217;re still worried that adding, removing or modifying parts of a photographic image detract from photography&amp;#8217;s perceived ability to show us the truth.</description>
     </item>
     
     <item>
@@ -48,18 +39,7 @@
       <pubDate>Wed, 12 Apr 2006 12:32:52 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-04-12-yuris-night/</guid>
-      <description>&lt;p&gt;&lt;div style=&#34;height: 150px&#34;&gt;
-  &lt;a href=&#34;http://www.yurisnight.net/2006/index.php&#34;&gt;&lt;img src=&#34;http://www.yurisnight.net/images/yurisNightButtons/YurisNight_150x150.png&#34; alt=&#34;Yuri&#39;s Night | World Space Party | April 12&#34; title=&#34;Yuri&#39;s Night | World Space Party | April 12&#34; width=&#34;150&#34; height=&#34;150&#34; border=&#34;0&#34; style=&#34;float: right; padding-left: 32px;&#34; /&gt;&lt;/a&gt;&lt;/p&gt; &lt;blockquote&gt;
-    &lt;p&gt;
-      45 Years ago today, on April 12th 1961, Yuri Gagarin became the first human to go into space. On the same day, 25 years ago, John Young and Robert Crippen flew the first Space Shuttle flight to orbit. Today we celebrate!
-    &lt;/p&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;blockquote&amp;gt;
-  &amp;lt;/div&amp;gt; &amp;lt;p class=&amp;quot;technorati-tags&amp;quot;&amp;gt;
-    (&amp;lt;img style=&amp;quot;float: none; padding: 2px 2px 0 2px;&amp;quot;  src=&amp;quot;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; Technorati tags: &amp;lt;a href=&amp;quot;http://technorati.com/tag/yuri-gagarin&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;yuri-gagarin&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/space&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;space&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/world-space-party&amp;quot; rel=&amp;quot;world-space-party&amp;quot;&amp;gt;imax&amp;lt;/a&amp;gt;)
-  &amp;lt;/p&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>45 Years ago today, on April 12th 1961, Yuri Gagarin became the first human to go into space. On the same day, 25 years ago, John Young and Robert Crippen flew the first Space Shuttle flight to orbit. Today we celebrate! &amp;lt;blockquote&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;p class=&amp;quot;technorati-tags&amp;quot;&amp;gt; (&amp;lt;img style=&amp;quot;float: none; padding: 2px 2px 0 2px;&amp;quot; src=&amp;quot;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&amp;quot; alt=&amp;quot;&amp;quot; /&amp;gt; Technorati tags: &amp;lt;a href=&amp;quot;http://technorati.com/tag/yuri-gagarin&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;yuri-gagarin&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.com/tag/space&amp;quot; rel=&amp;quot;tag&amp;quot;&amp;gt;space&amp;lt;/a&amp;gt; | &amp;lt;a href=&amp;quot;http://technorati.</description>
     </item>
     
     <item>
@@ -68,24 +48,7 @@
       <pubDate>Mon, 27 Feb 2006 22:43:13 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</guid>
-      <description>&lt;p&gt;About the only good thing to result from the theft of my bag just before Christmas was replacing my ageing original 1G iPod with a sleek new black 5G video iPod (whoever thought that glossy white &amp;#8216;iBook&amp;#8217; look was a good idea?). Actually that&amp;#8217;s not strictly true: I&amp;#8217;ve effectively &amp;#8216;upgraded&amp;#8217; many of my closest and most familiar possessions at the cost of many hours cancelling credit cards, talking to insurers and replacing missing Christmas gifts.&lt;/p&gt;
-
-&lt;p&gt;What has really surprised me however, is how much I&amp;#8217;m enjoying video on the move. Just today I was watching the 1969 &lt;a href=&#34;http://video.google.com/videoplay?docid=4166049933953240830&amp;amp;q=45017&#34;&gt;&amp;#8216;The Eagle Has Landed&amp;#8217; film&lt;/a&gt; (recently made available on Google Video, along with a number of other &lt;a href=&#34;http://video.google.com/videosearch?q=owner%3Anara+type%3Anasa&amp;amp;so=0&#34;&gt;NASA History of Space Flight Motion Pictures&lt;/a&gt;), watching Neil or maybe Buzz &lt;strong&gt;shaving&lt;/strong&gt; on the 3-day flight to the moon. The commentary describes this as &amp;#8216;housekeeping&amp;#8217; whilst I was thinking &amp;#8216;why bother?&amp;#8217; before I realised I&amp;#8217;d just missed my stop on the tube.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/robbevan/105416903/&#34; title=&#34;photo sharing&#34;&gt;&lt;img src=&#34;http://static.flickr.com/54/105416903_eafa802f50_m.jpg&#34; alt=&#34;&#34; class=&#34;flickr&#34; style=&#34;float: none; padding: 0;&#34; /&gt;&lt;/a&gt;&lt;p class=&#34;caption&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/robbevan/105416903/&#34;&gt;Shaving on the way to the moon&lt;/a&gt;&lt;br /&gt;
-&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/flickr.com.favicon.ico&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Originally uploaded by &lt;a href=&#34;http://www.flickr.com/people/robbevan/&#34;&gt;Rob Bevan&lt;/a&gt;.&lt;/p&gt;
-My wait for the return train was just enough time for the best sequence &amp;#8211; the Eagle&amp;#8217;s descent to the surface of the moon &amp;#8211; which actually just reminded me of &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; the times I&amp;#8217;ve peered out of the the window of a plane (I always watch) as it lands: there&amp;#8217;s that long wait as the plane seems to hover interminably just above the ground before touching down. This is usually the only moment I get a little tense whilst flying, unlike my mate &lt;a href=&#34;http://timwright.typepad.com/&#34;&gt;Tim&lt;/a&gt; who pretty much feels that way the entire flight. (He was so visibly distressed when we flew to Glasgow once that one of the cabin crew came over to find out if he was going to be OK, and tried to comfort him with &amp;#8220;don&amp;#8217;t worry &amp;#8211; we&amp;#8217;re the lucky crew!&amp;#8221;, which understandably made things worse.) I&amp;#8217;m constantly on the lookout at the moment for moon-related material to pass on to Tim for his &lt;a href=&#34;http://timwright.typepad.com/playing_golf_on_the_moon_/&#34;&gt;&amp;#8216;golf on the moon&amp;#8217; project&lt;/a&gt;: clearly he&amp;#8217;s going to have to deal with his fear of flying first.&lt;/p&gt;
-
-&lt;p&gt;And just because this is doing the rounds today, is very funny and brilliantly executed: &lt;a href=&#34;http://www.youtube.com/?v=VAGr3mVVUwE&#34;&gt;what if Microsoft redesigned the iPod packaging?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(Finally, one housekeeping note: &lt;a href=&#34;http://www.macdevcenter.com/pub/a/mac/2005/11/18/video-ipod.html&#34;&gt;here&amp;#8217;s a smart way&lt;/a&gt; to get video from your iPod on TV using a cable you probably already have, instead of the $19/£15 proprietary Apple iPod AV Cable.)&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/ipod&#34; rel=&#34;tag&#34;&gt;ipod&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/google-video&#34; rel=&#34;tag&#34;&gt;google-video&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/moon&#34; rel=&#34;tag&#34;&gt;moon&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>About the only good thing to result from the theft of my bag just before Christmas was replacing my ageing original 1G iPod with a sleek new black 5G video iPod (whoever thought that glossy white &amp;#8216;iBook&amp;#8217; look was a good idea?). Actually that&amp;#8217;s not strictly true: I&amp;#8217;ve effectively &amp;#8216;upgraded&amp;#8217; many of my closest and most familiar possessions at the cost of many hours cancelling credit cards, talking to insurers and replacing missing Christmas gifts.</description>
     </item>
     
   </channel>

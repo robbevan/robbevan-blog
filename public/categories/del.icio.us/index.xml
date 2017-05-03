@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rob Bevan</title>
-    <link>https://robbevan.com/categories/del.icio.us/index.xml</link>
-    <description>Recent content on Rob Bevan</description>
+    <title>Del.Icio.Us on Rob Bevan</title>
+    <link>https://robbevan.com/categories/del.icio.us/</link>
+    <description>Recent content in Del.Icio.Us on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://robbevan.com/categories/del.icio.us/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 20 Mar 2006 06:31:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://robbevan.com/categories/del.icio.us/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>del.icio.us rolls out private saving feature (in beta)</title>
@@ -14,16 +17,9 @@
       <pubDate>Mon, 20 Mar 2006 06:31:00 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
-      <description>&lt;p&gt;From &lt;a href=&#34;http://blog.del.icio.us/blog/2006/03/private_saving_.html&#34;&gt;del.ico.us/blog&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is &lt;span class=&#34;hilite&#34;&gt;all&lt;/span&gt; about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (&lt;img style=&#34;float: none; padding: 2px 2px 0 2px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&#34; alt=&#34;&#34; /&gt; Technorati tags: &lt;a href=&#34;http://technorati.com/tag/delicious&#34; rel=&#34;tag&#34;&gt;delicious&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>From del.ico.us/blog:
+ This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is all about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.
+ (Technorati tags: delicious) </description>
     </item>
     
     <item>
@@ -32,73 +28,9 @@
       <pubDate>Sun, 13 Nov 2005 08:59:34 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-11-13-news-from-norway/</guid>
-      <description>&lt;p&gt;In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to &lt;a href=&#34;http://www.merlinmann.com/&#34;&gt;Merlin Mann&amp;#8217;s&lt;/a&gt;&lt;a href=&#34;http://www.5ives.com/&#34;&gt;5ives&lt;/a&gt; here are some great stories from the English version of &lt;a href=&#34;http://www.aftenposten.no/english/&#34;&gt;Aftenposten&lt;/a&gt;, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve &lt;a href=&#34;http://del.icio.us/robbevan&#34;&gt;bookmarked&lt;/a&gt; at &lt;a href=&#34;http://del.icio.us&#34;&gt;del.icio.us&lt;/a&gt;* recently.&lt;/p&gt;
-
-&lt;p&gt;(I&amp;#8217;m half-Norwegian, so I enjoy keeping up-to-date with what&amp;#8217;s happening in the &amp;#8216;motherland&amp;#8217;, but it&amp;#8217;s a great &lt;a href=&#34;http://www.aftenposten.no/eksport/rss-1_0/?seksjon=english&amp;#038;utvalg=siste&#34; class=&#34;feed&#34;&gt;feed&lt;/a&gt; nevertheless.)&lt;/p&gt;
-
-&lt;div class=&#34;links&#34;&gt;
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1124727.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Giant boulder closes highway&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1125479.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Aker river runs white&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A mishap involving the delivery of paint in downtown Oslo on Friday left the River Aker colored an eerie shade of white. (Picture)
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1142226.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Tarantula no toy&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      An escaped tarantula wandered around a shopping center for at least two weeks before shocked employees finally reacted.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1148474.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;One shot, two moose&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A hunter in Troms in northern Norway could not believe his eyes when he saw the result of a single shot.
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;ul class=&#34;link&#34;&gt;
-    &lt;li class=&#34;description&#34;&gt;
-      &lt;a href=&#34;http://www.aftenposten.no/english/local/article1148570.ece&#34;&gt;&lt;img src=&#34;http://robbevan.com/blog/wp-content/plugins/favicons/www.aftenposten.no.favicon.gif&#34; class=&#34;favicon&#34; alt=&#34;&#34; width=&#34;16&#34; height=&#34;16&#34; /&gt;Carnivorous lizard in toilet&lt;/a&gt;
-    &lt;/li&gt;
-    &lt;li class=&#34;notes&#34;&gt;
-      A three-year-old boy got the fright of his life on a trip to the toilet. (Picture)
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p style=&#34;font-size: 0.9em; text-align: right;&#34;&gt;
-  More &lt;a href=&#34;http://del.icio.us/robbevan/&#34;&gt;&lt;img style=&#34;float: none; padding: 4px 4px 0 4px;&#34;  src=&#34;http://robbevan.com/blog/wp-content/themes/robbevan/images/delicious.small.gif&#34; alt=&#34;&#34; /&gt;del.icio.us bookmarks&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;(*apart from the impossible url, the other problem with &lt;a href=&#34;http://del.icio.us&#34;&gt;del.icio.us&lt;/a&gt; is that you can&amp;#8217;t use the name as a verb, in the same way that you can &lt;a href=&#34;http://google.com&#34;&gt;google&lt;/a&gt;, &lt;a href=&#34;http://skype.com&#34;&gt;skype&lt;/a&gt; or &lt;a href=&#34;http://digg.com&#34;&gt;digg&lt;/a&gt; something or someone: surely a prerequisite for any &amp;#8216;Web 2.0&amp;#8242; service)&lt;/p&gt;
-
-&lt;div class=&#34;update&#34;&gt;
-  &lt;p&gt;
-    Let&amp;#8217;s make it six: here&amp;#8217;s a story about a Norwegian restaurant that&amp;#8217;s &lt;a href=&#34;http://www.aftenposten.no/english/local/article1154580.ece&#34;&gt;decided to serve crow&lt;/a&gt;, which &amp;#8211; apparently &amp;#8211; &amp;#8220;is incredibly good. It tastes like chicken with a hint of game. &lt;em&gt;And it is safe to eat&lt;/em&gt;&amp;#8220;. And in other news, over in neighbouring Sweden a couple of drunken moose have been &lt;a href=&#34;http://customwire.ap.org/dynamic/stories/D/DRUNK_MOOSE?SITE=WABEJ&amp;#038;SECTION=HOME&amp;#038;TEMPLATE=DEFAULT&amp;#038;CTIME=2005-11-12-10-27-53&#34;&gt;causing havoc at a retirement home&lt;/a&gt;. This seems to be an ongoing problem with the wildlife in Sweden: earlier a suspected bird flu-infected seagull was &lt;a href=&#34;http://www.thelocal.se/article.php?ID=2411&amp;#038;date=20051102&amp;#038;PHPSESSID=322547e9d83ed11624be143e1deef578&#34;&gt;found to be drunk&lt;/a&gt;.
-  &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (Technorati tags: &lt;a href=&#34;http://technorati.com/tag/norway&#34; rel=&#34;tag&#34;&gt;norway&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/delicious&#34; rel=&#34;tag&#34;&gt;delicious&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to Merlin Mann&amp;#8217;s5ives here are some great stories from the English version of Aftenposten, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve bookmarked at del.icio.us* recently.
+(I&amp;#8217;m half-Norwegian, so I enjoy keeping up-to-date with what&amp;#8217;s happening in the &amp;#8216;motherland&amp;#8217;, but it&amp;#8217;s a great feed nevertheless.)
+Giant boulder closes highway  A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.</description>
     </item>
     
     <item>
@@ -107,22 +39,8 @@
       <pubDate>Sat, 05 Nov 2005 15:42:03 +0000</pubDate>
       
       <guid>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://weblog.infoworld.com/udell/&#34;&gt;Jon Udell&amp;#8217;s&lt;/a&gt;&lt;a href=&#34;http://weblog.infoworld.com/udell/2005/11/01.html#a1332&#34;&gt;post&lt;/a&gt; (via &lt;a href=&#34;http://www.lifehacker.com/software/delicious/semiprivate-delicious-bookmarks-134798.php&#34;&gt;Lifehacker&lt;/a&gt;) on &lt;a href=&#34;http://www.sourcelabs.com/blogs/ajb/2005/10/fixing_up_some_loose_ends.html&#34;&gt;Alex Bosworth&amp;#8217;s&lt;/a&gt; hack to &lt;a href=&#34;http://sandbox.sourcelabs.com/priv.at/&#34;&gt;save semi-private delicious bookmarks&lt;/a&gt; using the for:yourname tag prompted me to fix an aspect of my use of &lt;a href=&#34;http://del.icio.us&#34;&gt;delicious&lt;/a&gt; that has been bugging me recently.&lt;/p&gt;
-
-&lt;p&gt;For a while now, I&amp;#8217;ve been using a variation on &lt;a href=&#34;http://www.livejournal.com/users/fraserspeirs/889683.html&#34;&gt;Frasier Speirs&amp;#8217; AppleScript&lt;/a&gt; to post to &lt;a href=&#34;http://del.icio.us&#34;&gt;delicious&lt;/a&gt; directly from &lt;a href=&#34;http://quicksilver.blacktree.com/&#34;&gt;QuickSilver&lt;/a&gt;, tagging these &lt;a href=&#34;http://www.davidco.com/&#34;&gt;GTD-style&lt;/a&gt; with @review, for those times when I want bookmark something quickly without going to the trouble of describing, annotating and tagging the link.&lt;/p&gt;
-
-&lt;p&gt;More often than not, this means that I end up with a whole list of raw urls I haven&amp;#8217;t bothered to organise: not something I really want to share and not much use to me or other &lt;a href=&#34;http://del.icio.us&#34;&gt;delicious&lt;/a&gt; users. The perfect place for these to appear would be in your &lt;a href=&#34;http://del.icio.us&#34;&gt;delicious&lt;/a&gt; inbox (except that in &lt;a href=&#34;http://del.icio.us&#34;&gt;delicious&lt;/a&gt; parlance, your inbox is a place for users/tags you&amp;#8217;re subscribed to), but having them show up in your private for: bucket is a good substitute.&lt;/p&gt;
-
-&lt;p&gt;Trouble is, as Jon &lt;a href=&#34;http://weblog.infoworld.com/udell/2005/11/01.html#a1332&#34;&gt;says: &lt;/a&gt;&amp;#8220;I&amp;#8217;d also like to be able to delete things in my for: bucket. That wouldn&amp;#8217;t mean deleting the sender&amp;#8217;s bookmarklets, but rather rejecting for: tags aimed at me.&amp;#8221; If you use Alex&amp;#8217;s &lt;a href=&#34;http://sandbox.sourcelabs.com/priv.at/&#34;&gt;generated bookmarklet&lt;/a&gt; you have no control over the source of your incoming for: tagged links. One solution to this is to create your own &amp;#8216;feeder&amp;#8217; account (with username yourname.private for example) from which you can target links to your main account&amp;#8217;s for: bucket and then delete them when you&amp;#8217;re done.&lt;/p&gt;
-
-&lt;p&gt;So now, my &lt;a href=&#34;http://quicksilver.blacktree.com/&#34;&gt;QuickSilver&lt;/a&gt; action posts to my &amp;#8216;feeder&amp;#8217; account, tagging links with for:robbevan, my &lt;a href=&#34;http://del.icio.us/robbevan&#34;&gt;&amp;#8216;real&amp;#8217; account&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I still have &lt;a href=&#34;http://kevan.org/extispicious.cgi?name=robbevan&#34;&gt;a huge number&lt;/a&gt; of @review posts to deal with though&amp;#8230;&lt;/p&gt;
-
-&lt;p class=&#34;technorati-tags&#34;&gt;
-  (Technorati tags: &lt;a href=&#34;http://technorati.com/tag/delicious&#34; rel=&#34;tag&#34;&gt;delicious&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/applescript&#34; rel=&#34;tag&#34;&gt;applescript&lt;/a&gt; | &lt;a href=&#34;http://technorati.com/tag/quicksilver&#34; rel=&#34;tag&#34;&gt;quicksilver&lt;/a&gt;)
-&lt;/p&gt;
-</description>
+      <description>Jon Udell&amp;#8217;spost (via Lifehacker) on Alex Bosworth&amp;#8217;s hack to save semi-private delicious bookmarks using the for:yourname tag prompted me to fix an aspect of my use of delicious that has been bugging me recently.
+For a while now, I&amp;#8217;ve been using a variation on Frasier Speirs&amp;#8217; AppleScript to post to delicious directly from QuickSilver, tagging these GTD-style with @review, for those times when I want bookmark something quickly without going to the trouble of describing, annotating and tagging the link.</description>
     </item>
     
   </channel>
