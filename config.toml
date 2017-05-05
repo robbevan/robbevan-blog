@@ -1,4 +1,4 @@
-baseurl = "https://robbevan.com" # Controls base URL
+baseurl = "/" # Controls base URL
 languageCode = "en-GB" # Controls site language
 title = "Rob Bevan" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
