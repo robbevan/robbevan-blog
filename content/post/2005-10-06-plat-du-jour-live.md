@@ -17,9 +17,9 @@ That said, the whole thing really was a compelling feast for <span class="hilite
 
 [Mugison&#8217;s][5] wild, energetic opening set was hugely entertaining, especially for me when I was roped on stage from the front row to help project a video of his girlfriend onto his guitar so they could sing a duet together. &#8216;Mugi&#8217; is apparently a big star in his native Iceland and his new album [&#8216;Mugimama &#8211; is this monkey music&#8217;][6] is released in the UK on Herbert&#8217;s [Accidental Records][7], who like to describe him as &#8220;a troubadour for the electronic age&#8221;, which seems apt.
 
- [1]: /blog/2005/08/04/plat-du-jour/
+ [1]: /post/2005-08-04-plat-du-jour/
  [2]: http://www.barbican.org.uk/contemporary/03oct05.htm
- [3]: http://www.flickr.com/photos/robbevan/51543127/ "Photo Sharing"
+ [3]: http://www.flickr.com/photos/robbevan/51543127/
  [4]: http://www.worldwidefruit.co.uk/prod_redpippin.cfm
  [5]: http://www.mugison.com/
  [6]: http://www.mugison.com/Mugison/Music/albums/Mugimama/

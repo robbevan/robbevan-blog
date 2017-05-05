@@ -11,8 +11,8 @@ Knowing [my predilection][1] for liquorice, some family members recently brought
 
 I now also feel like I&#8217;m one step closer to my ambition to [restarting my career as a sculptor by making a grizzly bear-sized liquorice cat][1] (I once made three life-sized marzipan pigs).
 
- [1]: http://robbevan.typepad.com/robbish/2004/10/gtd_liquorice.html
- [2]: http://robbevan.typepad.com/robbish/2004/01/menu.html
+ [1]: /post/2004-10-01-getting-things-done-with-liquorice-tea/
+ [2]: /post/2004-01-16-heres-what-we-ate/
  [3]: http://www.fatduck.co.uk
  [4]: http://www.guardian.co.uk/weekend/story/0,,1013916,00.html
  [5]: http://www.blogjam.com/2005/07/17/the-fat-duck/

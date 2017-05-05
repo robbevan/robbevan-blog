@@ -16,9 +16,5 @@ categories:
   </p>
 </div>
 
-<p class="technorati-tags">
-  (Technorati tags: <a href="http://technorati.com/tag/opera" rel="tag">opera</a> | <a href="http://technorati.com/tag/ajax" rel="tag">ajax</a> | <a href="http://technorati.com/tag/s60" rel="tag">s60</a>)
-</p>
-
  [1]: http://www.opera.com/products/mobile/platform/
  [2]: http://www.konfabulator.com/

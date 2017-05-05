@@ -1,5 +1,5 @@
 ---
-title: 'Here&#8217;s what we ate'
+title: 'Here’s what we ate'
 date: "2004-01-13T10:23:53Z"
 author: Rob Bevan
 permalink: /2004/01/16/heres-what-we-ate/
@@ -50,10 +50,6 @@ And two days after we ate there, The Fat Duck was awarded [a third Michelin star
   Update: <a href="http://www.tastingmenu.com/archive/2005/10-october/20051019.htm">tastingmenu</a> has a course-by-course <a href="http://www.tastingmenu.com/media/2004/20040602-fatduck/index.html">photo album</a> that records the entire Fat Duck &#8216;Degustation Menu&#8217; experience, albeit some 6 months or so later and in daylight, so it doesn&#8217;t quite match ours.
 </div>
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/the-fat-duck" rel="tag">the-fat-duck</a> | <a href="http://technorati.com/tag/degustation-menu" rel="tag">degustation-menu</a>)
-</p>
-
- [1]: http://robbevan.typepad.com/robbish/2003/10/heaven_above_he.html
+ [1]: /post/2003-10-03-heaven-above-hell-below/
  [2]: http://www.rimrockresort.com
  [3]: http://shopping.guardian.co.uk/food/story/0,1587,1124378,00.html

@@ -36,11 +36,11 @@ I&#8217;d like to get into the habit of &#8220;quick and dirty stream of conscio
  [7]: http://www.neato.co.nz/ultimate-tag-warrior/
  [8]: http://www.hitormiss.org/projects/weighted-categories/
  [9]: http://en.wikipedia.org/wiki/Favicon
- [10]: http://robbevan.com/blog/category/links/
+ [10]: /categories/links/
  [11]: http://robbevan.wordpress.com
  [12]: http://ranchero.com/netnewswire/
  [13]: http://www.yabfog.com/wp/opml-renderer/
  [14]: http://www.kottke.org/05/10/tumblelogs
- [15]: http://tumble.robbevan.net/
+ [15]: http://backlog.robbevan.com/
  [16]: http://chneukirchen.org/anarchaia
  [17]: http://project.ioni.st/

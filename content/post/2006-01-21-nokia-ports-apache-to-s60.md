@@ -15,9 +15,5 @@ My head is still reeling from the implications of this last paragraph, which see
 
 (via [eriksmartt.com][2])
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/s60" rel="tag">s60</a> | <a href="http://technorati.com/tag/apache" rel="tag">apache</a> | <a href="http://technorati.com/tag/python" rel="tag">python</a>)
-</p>
-
  [1]: http://research.nokia.com/research/software/mobile-web-server/index.html
  [2]: http://www.eriksmartt.com/blog/archives/218

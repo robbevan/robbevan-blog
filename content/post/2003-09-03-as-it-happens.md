@@ -8,7 +8,7 @@ categories:
 ---
 [Jim Bengston][1], my uncle, has a [new show][2]. Most of these images are from the three months of any year Jim spends traveling the US in his [Airstream][3] (he&#8217;s originally from Illinois, but has lived in Oslo since the 70s) but there are a few from times and places I recognise, like the one from New Years Eve in Berlin (we <span class="hilite">all</span> climbed the *[Teufelsberg][4]*, a hill made from <span class="hilite">all</span> the rubble left in the city after WW2).
 
-<img class="photo"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/slow-motion.jpg" alt="" />
+<img class="photo"  src="/images/posts/slow-motion.jpg" alt="" />
 
 Jim spent a significant chunk of <span class="hilite">all</span> our childhoods turning family photos into art &#8211; as they say: &#8220;disse bildene hadde familien og venner som tema&#8221; &#8211; which were published in two books *Afterwords* and *Slow Motion*.
 

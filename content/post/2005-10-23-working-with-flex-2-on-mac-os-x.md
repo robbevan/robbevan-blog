@@ -34,13 +34,9 @@ Once you&#8217;ve got the framework installed, you can use mxmlc &#8211; the (Ja
   </p>
 </div>
 
-<p class="technorati-tags">
-  (Technorati tags: <a href="http://technorati.com/tag/flash" rel="tag">flash</a> | <a href="http://technorati.com/tag/flex-2" rel="tag">flex-2</a> | <a href="http://technorati.com/tag/os-x" rel="tag">os-x</a>)
-</p>
-
  [1]: http://labs.macromedia.com/
- [2]: http://robbevan.com/blog/2004/04/04/running-macromedia-flex-with-jboss-on-mac-os-x-server/
+ [2]: /post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/
  [3]: http://labs.macromedia.com/downloads/
  [4]: http://www.bigbold.com/snippets/posts/show/1619
  [5]: http://ant.apache.org
- [6]: http://robbevan.com/blog/wp-content/uploads/working_with_flex_2_beta_1_on_mac_os_x.zip
+ [6]: /uploads/working_with_flex_2_beta_1_on_mac_os_x.zip

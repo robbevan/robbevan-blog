@@ -7,7 +7,7 @@ categories:
   - Cold
   - Cooking
 ---
-Whilst doing some research on Food Science and on Nicholas Kurti in particular, the so-called &#8216;father of Molecular Gastronomy&#8217;, I discovered that [Oxford&#8217;s Science Area][1], where Kurti worked and not far from where I live, is renowned for once having been the &#8216;coldest spot on Earth&#8217;: &#8220;Using demagnetisation of nuclear alignment, Professor Kurti was able to create temperatures of a millionth of a degree above absolute zero.&#8221;
+Whilst doing some research on Food Science, and on Nicholas Kurti in particular, the so-called &#8216;father of Molecular Gastronomy&#8217;, I discovered that [Oxford&#8217;s Science Area][1], where Kurti worked and not far from where I live, is renowned for once having been the &#8216;coldest spot on Earth&#8217;: &#8220;Using demagnetisation of nuclear alignment, Professor Kurti was able to create temperatures of a millionth of a degree above absolute zero.&#8221;
 
 Cool.
 

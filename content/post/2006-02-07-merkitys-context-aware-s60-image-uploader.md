@@ -11,10 +11,6 @@ Like [Shozu][1], new S60 app [Merkitys][2] (Finnish for &#8216;Meaning&#8217;) a
 
 (via [the mobile experience][7])
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/s60" rel="tag">s60</a> | <a href="http://technorati.com/tag/merkitys" rel="tag">merkitys</a> | <a href="http://technorati.com/tag/flickr" rel="tag">flickr</a>)
-</p>
-
  [1]: http://www.shozu.com
  [2]: http://meaning.3xi.org/
  [3]: http://flickr.com/photos/robbevan/

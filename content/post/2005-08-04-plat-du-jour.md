@@ -9,7 +9,7 @@ categories:
 ---
 The long-awaited (by me at least) new album [Plat du Jour][1] from Matthew Herbert was released last week. Over two years in the making this is a &#8216;concept&#8217; album about &#8220;the international language of food&#8221; with some great tunes, including two standout tracks: [Celebrity][2], made entirely from food aimed at children endorsed by celebrities and the only vocal track (&#8220;Go Gordon, go Ramsay, go Beyonc&eacute;&#8230;&#8221;) and [The Nine Seeds Of Navdanya][3], generated from seeds provided by a conservation organisation in India. Check out the Plat du Jour website for the complete [list of &#8216;ingredients&#8217;][4] for each track including a grain of sugar, 30,000 chickens, a salmon farm and the sewers below London (then download the album [here][5] for a fiver.)
 
-<img style="padding-bottom: 10px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/plat-du-jour-cover.png" alt="" />
+<img style="padding-bottom: 10px;"  src="/images/posts/plat-du-jour-cover.png" alt="" />
 
 <span class="caption">(Cover image from the awesome <a href="http://www.steelskies.com/coverflow/CoverFlow.html">CoverFlow</a>)</span>
 

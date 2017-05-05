@@ -1,5 +1,5 @@
 ---
-title: 'Yuri&#8217;s Night: World Space Party April 12th'
+title: 'Yuri’s Night: World Space Party April 12th'
 date: "2006-04-12T12:32:52Z"
 author: Rob Bevan
 permalink: /2006/04/12/yuris-night/
@@ -13,6 +13,4 @@ categories:
     </p>
 
     <blockquote>
-      </div> <p class="technorati-tags">
-        (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/yuri-gagarin" rel="tag">yuri-gagarin</a> | <a href="http://technorati.com/tag/space" rel="tag">space</a> | <a href="http://technorati.com/tag/world-space-party" rel="world-space-party">imax</a>)
-      </p>
+      </div> 

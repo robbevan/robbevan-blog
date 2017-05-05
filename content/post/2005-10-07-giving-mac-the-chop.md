@@ -26,10 +26,6 @@ So it&#8217;s goodbye [.Mac][1]<img alt="" border="0" width="1" height="1" src="
   Update: on the subject of QuickTime Pro, here&#8217;s <a href="http://e-scribe.com/news/120">a fantastic rant</a> about &#8220;the split between Quicktime and QuickTime Pro and what a silly anachronism it is&#8221;.
 </p>
 
-<p class="technorati-tags">
-  (Technorati tags: <a href="http://technorati.com/tag/flash" rel="dot-mac">dot-mac</a> | <a href="http://technorati.com/tag/strongspace" rel="tag">strongspace</a>)
-</p>
-
  [1]: http://click.linksynergy.com/fs-bin/click?id=ahl0p0BaPBE&offerid=80901.10000001&type=3&subid=0
  [2]: http://click.linksynergy.com/fs-bin/click?id=ahl0p0BaPBE&offerid=80901.10000020&type=4&subid=0
  [3]: mail.google.com

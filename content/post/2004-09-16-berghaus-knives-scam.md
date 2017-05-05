@@ -14,11 +14,9 @@ It didn&#8217;t occur to me to google the Berghaus brand, or Polstar Trading, hi
   Update: if you think you can buy this stuff and then offload it on eBay, bear in mind <a href="http://search.ebay.co.uk/berghaus_Kitchen_W0QQbsZSearchQQcatrefZC6QQcoactionZcompareQQcoentrypageZsearchQQcopagenumZ1QQfromZR2QQgotopageZQQlopgZQQsacategoryZ20625QQsalocatedincountryZ3QQsapricehiZQQsapriceloZQQsbrftogZ1QQsofocusZbsQQsosortorderZ1QQsosortpropertyZ1">lots of other suckers</a> are thinking the same thing!
 </div>
 
-**Since this is my personal site and I get to make the rules, please write in English. I also reserve the right to delete comments for whatever other reasons I see fit.</a>**
-
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/knives" rel="tag">knives</a> | <a href="http://technorati.com/tag/kitchenware" rel="tag">kitchenware</a> | <a href="http://technorati.com/tag/scam" rel="tag">scam</a>)
-</p>
+<div style="display: none;">
+  **Since this is my personal site and I get to make the rules, please write in English. I also reserve the right to delete comments for whatever other reasons I see fit.**
+</div>
 
  [1]: http://www.kochmesser.de/messersets.php
  [2]: http://del.icio.us/robbevan/scam

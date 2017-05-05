@@ -10,10 +10,6 @@ For some reason, my PowerBook decided not to recognise me this morning and would
 
 Apart from providing myself with a reminder of what to do next time, this post is by way of introduction to [AppleJack][4], an excellent utility I came across today that enables you to run a set of tasks in sequence to repair your disk, repair permissions, validate the system&#8217;s preference files and get rid of possibly corrupted cache files, <span class="hilite">all</span> without loading the GUI.
 
-<p class="technorati-tags">
-  (Technorati tags: <a href="http://technorati.com/tag/applejack" rel="tag">applejack</a> | <a href="http://technorati.com/tag/os-x" rel="tag">os-x</a>)
-</p>
-
  [1]: http://docs.info.apple.com/article.html?artnum=301984
  [2]: http://docs.info.apple.com/article.html?artnum=302231
  [3]: http://docs.info.apple.com/article.html?artnum=106464

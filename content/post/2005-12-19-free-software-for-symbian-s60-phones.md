@@ -61,10 +61,6 @@ Update: Lost my phone recently. Here&#8217;s my list of the first five essential
   </ul>
 </div>
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/opera" rel="tag">opera</a> | <a href="http://technorati.com/tag/s60" rel="tag">s60</a> | <a href="http://technorati.com/tag/flash-lite" rel="tag">flash-lite</a> | <a href="http://technorati.com/tag/isync" rel="tag">isync</a> | <a href="http://technorati.com/tag/shozu" rel="tag">shozu</a> | <a href="http://technorati.com/tag/flickr" rel="tag">flickr</a> | <a href="http://technorati.com/tag/salling-clicker" rel="tag">salling-clicker</a> | <a href="http://technorati.com/tag/python" rel="tag">python</a>)
-</p>
-
  [1]: http://my.opera.com/community/forums/topic.dml?id=112098
  [2]: http://www.macromedia.com/devnet/devices/articles/flashlite_v2_preview.html
  [3]: http://www.macromedia.com/cfusion/webforums/forum/messageview.cfm?catid=472&threadid=1085444&enterthread=y

@@ -9,5 +9,5 @@ categories:
 Dinner. Tonight. 8.30pm.
 
 <div class="update">
-  Update: <a href="http://robbevan.typepad.com/robbish/2004/01/menu.html">Here&#8217;s what we ate</a>
+  Update: <a href="/post/2004-01-16-heres-what-we-ate/">Here&#8217;s what we ate</a>
 </div>

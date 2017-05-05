@@ -12,7 +12,7 @@ categories:
 ---
 A few weeks on, I&#8217;m finally getting around to uploading [my slides][1] from my [PlayTime][2] presentation, Playing with Pictures (it&#8217;s a [20MB+ PDF file][1], exported from Keynote). I was intending to annotate these so that they&#8217;d make more sense to someone who weren&#8217;t at my session, but I&#8217;m not sure when, if ever, I&#8217;ll do this.
 
-[<img style="border: 1px solid gray; float: none; margin-bottom: 10px; padding: 0;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/playtime.png" alt="" />][1]
+[<img style="border: 1px solid gray; float: none; margin-bottom: 10px; padding: 0;"  src="/images/posts/playtime.png" alt="" />][1]
 
 This gist of it however was this: Photo manipulation has always had a bit of a bad name, and even today we&#8217;re still worried that adding, removing or modifying parts of a photographic image detract from photography&#8217;s perceived ability to show us the truth. But you could argue that these techniques &#8211; and especially montage/manipulation (cf. the history of collage, Eisenstein etc, blah blah) &#8211; allow us to see other, new truths (all that nonsense about MegaWords was a joke about quantifying this). And the things you need, stock imagery, skills, tools etc. are becoming more available and affordable all the time: see <span class="hilite">all</span> the examples of the web services* I mentioned. So we&#8217;re going to see a lot more of it, especially with the YouTube generation, and it&#8217;s also something that we (XPT and everyone else) are going to continue to have a lot of fun with&#8230;
 
@@ -22,7 +22,7 @@ News about the Moon-Golf-Bowie photo competition we&#8217;re running and the &#8
 
 There I was thinking I&#8217;d completely got out of the habit of blogging.
 
- [1]: http://robbevan.com/talks/playtime.pdf
+ [1]: /uploads/playtime.pdf
  [2]: http://www.xpt.com/uk/news/playtime-4th-october-2006-a-day-of-workshops-presentations-and-space-age-play/
  [3]: http://worth1000.com
  [4]: http://www.coudal.com/tennis.php

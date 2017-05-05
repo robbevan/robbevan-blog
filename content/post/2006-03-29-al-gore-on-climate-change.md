@@ -19,10 +19,6 @@ The vertiginous, somewhat uncomfortable feeling you get sitting up close to an I
 
 (See also [The Climate Group&#8217;s coverage][11] of today&#8217;s event).
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/al-gore" rel="tag">al-gore</a> | <a href="http://technorati.com/tag/climate-change" rel="tag">climate-change</a> | <a href="http://technorati.com/tag/imax" rel="tag">imax</a>)
-</p>
-
  [1]: http://theclimategroup.org
  [2]: http://www.algore-08.com/
  [3]: http://www.bfi.org.uk/incinemas/imax/

@@ -6,7 +6,7 @@ permalink: /2006/02/19/live-winter-olympics-filmloop-photocast/
 categories:
   - Cold
 ---
-[<img style="float: none; padding-bottom: 10px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/torino-filmloop.png" alt="" />][1]
+[<img style="float: none; padding-bottom: 10px;"  src="/images/posts/torino-filmloop.png" alt="" />][1]
 
 These images from today&#8217;s [4x10km Men&#8217;s relay][2].
 

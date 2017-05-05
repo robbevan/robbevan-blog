@@ -20,10 +20,6 @@ Anyway, by now, the talks (sorry, &#8216;podcasts&#8217;) are <span class="hilit
   Update: and <a href="http://nubyonrails.com/articles/2006/02/23/carson-workshops-summit-podcast-feed">Geoffrey Grosenbach</a> has assembled <a href="http://topfunky.com/clients/carson/podcast.xml">a feed</a> so you can subscribe to a one-time podcast and get <span class="hilite">all</span> the talks in your favourite podcasting client
 </div>
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/futureofwebapps" rel="tag">futureofwebapps</a> | <a href="http://technorati.com/tag/rails" rel="tag">rails</a>)
-</p>
-
  [1]: http://www.carsonworkshops.com/summit/
  [2]: http://www.plasticbag.org/archives/2006/02/my_future_of_web_apps_slides.shtml
  [3]: http://jeremy.zawodny.com/blog/

@@ -19,10 +19,6 @@ So now, my [QuickSilver][8] action posts to my &#8216;feeder&#8217; account, tag
 
 I still have [a huge number][11] of @review posts to deal with though&#8230;
 
-<p class="technorati-tags">
-  (Technorati tags: <a href="http://technorati.com/tag/delicious" rel="tag">delicious</a> | <a href="http://technorati.com/tag/applescript" rel="tag">applescript</a> | <a href="http://technorati.com/tag/quicksilver" rel="tag">quicksilver</a>)
-</p>
-
  [1]: http://weblog.infoworld.com/udell/
  [2]: http://weblog.infoworld.com/udell/2005/11/01.html#a1332
  [3]: http://www.lifehacker.com/software/delicious/semiprivate-delicious-bookmarks-134798.php

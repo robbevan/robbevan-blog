@@ -22,10 +22,6 @@ And just because this is doing the rounds today, is very funny and brilliantly e
 
 (Finally, one housekeeping note: [here&#8217;s a smart way][9] to get video from your iPod on TV using a cable you probably already have, instead of the $19/£15 proprietary Apple iPod AV Cable.)
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/ipod" rel="tag">ipod</a> | <a href="http://technorati.com/tag/google-video" rel="tag">google-video</a> | <a href="http://technorati.com/tag/moon" rel="tag">moon</a>)
-</p>
-
  [1]: http://video.google.com/videoplay?docid=4166049933953240830&q=45017
  [2]: http://video.google.com/videosearch?q=owner%3Anara+type%3Anasa&so=0
  [3]: http://www.flickr.com/photos/robbevan/105416903/ "photo sharing"
