@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on Rob Bevan</title>
-    <link>https://robbevan.com/categories/science/</link>
+    <link>/categories/science/</link>
     <description>Recent content in Science on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Mon, 25 Jul 2005 13:22:54 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Is taste symmetrical?</title>
-      <link>https://robbevan.com/post/2005-07-25-is-taste-symmetrical/</link>
+      <link>/post/2005-07-25-is-taste-symmetrical/</link>
       <pubDate>Mon, 25 Jul 2005 13:22:54 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-07-25-is-taste-symmetrical/</guid>
+      <guid>/post/2005-07-25-is-taste-symmetrical/</guid>
       <description>Overheard on a train (two women chatting about lunch): &amp;#8220;Is taste symmetrical?&amp;#8221;, meaning Are Human Taste Thresholds Similar on the Right and Left Sides of the Tongue? Basically, the answer is yes: &amp;#8220;taste threshold sensitivity is equivalent on the left and right anterior tongue for most individuals.&amp;#8221;
 And whilst we&amp;#8217;re on the subject of eavesdropping, check out Overheard in New York.</description>
     </item>
     
     <item>
       <title>DNA Cocktail</title>
-      <link>https://robbevan.com/post/2004-11-10-dna-cocktail/</link>
+      <link>/post/2004-11-10-dna-cocktail/</link>
       <pubDate>Wed, 10 Nov 2004 08:43:11 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-11-10-dna-cocktail/</guid>
+      <guid>/post/2004-11-10-dna-cocktail/</guid>
       <description>One of the highlights for me at the PAL Digital Science Lab for Wellcome/NESTA I attended recently was an evening spent sampling a couple of Dean Maddon&amp;#8217;s cocktails of nucleic acids. I&amp;#8217;m pleased to note that the recipe is available online. Best served in a test tube, obviously.</description>
     </item>
     

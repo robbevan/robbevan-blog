@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spam on Rob Bevan</title>
-    <link>https://robbevan.com/categories/spam/</link>
+    <link>/categories/spam/</link>
     <description>Recent content in Spam on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 18 Jun 2004 07:28:00 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/spam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/spam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spam poetry</title>
-      <link>https://robbevan.com/post/2004-06-18-spam-poetry/</link>
+      <link>/post/2004-06-18-spam-poetry/</link>
       <pubDate>Fri, 18 Jun 2004 07:28:00 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-06-18-spam-poetry/</guid>
+      <guid>/post/2004-06-18-spam-poetry/</guid>
       <description>06-18-2004 at 08:28 AM
 The Register is suggesting we start paying attention to the &amp;#8220;random collections of (often highly esoteric) words&amp;#8221; that &amp;#8220;spam tsunamists are in the habit of finishing their missives with&amp;#8221;, as if this constituted a form of William Burroughs-like cut-up poetry. Here&amp;#8217;s one I got this morning from spam poet Darla ftdvmufsxkpo@thaimail.com, entitled &amp;#8216;osmotic&amp;#8217;:
 deerskin,was greeted with,splenetic,again he pictured,downstream,technique of your,abeyance,up and gave,biology,handbags of antelope,depletion,of the four,linotype,family starts lying,kibbutzim,&amp;lt;span class=&amp;quot;hilite&amp;quot;&amp;gt;all&amp;lt;/span&amp;gt; the while.</description>

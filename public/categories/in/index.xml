@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In on Rob Bevan</title>
-    <link>https://robbevan.com/categories/in/</link>
+    <link>/categories/in/</link>
     <description>Recent content in In on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Tue, 19 Apr 2005 05:48:21 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/in/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/in/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Peter Saville fonts</title>
-      <link>https://robbevan.com/post/2005-04-19-peter-saville-fonts/</link>
+      <link>/post/2005-04-19-peter-saville-fonts/</link>
       <pubDate>Tue, 19 Apr 2005 05:48:21 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-04-19-peter-saville-fonts/</guid>
+      <guid>/post/2005-04-19-peter-saville-fonts/</guid>
       <description>If you can work your way around the site&amp;#8217;s terrible navigation, there are some great free fonts to be had here.</description>
     </item>
     

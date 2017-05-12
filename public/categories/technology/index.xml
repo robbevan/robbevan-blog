@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Rob Bevan</title>
-    <link>https://robbevan.com/categories/technology/</link>
+    <link>/categories/technology/</link>
     <description>Recent content in Technology on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 17 May 2006 12:54:36 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Naming things</title>
-      <link>https://robbevan.com/post/2006-05-17-naming-things/</link>
+      <link>/post/2006-05-17-naming-things/</link>
       <pubDate>Wed, 17 May 2006 12:54:36 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-05-17-naming-things/</guid>
+      <guid>/post/2006-05-17-naming-things/</guid>
       <description>Bruce Sterling is doing the rounds in London at the moment: I caught him on Monday at a New Statesman event upstairs at the Grouse and Claret. Bruce gave a highly entertaining &amp;#8216;cyberpunk exegesis&amp;#8217; of a bewildering array of contemporary issues and ideas: the UK&amp;#8217;s surveillance culture, Web 2.0, Climate Change and of course the Internet of Things to name just a few. Good &amp;#8216;names&amp;#8217; for things seem more important than ever now: Bruce mentioned that Tim O&amp;#8217;Reilly &amp;#8211; who coined the term Web 2.</description>
     </item>
     
     <item>
       <title>Raccoon: Apache on S60</title>
-      <link>https://robbevan.com/post/2006-05-03-raccoon-apache-on-s60/</link>
+      <link>/post/2006-05-03-raccoon-apache-on-s60/</link>
       <pubDate>Wed, 03 May 2006 20:50:17 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-05-03-raccoon-apache-on-s60/</guid>
+      <guid>/post/2006-05-03-raccoon-apache-on-s60/</guid>
       <description>Nokia Research recently announced the Apache webserver had been ported to run on S60 phones (see my earlier post). The plan had been to &amp;#8220;bring a full-fledged webserver to S60 and to make a webserver running on a mobile phone accessible from the Internet using any web browser&amp;#8221;. Now the client binary is available for download and you can sign up for an account on Nokia&amp;#8217;s gateway and try this for yourself.</description>
     </item>
     
     <item>
       <title>The Eagle Has Landed on my iPod</title>
-      <link>https://robbevan.com/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</link>
+      <link>/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</link>
       <pubDate>Mon, 27 Feb 2006 22:43:13 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</guid>
+      <guid>/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</guid>
       <description>About the only good thing to result from the theft of my bag just before Christmas was replacing my ageing original 1G iPod with a sleek new black 5G video iPod (whoever thought that glossy white &amp;#8216;iBook&amp;#8217; look was a good idea?). Actually that&amp;#8217;s not strictly true: I&amp;#8217;ve effectively &amp;#8216;upgraded&amp;#8217; many of my closest and most familiar possessions at the cost of many hours cancelling credit cards, talking to insurers and replacing missing Christmas gifts.</description>
     </item>
     
     <item>
       <title>Merkitys: context-aware S60 image uploader</title>
-      <link>https://robbevan.com/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</link>
+      <link>/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</link>
       <pubDate>Tue, 07 Feb 2006 14:06:51 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</guid>
+      <guid>/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</guid>
       <description>Like Shozu, new S60 app Merkitys (Finnish for &amp;#8216;Meaning&amp;#8217;) allows easy upload of images from your phone to Flickr (or your own server). Merkitys however also automatically adds &amp;#8216;context&amp;#8217;, which includes location (i.e. GSM location information: Mobile Country Code, Mobile Network Code, Location Area Code and Cell ID, but also GPS data if you also have a supported receiver) as well as the usual user-defined description and tags etc., and &amp;#8211; curiously &amp;#8211; the addresses of all bluetooth devices in the vicinity.</description>
     </item>
     
     <item>
       <title>Visiting Antarctica via Google Earth</title>
-      <link>https://robbevan.com/post/2006-01-27-visiting-antarctica-via-google-earth/</link>
+      <link>/post/2006-01-27-visiting-antarctica-via-google-earth/</link>
       <pubDate>Fri, 27 Jan 2006 07:23:10 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-01-27-visiting-antarctica-via-google-earth/</guid>
+      <guid>/post/2006-01-27-visiting-antarctica-via-google-earth/</guid>
       <description>PolarView have released a .kmz file for Google Earth providing more Antarctic data, including the location of drift buoys, larger identified icebergs, selected research vessels and research stations, as well as some higher resolution imagery. Naturally I was drawn to Troll, the Norwegian base on Queen Maud Land (named by a popular vote of Norwegian schoolchildren).
 Who knows whether I&amp;#8217;ll ever make it to Antarctica for real, but in the meantime my name at least will be heading SOUTH with the Ben Saunders&amp;#8217; sledge.</description>
     </item>
     
     <item>
       <title>Nokia ports Apache to S60</title>
-      <link>https://robbevan.com/post/2006-01-21-nokia-ports-apache-to-s60/</link>
+      <link>/post/2006-01-21-nokia-ports-apache-to-s60/</link>
       <pubDate>Sat, 21 Jan 2006 07:42:12 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-01-21-nokia-ports-apache-to-s60/</guid>
+      <guid>/post/2006-01-21-nokia-ports-apache-to-s60/</guid>
       <description>In a first step towards allowing users to maintain &amp;#8220;personal mobile websites&amp;#8221;, Nokia research has announced it has ported Apache httpd and mod_python to the S60/Symbian platform. (The code is so far only free for use within Nokia.)
 My head is still reeling from the implications of this last paragraph, which seems completely farfetched and yet perfectly obvious at the same time:
  We believe that being able to run a globally accessible personal website on your mobile phone has the potential of changing the Internet landscape.</description>
@@ -70,30 +70,30 @@ My head is still reeling from the implications of this last paragraph, which see
     
     <item>
       <title>More on semi-private del.icio.us bookmarks</title>
-      <link>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</link>
+      <link>/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</link>
       <pubDate>Sat, 05 Nov 2005 15:42:03 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</guid>
+      <guid>/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</guid>
       <description>Jon Udell&amp;#8217;spost (via Lifehacker) on Alex Bosworth&amp;#8217;s hack to save semi-private delicious bookmarks using the for:yourname tag prompted me to fix an aspect of my use of delicious that has been bugging me recently.
 For a while now, I&amp;#8217;ve been using a variation on Frasier Speirs&amp;#8217; AppleScript to post to delicious directly from QuickSilver, tagging these GTD-style with @review, for those times when I want bookmark something quickly without going to the trouble of describing, annotating and tagging the link.</description>
     </item>
     
     <item>
       <title>Herding animals remotely</title>
-      <link>https://robbevan.com/post/2004-06-11-herding-animals-remotely/</link>
+      <link>/post/2004-06-11-herding-animals-remotely/</link>
       <pubDate>Fri, 11 Jun 2004 12:26:43 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-06-11-herding-animals-remotely/</guid>
+      <guid>/post/2004-06-11-herding-animals-remotely/</guid>
       <description>Years ago, Tim and I invented a company called SHEIP, one of XPT&amp;#8217;s clients, who were developing animal networking technology that would enable sheep, for example, each to have individual IP addresses and to be herded remotely. It&amp;#8217;s good to see that this kind of technology really is in development, even if it&amp;#8217;s not quite ready for prime (beef) time: &amp;#8220;A farmer would control multiple herds from a single server at home as if they were playing a video game, said Zack Butler, of Dartmouth College in Hanover, New Hampshire.</description>
     </item>
     
     <item>
       <title>Digital camera woes</title>
-      <link>https://robbevan.com/post/2003-11-26-digital-camera-woes/</link>
+      <link>/post/2003-11-26-digital-camera-woes/</link>
       <pubDate>Wed, 26 Nov 2003 15:08:22 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2003-11-26-digital-camera-woes/</guid>
-      <description>I spent about two hours today trying to fix my PowerShot S10 so I can take a picture of my phone (don&amp;#8217;t ask). I just kept getting the same E28 error in the viewfinder and then the lens would retract. So I reformatted the CF card and upgraded the [firmware]1 &amp;#8211; still nothing. Finally, I found this thread. The upshot is, no one but Canon knows what the error is and you have to pay them £150 to tell you.</description>
+      <guid>/post/2003-11-26-digital-camera-woes/</guid>
+      <description>I spent about two hours today trying to fix my PowerShot S10 so I can take a picture of my phone (don&amp;#8217;t ask). I just kept getting the same E28 error in the viewfinder and then the lens would retract. So I reformatted the CF card and upgraded the firmware (a bit of a hair-raising experience: one false move and the camera&amp;#8217;s toast) &amp;#8211; still nothing. Finally, I found this thread.</description>
     </item>
     
   </channel>

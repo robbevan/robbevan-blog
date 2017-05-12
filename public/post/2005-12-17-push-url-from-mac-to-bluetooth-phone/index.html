@@ -21,7 +21,7 @@ After you&#8217;ve installed the action, create an Automator workflow using the 
 <meta property="og:description" content="Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a Nokia 6630). So I knocked up a simple solution using QuickSilver and Framework Labs&#8217; Bluetooth Object Push Automator Action stuck together with a little AppleScript.
 After you&#8217;ve installed the action, create an Automator workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/" />
+<meta property="og:url" content="/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/" />
 
 
 
@@ -50,7 +50,7 @@ After you&#8217;ve installed the action, create an Automator workflow using the 
     
     
     
-    <link rel="canonical" href="https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/">
+    <link rel="canonical" href="/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/">
     
     
     <link rel="icon" sizes="any" href="data:image/svg+xml,%3Csvg%20viewBox='0%200%2046%2045'%20xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3EAfter%20Dark%3C/title%3E%3Cpath%20d='M.708%2045L23%20.416%2045.292%2045H.708zM35%2038L23%2019%2011%2038h24z'%20fill='%23000'/%3E%3C/svg%3E">
@@ -142,7 +142,7 @@ After you&#8217;ve installed the action, create an Automator workflow using the 
 
 
 <meta itemprop="dateModified" content="2005-12-17T06:28:29&#43;00:00" />
-<meta itemprop="wordCount" content="294">
+<meta itemprop="wordCount" content="260">
 
 
 
@@ -169,15 +169,15 @@ After you&#8217;ve installed the action, create an Automator workflow using the 
     
 
     <div itemprop="articleBody">
-      <p>Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a <a href="http://robbevan.com/blog/2005/04/27/lifeblog/">Nokia 6630</a>). So I knocked up a simple solution using <a href="http://quicksilver.blacktree.com/">QuickSilver</a> and Framework Labs&#8217; <a href="http://www.frameworklabs.de/bluepush.html">Bluetooth Object Push Automator Action</a> stuck together with a little AppleScript.</p>
+      <p>Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a <a href="/post/2005-04-27-lifeblog/">Nokia 6630</a>). So I knocked up a simple solution using <a href="http://quicksilver.blacktree.com/">QuickSilver</a> and Framework Labs&#8217; <a href="http://www.frameworklabs.de/bluepush.html">Bluetooth Object Push Automator Action</a> stuck together with a little AppleScript.</p>
 
 <p>After you&#8217;ve installed the action, create an <a href="http://www.apple.com/macosx/features/automator/">Automator</a> workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone. (Anything you drop on this app will now get pushed to your phone.)</p>
 
-<p><img style="padding-bottom: 10px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/bluetooth-push-automator-action.png" alt="" /></p>
+<p><img style="padding-bottom: 10px;"  src="/images/posts/bluetooth-push-automator-action.png" alt="" /></p>
 
-<p>Then copy <a href="http://robbevan.com/blog/wp-content/uploads/Push2Phone.zip">this AppleScript</a> for QuickSilver to <code>~/Library/Application Support/QuickSilver/Actions</code> and <strong>be sure to modify the tmp_file_path and app_path properties in the script for your environment</strong>.</p>
+<p>Then copy <a href="/uploads/Push2Phone.zip">this AppleScript</a> for QuickSilver to <code>~/Library/Application Support/QuickSilver/Actions</code> and <strong>be sure to modify the tmp_file_path and app_path properties in the script for your environment</strong>.</p>
 
-<p><img style="padding: 0 10px 16px 0;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/posts/push2phone-6630-screenshot.png" alt="" /></p>
+<p><img style="padding: 0 10px 16px 0;"  src="/images/posts/push2phone-6630-screenshot.png" alt="" /></p>
 
 <p>Now you should be able to select a url &#8211; like this:</p>
 
@@ -185,24 +185,25 @@ After you&#8217;ve installed the action, create an Automator workflow using the 
 
 <p>Google&#8217;s new <a href="http://www.google.com/glm/gmail">mobile version of Gmail</a> &#8211; and in Safari hit Cmd-% to send this to QuickSilver (in Firefox you&#8217;ll need to cut and paste) and then type &#8216;pu&#8217; or similar to forward it to your phone.</p>
 
-<p><div class="update">
-  Update: Interesting sidenote: seems you can use Google&#8217;s mobile gateway to convert your site (and any site you link to) to WML simply by pre-pending <a href="http://www.google.com/gwt/n?u=">http://www.google.com/gwt/n?u=</a> to your url:</p> <p>
-    <strong style="padding: 2px; border: 1px solid #ccc;"><a href="http://www.google.com/gwt/n?u=http://blog.robbevan.com&amp;_gwt_noimg=1">http://www.google.com/gwt/n?u=http://blog.robbevan.com&amp;_gwt_noimg=1</a></strong>
-  </p></p>
+<div class="update">
+  <p>
+    Update: Interesting sidenote: seems you can use Google&#8217;s mobile gateway to convert your site (and any site you link to) to WML simply by pre-pending http://www.google.com/gwt/n?u= to your url:
+  </p>
 
-<p><p>
-    (via <a href="http://muness.blogspot.com/2005/12/google-wml-gateway.html">Mundane Essays</a>) </div> <p>
+  <p>
+    <strong style="padding: 2px; border: 1px solid #ccc;">http://www.google.com/gwt/n?u=http://blog.robbevan.com&_gwt_noimg=1</strong>
+  </p>
+
+  <p>
+    (via <a href="http://muness.blogspot.com/2005/12/google-wml-gateway.html">Mundane Essays</a>) </div>
+  <p>
       See also <a href="http://www.impossibilities.com/blog/entry_blog-196.php">Robert Hall&#8217;s post</a> on how to use the Bluetooth Object Push Automator Action to enhance Flash Lite development.
-    </p></p>
+  </p>
 
-<pre><code>&lt;p&gt;
-  Now &lt;span class=&quot;hilite&quot;&gt;all&lt;/span&gt; I need to do is to figure out how to make Opera the default browser on my phone. Anyone know if this is possible?
-&lt;/p&gt;
-
-&lt;p class=&quot;technorati-tags&quot;&gt;
-  (&lt;img style=&quot;float: none; padding: 2px 2px 0 2px;&quot;  src=&quot;http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif&quot; alt=&quot;&quot; /&gt; Technorati tags: &lt;a href=&quot;http://technorati.com/tag/quicksilver&quot; rel=&quot;tag&quot;&gt;quicksilver&lt;/a&gt; | &lt;a href=&quot;http://technorati.com/tag/bluetoooth&quot; rel=&quot;tag&quot;&gt;bluetooth&lt;/a&gt; | &lt;a href=&quot;http://technorati.com/tag/applescript&quot; rel=&quot;tag&quot;&gt;applescript&lt;/a&gt; | &lt;a href=&quot;http://technorati.com/tag/automator&quot; rel=&quot;tag&quot;&gt;automator&lt;/a&gt;)
-&lt;/p&gt;
-</code></pre>
+    <p>
+      Now <span class="hilite">all</span> I need to do is to figure out how to make Opera the default browser on my phone. Anyone know if this is possible?
+    </p>
+    </div>
 
     </div>
     
@@ -222,7 +223,7 @@ After you&#8217;ve installed the action, create an Automator workflow using the 
     in <span itemprop="articleSection"><a href="/categories/mobile/">Mobile</a> and <a href="/categories/software/">Software</a></span>
   
   
-  using <span itemprop="wordCount">294</span> words.
+  using <span itemprop="wordCount">260</span> words.
 </p>
 
       

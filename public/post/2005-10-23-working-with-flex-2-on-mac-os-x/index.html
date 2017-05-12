@@ -21,7 +21,7 @@ Macromedia recently announced Macromedia Labs and the availability of the Flex 2
 <meta property="og:description" content="(Note: this post was originally written on release of the Flex 2 alpha. I&#8217;ve since updated it for the Flex 2 beta.)
 Macromedia recently announced Macromedia Labs and the availability of the Flex 2 product line alpha, which includes a new Eclipse-based IDE and a new high performance client runtime (Flash Player 8.5) alongside the development framework. Unfortunately, for now, development on the Mac is not supported and Macromedia only provide an installer for Flex Builder 2, the Flex Framework 2, Flex samples and command line tools for Windows." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://robbevan.com/post/2005-10-23-working-with-flex-2-on-mac-os-x/" />
+<meta property="og:url" content="/post/2005-10-23-working-with-flex-2-on-mac-os-x/" />
 
 
 
@@ -50,7 +50,7 @@ Macromedia recently announced Macromedia Labs and the availability of the Flex 2
     
     
     
-    <link rel="canonical" href="https://robbevan.com/post/2005-10-23-working-with-flex-2-on-mac-os-x/">
+    <link rel="canonical" href="/post/2005-10-23-working-with-flex-2-on-mac-os-x/">
     
     
     <link rel="icon" sizes="any" href="data:image/svg+xml,%3Csvg%20viewBox='0%200%2046%2045'%20xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3EAfter%20Dark%3C/title%3E%3Cpath%20d='M.708%2045L23%20.416%2045.292%2045H.708zM35%2038L23%2019%2011%2038h24z'%20fill='%23000'/%3E%3C/svg%3E">
@@ -142,7 +142,7 @@ Macromedia recently announced Macromedia Labs and the availability of the Flex 2
 
 
 <meta itemprop="dateModified" content="2005-10-23T18:13:33&#43;00:00" />
-<meta itemprop="wordCount" content="523">
+<meta itemprop="wordCount" content="516">
 
 
 
@@ -173,11 +173,11 @@ Macromedia recently announced Macromedia Labs and the availability of the Flex 2
 
 <p>Macromedia recently announced <a href="http://labs.macromedia.com/">Macromedia Labs</a> and the availability of the Flex 2 product line alpha, which includes a new Eclipse-based IDE and a new high performance client runtime (Flash Player 8.5) alongside the development framework. Unfortunately, for now, development on the Mac is not supported and Macromedia only provide an installer for Flex Builder 2, the Flex Framework 2, Flex samples and command line tools for Windows.</p>
 
-<p>So I set about trying to discover, if <a href="http://robbevan.com/blog/2004/04/04/running-macromedia-flex-with-jboss-on-mac-os-x-server/">as with the 1.0 release,</a> I could get the framework at least to run on OS X: and the short answer is yes, it&#8217;s relatively simple.</p>
+<p>So I set about trying to discover, if <a href="/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/">as with the 1.0 release,</a> I could get the framework at least to run on OS X: and the short answer is yes, it&#8217;s relatively simple.</p>
 
 <p>First of <span class="hilite">all</span> you need to extract both the framework and the player from the <a href="http://labs.macromedia.com/downloads/">Download for Windows</a>. To do this, just unzip the relevant components from the .exe file. Assuming you&#8217;ve already downloaded FlexBuilder2_Beta1_Install.exe to your desktop, <a href="http://www.bigbold.com/snippets/posts/show/1619">this script</a> does exactly this and then copies the &#8216;frameworks&#8217; and &#8216;lib&#8217; directories to a flex2 directory in /Library <strike>and the Install Flash Player 8.5 OSX.dmg to your desktop</strike>. (Or you can obviously just run the installer on Windows and copy across the relevant files.)</p>
 
-<p>Once you&#8217;ve got the framework installed, you can use mxmlc &#8211; the (Java) Macromedia Flex Compiler &#8211; from the command line or better still with <a href="http://ant.apache.org">Ant</a>. Here&#8217;s a version of the &#8216;Hello World&#8217; example Flex project from Macromedia&#8217;s Quick-start tutorials book with the simplest possible Ant build file: just <a href="http://robbevan.com/blog/wp-content/uploads/working_with_flex_2_beta_1_on_mac_os_x.zip">download</a> and run &#8216;ant&#8217; (defaults to the &#8216;build&#8217; task) in the Quickstart directory, and &#8211; assuming you&#8217;ve already installed the player &#8211; then open QuickStart.html. You should see the movie initialise and the words &#8220;Welcome to Flex&#8221; appear.</p>
+<p>Once you&#8217;ve got the framework installed, you can use mxmlc &#8211; the (Java) Macromedia Flex Compiler &#8211; from the command line or better still with <a href="http://ant.apache.org">Ant</a>. Here&#8217;s a version of the &#8216;Hello World&#8217; example Flex project from Macromedia&#8217;s Quick-start tutorials book with the simplest possible Ant build file: just <a href="/uploads/working_with_flex_2_beta_1_on_mac_os_x.zip">download</a> and run &#8216;ant&#8217; (defaults to the &#8216;build&#8217; task) in the Quickstart directory, and &#8211; assuming you&#8217;ve already installed the player &#8211; then open QuickStart.html. You should see the movie initialise and the words &#8220;Welcome to Flex&#8221; appear.</p>
 
 <p>(I had no luck at <span class="hilite">all</span> getting the IDE work, I did try extracting Flex Builder 2&#8242;s &#8216;features&#8217; and &#8216;plugins&#8217; directories and copying the contents of these to my Eclipse installation. Although I was then able to create a new Flex project, I wasn&#8217;t able to start the MXML editor which failed with a NullPointerException.)</p>
 
@@ -197,10 +197,6 @@ Macromedia recently announced Macromedia Labs and the availability of the Flex 2
   </p>
 </div>
 
-<p class="technorati-tags">
-  (Technorati tags: <a href="http://technorati.com/tag/flash" rel="tag">flash</a> | <a href="http://technorati.com/tag/flex-2" rel="tag">flex-2</a> | <a href="http://technorati.com/tag/os-x" rel="tag">os-x</a>)
-</p>
-
     </div>
     
     <footer>
@@ -219,7 +215,7 @@ Macromedia recently announced Macromedia Labs and the availability of the Flex 2
     in <span itemprop="articleSection"><a href="/categories/software/">Software</a></span>
   
   
-  using <span itemprop="wordCount">523</span> words.
+  using <span itemprop="wordCount">516</span> words.
 </p>
 
       

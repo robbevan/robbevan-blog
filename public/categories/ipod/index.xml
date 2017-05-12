@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipod on Rob Bevan</title>
-    <link>https://robbevan.com/categories/ipod/</link>
+    <link>/categories/ipod/</link>
     <description>Recent content in Ipod on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Mon, 27 Feb 2006 22:43:13 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/ipod/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/ipod/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Eagle Has Landed on my iPod</title>
-      <link>https://robbevan.com/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</link>
+      <link>/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</link>
       <pubDate>Mon, 27 Feb 2006 22:43:13 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</guid>
+      <guid>/post/2006-02-27-the-eagle-has-landed-on-my-ipod/</guid>
       <description>About the only good thing to result from the theft of my bag just before Christmas was replacing my ageing original 1G iPod with a sleek new black 5G video iPod (whoever thought that glossy white &amp;#8216;iBook&amp;#8217; look was a good idea?). Actually that&amp;#8217;s not strictly true: I&amp;#8217;ve effectively &amp;#8216;upgraded&amp;#8217; many of my closest and most familiar possessions at the cost of many hours cancelling credit cards, talking to insurers and replacing missing Christmas gifts.</description>
     </item>
     

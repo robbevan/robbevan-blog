@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on Rob Bevan</title>
-    <link>https://robbevan.com/categories/wordpress/</link>
+    <link>/categories/wordpress/</link>
     <description>Recent content in Wordpress on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 18 Jan 2006 11:14:40 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog Resolutions 2006</title>
-      <link>https://robbevan.com/post/2006-01-18-blog-resolutions-2006/</link>
+      <link>/post/2006-01-18-blog-resolutions-2006/</link>
       <pubDate>Wed, 18 Jan 2006 11:14:40 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-01-18-blog-resolutions-2006/</guid>
+      <guid>/post/2006-01-18-blog-resolutions-2006/</guid>
       <description>Apart from the obvious need/desire to post more often, here&amp;#8217;s a bunch of improvements I want to make to this blog in the coming weeks. I was hoping to get some of this done during &amp;#8216;ketchup&amp;#8217; week, but family, friends and a bumper crop of BAFTA screeners were welcome distractions.
 Upgrade to WordPress 2.0.1
 I&amp;#8217;ve been localhostin&amp;#8217; the beta for some time, and keeping up with it on wordpress.com, but now it and Steve Smith&amp;#8217;s Tiger Admin plugin are out and there are fixes/workarounds for the WP 2.</description>

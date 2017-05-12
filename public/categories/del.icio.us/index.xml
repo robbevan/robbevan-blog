@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Del.Icio.Us on Rob Bevan</title>
-    <link>https://robbevan.com/categories/del.icio.us/</link>
+    <link>/categories/del.icio.us/</link>
     <description>Recent content in Del.Icio.Us on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Mon, 20 Mar 2006 06:31:00 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/del.icio.us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/del.icio.us/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>del.icio.us rolls out private saving feature (in beta)</title>
-      <link>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</link>
+      <link>/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</link>
       <pubDate>Mon, 20 Mar 2006 06:31:00 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
+      <guid>/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
       <description>From del.ico.us/blog:
  This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is all about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.
- (Technorati tags: delicious) </description>
+ </description>
     </item>
     
     <item>
       <title>News from Norway</title>
-      <link>https://robbevan.com/post/2005-11-13-news-from-norway/</link>
+      <link>/post/2005-11-13-news-from-norway/</link>
       <pubDate>Sun, 13 Nov 2005 08:59:34 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-13-news-from-norway/</guid>
-      <description>In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to Merlin Mann&amp;#8217;s5ives here are some great stories from the English version of Aftenposten, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve bookmarked at del.icio.us* recently.
+      <guid>/post/2005-11-13-news-from-norway/</guid>
+      <description>In the first in an occasional series of &amp;#8216;linked links&amp;#8217; and by way of tribute to Merlin Mann&amp;#8217;s 5ives here are some great stories from the English version of Aftenposten, Norway&amp;#8217;s &amp;#8216;leading quality daily&amp;#8217; that I&amp;#8217;ve bookmarked at del.icio.us* recently.
 (I&amp;#8217;m half-Norwegian, so I enjoy keeping up-to-date with what&amp;#8217;s happening in the &amp;#8216;motherland&amp;#8217;, but it&amp;#8217;s a great feed nevertheless.)
 Giant boulder closes highway  A boulder weighing roughly 50 tons has shut down highway 715, one of the traffic arteries to Trondheim.</description>
     </item>
     
     <item>
       <title>More on semi-private del.icio.us bookmarks</title>
-      <link>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</link>
+      <link>/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</link>
       <pubDate>Sat, 05 Nov 2005 15:42:03 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</guid>
+      <guid>/post/2005-11-05-more-on-semi-private-delicious-bookmarks/</guid>
       <description>Jon Udell&amp;#8217;spost (via Lifehacker) on Alex Bosworth&amp;#8217;s hack to save semi-private delicious bookmarks using the for:yourname tag prompted me to fix an aspect of my use of delicious that has been bugging me recently.
 For a while now, I&amp;#8217;ve been using a variation on Frasier Speirs&amp;#8217; AppleScript to post to delicious directly from QuickSilver, tagging these GTD-style with @review, for those times when I want bookmark something quickly without going to the trouble of describing, annotating and tagging the link.</description>
     </item>

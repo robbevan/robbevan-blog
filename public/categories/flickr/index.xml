@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flickr on Rob Bevan</title>
-    <link>https://robbevan.com/categories/flickr/</link>
+    <link>/categories/flickr/</link>
     <description>Recent content in Flickr on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Thu, 23 Feb 2006 00:07:14 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/flickr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/flickr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Future of Web Apps</title>
-      <link>https://robbevan.com/post/2006-02-23-the-future-of-web-apps/</link>
+      <link>/post/2006-02-23-the-future-of-web-apps/</link>
       <pubDate>Thu, 23 Feb 2006 00:07:14 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-02-23-the-future-of-web-apps/</guid>
+      <guid>/post/2006-02-23-the-future-of-web-apps/</guid>
       <description>Like most of the UK&amp;#8217;s web development community I was at the Carson Workshops Future of Web Apps summit a couple of weeks ago. A couple of highlights for me were Tom Coates&amp;#8217; wonderfully lucid and entertaining synthesis of all things Web 2.0 (see also Jeremy Zawodny&amp;#8217;s annotations of Tom&amp;#8217;s slides) and David Heinemeier Hansson&amp;#8217;s Ruby on Rails &amp;#8216;sermon&amp;#8217;. Although I&amp;#8217;ve been working with Rails intermittently for at least eighteen months I&amp;#8217;ve never seen David speak and it had never really occurred to me before just how Scandinavian Rails is: minimal, beautifully designed and good for the soul.</description>
     </item>
     

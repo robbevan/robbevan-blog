@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile on Rob Bevan</title>
-    <link>https://robbevan.com/categories/mobile/</link>
+    <link>/categories/mobile/</link>
     <description>Recent content in Mobile on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 03 May 2006 20:50:17 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Raccoon: Apache on S60</title>
-      <link>https://robbevan.com/post/2006-05-03-raccoon-apache-on-s60/</link>
+      <link>/post/2006-05-03-raccoon-apache-on-s60/</link>
       <pubDate>Wed, 03 May 2006 20:50:17 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-05-03-raccoon-apache-on-s60/</guid>
+      <guid>/post/2006-05-03-raccoon-apache-on-s60/</guid>
       <description>Nokia Research recently announced the Apache webserver had been ported to run on S60 phones (see my earlier post). The plan had been to &amp;#8220;bring a full-fledged webserver to S60 and to make a webserver running on a mobile phone accessible from the Internet using any web browser&amp;#8221;. Now the client binary is available for download and you can sign up for an account on Nokia&amp;#8217;s gateway and try this for yourself.</description>
     </item>
     
     <item>
       <title>Merkitys: context-aware S60 image uploader</title>
-      <link>https://robbevan.com/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</link>
+      <link>/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</link>
       <pubDate>Tue, 07 Feb 2006 14:06:51 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</guid>
+      <guid>/post/2006-02-07-merkitys-context-aware-s60-image-uploader/</guid>
       <description>Like Shozu, new S60 app Merkitys (Finnish for &amp;#8216;Meaning&amp;#8217;) allows easy upload of images from your phone to Flickr (or your own server). Merkitys however also automatically adds &amp;#8216;context&amp;#8217;, which includes location (i.e. GSM location information: Mobile Country Code, Mobile Network Code, Location Area Code and Cell ID, but also GPS data if you also have a supported receiver) as well as the usual user-defined description and tags etc., and &amp;#8211; curiously &amp;#8211; the addresses of all bluetooth devices in the vicinity.</description>
     </item>
     
     <item>
       <title>Nokia ports Apache to S60</title>
-      <link>https://robbevan.com/post/2006-01-21-nokia-ports-apache-to-s60/</link>
+      <link>/post/2006-01-21-nokia-ports-apache-to-s60/</link>
       <pubDate>Sat, 21 Jan 2006 07:42:12 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-01-21-nokia-ports-apache-to-s60/</guid>
+      <guid>/post/2006-01-21-nokia-ports-apache-to-s60/</guid>
       <description>In a first step towards allowing users to maintain &amp;#8220;personal mobile websites&amp;#8221;, Nokia research has announced it has ported Apache httpd and mod_python to the S60/Symbian platform. (The code is so far only free for use within Nokia.)
 My head is still reeling from the implications of this last paragraph, which seems completely farfetched and yet perfectly obvious at the same time:
  We believe that being able to run a globally accessible personal website on your mobile phone has the potential of changing the Internet landscape.</description>
@@ -42,30 +42,30 @@ My head is still reeling from the implications of this last paragraph, which see
     
     <item>
       <title>Free software for Symbian S60 phones</title>
-      <link>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</link>
+      <link>/post/2005-12-19-free-software-for-symbian-s60-phones/</link>
       <pubDate>Mon, 19 Dec 2005 11:26:33 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
+      <guid>/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
       <description>Whilst searching the Opera Mobile forums, I came across this fairly comprehensive list of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.
 Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 announced back in November, you&amp;#8217;ll also be excited to hear from this official forum post that this will be available to developers from Macromedia Labs in January.</description>
     </item>
     
     <item>
       <title>Push url from Mac to bluetooth phone</title>
-      <link>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</link>
+      <link>/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</link>
       <pubDate>Sat, 17 Dec 2005 06:28:29 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</guid>
+      <guid>/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</guid>
       <description>Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a Nokia 6630). So I knocked up a simple solution using QuickSilver and Framework Labs&amp;#8217; Bluetooth Object Push Automator Action stuck together with a little AppleScript.
 After you&amp;#8217;ve installed the action, create an Automator workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&amp;#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone.</description>
     </item>
     
     <item>
       <title>Opera announces the Opera Platform</title>
-      <link>https://robbevan.com/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</link>
+      <link>/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</link>
       <pubDate>Tue, 15 Nov 2005 18:20:01 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</guid>
+      <guid>/post/2005-11-15-opera-releases-sdk-for-web-applications-on-mobile-phones/</guid>
       <description>The Opera Platform: is this the Konfabulator for mobile?
  The Opera Platform&amp;#8482; SDK is an SDK for developing rich client-side web applications on mobile devices such as Symbian Series60 phones (MS Smartphone support coming soon). With the Opera Platform&amp;#8482; Application Player, developers can create applications that interact with the phone&amp;#8217;s native functionality, such as the phone&amp;#8217;s address book, calendar or message store. In addition, developers can, using Ajax technology, interact directly with a multitude of web services, both home-grown and pre-existing.</description>
     </item>

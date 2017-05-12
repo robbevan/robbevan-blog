@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Rob Bevan</title>
-    <link>https://robbevan.com/categories/music/</link>
+    <link>/categories/music/</link>
     <description>Recent content in Music on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Thu, 06 Oct 2005 12:49:44 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plat du Jour live</title>
-      <link>https://robbevan.com/post/2005-10-06-plat-du-jour-live/</link>
+      <link>/post/2005-10-06-plat-du-jour-live/</link>
       <pubDate>Thu, 06 Oct 2005 12:49:44 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-10-06-plat-du-jour-live/</guid>
+      <guid>/post/2005-10-06-plat-du-jour-live/</guid>
       <description>Went to see Matthew Herbert and his apron-clad &amp;#8216;brigade&amp;#8217; perform Plat du Jour at the Barbican on Monday night. Unfortunately I couldn&amp;#8217;t shake the feeling that Herbert and co were a little bored by the idea of a last London performance (they delayed the start for a few minutes trying to work out if they could do the whole thing in reverse, just to make it more interesting for themselves) and his slightly irritating assumption that most of the audience had seen it before seemed like a reason not to try too hard.</description>
     </item>
     
     <item>
       <title>Plat du Jour</title>
-      <link>https://robbevan.com/post/2005-08-04-plat-du-jour/</link>
+      <link>/post/2005-08-04-plat-du-jour/</link>
       <pubDate>Wed, 03 Aug 2005 23:11:35 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-08-04-plat-du-jour/</guid>
+      <guid>/post/2005-08-04-plat-du-jour/</guid>
       <description>The long-awaited (by me at least) new album Plat du Jour from Matthew Herbert was released last week. Over two years in the making this is a &amp;#8216;concept&amp;#8217; album about &amp;#8220;the international language of food&amp;#8221; with some great tunes, including two standout tracks: Celebrity, made entirely from food aimed at children endorsed by celebrities and the only vocal track (&amp;#8220;Go Gordon, go Ramsay, go Beyonc&amp;eacute;&amp;#8230;&amp;#8221;) and The Nine Seeds Of Navdanya, generated from seeds provided by a conservation organisation in India.</description>
     </item>
     
     <item>
       <title>Radio David Byrne</title>
-      <link>https://robbevan.com/post/2005-04-05-radio-david-byrne/</link>
+      <link>/post/2005-04-05-radio-david-byrne/</link>
       <pubDate>Mon, 04 Apr 2005 23:50:44 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-04-05-radio-david-byrne/</guid>
+      <guid>/post/2005-04-05-radio-david-byrne/</guid>
       <description>My new favourite internet radio station. Also available in iTunes&amp;#8217; &amp;#8220;Eclectic&amp;#8221; category.</description>
     </item>
     
     <item>
-      <title>John Cage&amp;#8217;s 4&amp;#8217;33&amp;#8243;</title>
-      <link>https://robbevan.com/post/2004-06-22-john-cages-433/</link>
+      <title>John Cage’s 4’33”</title>
+      <link>/post/2004-06-22-john-cages-433/</link>
       <pubDate>Tue, 22 Jun 2004 09:56:28 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-06-22-john-cages-433/</guid>
+      <guid>/post/2004-06-22-john-cages-433/</guid>
       <description>John Cage&amp;#8217;s most famous composition in MIDI, OGG, Sun .au and .wav formats!</description>
     </item>
     

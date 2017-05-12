@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web 2.0 on Rob Bevan</title>
-    <link>https://robbevan.com/categories/web-2.0/</link>
+    <link>/categories/web-2.0/</link>
     <description>Recent content in Web 2.0 on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 17 May 2006 12:54:36 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/web-2.0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/web-2.0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Naming things</title>
-      <link>https://robbevan.com/post/2006-05-17-naming-things/</link>
+      <link>/post/2006-05-17-naming-things/</link>
       <pubDate>Wed, 17 May 2006 12:54:36 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-05-17-naming-things/</guid>
+      <guid>/post/2006-05-17-naming-things/</guid>
       <description>Bruce Sterling is doing the rounds in London at the moment: I caught him on Monday at a New Statesman event upstairs at the Grouse and Claret. Bruce gave a highly entertaining &amp;#8216;cyberpunk exegesis&amp;#8217; of a bewildering array of contemporary issues and ideas: the UK&amp;#8217;s surveillance culture, Web 2.0, Climate Change and of course the Internet of Things to name just a few. Good &amp;#8216;names&amp;#8217; for things seem more important than ever now: Bruce mentioned that Tim O&amp;#8217;Reilly &amp;#8211; who coined the term Web 2.</description>
     </item>
     
     <item>
       <title>del.icio.us rolls out private saving feature (in beta)</title>
-      <link>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</link>
+      <link>/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</link>
       <pubDate>Mon, 20 Mar 2006 06:31:00 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
+      <guid>/post/2006-03-20-delicious-rolls-out-private-saving-feature-in-beta/</guid>
       <description>From del.ico.us/blog:
  This is a big step for del.icio.us, but one that I hope will make it more useful. Because del.icio.us is all about sharing and we don’t want to discourage that, we will be watching how this feature impacts the community and will also be experimenting a bit with the UI over the next few weeks.
- (Technorati tags: delicious) </description>
+ </description>
     </item>
     
     <item>
       <title>The Future of Web Apps</title>
-      <link>https://robbevan.com/post/2006-02-23-the-future-of-web-apps/</link>
+      <link>/post/2006-02-23-the-future-of-web-apps/</link>
       <pubDate>Thu, 23 Feb 2006 00:07:14 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2006-02-23-the-future-of-web-apps/</guid>
+      <guid>/post/2006-02-23-the-future-of-web-apps/</guid>
       <description>Like most of the UK&amp;#8217;s web development community I was at the Carson Workshops Future of Web Apps summit a couple of weeks ago. A couple of highlights for me were Tom Coates&amp;#8217; wonderfully lucid and entertaining synthesis of all things Web 2.0 (see also Jeremy Zawodny&amp;#8217;s annotations of Tom&amp;#8217;s slides) and David Heinemeier Hansson&amp;#8217;s Ruby on Rails &amp;#8216;sermon&amp;#8217;. Although I&amp;#8217;ve been working with Rails intermittently for at least eighteen months I&amp;#8217;ve never seen David speak and it had never really occurred to me before just how Scandinavian Rails is: minimal, beautifully designed and good for the soul.</description>
     </item>
     

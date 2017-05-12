@@ -2,60 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Rob Bevan</title>
-    <link>https://robbevan.com/categories/software/</link>
+    <link>/categories/software/</link>
     <description>Recent content in Software on Rob Bevan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Mon, 19 Dec 2005 11:26:33 +0000</lastBuildDate>
     
-	<atom:link href="https://robbevan.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Free software for Symbian S60 phones</title>
-      <link>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</link>
+      <link>/post/2005-12-19-free-software-for-symbian-s60-phones/</link>
       <pubDate>Mon, 19 Dec 2005 11:26:33 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
+      <guid>/post/2005-12-19-free-software-for-symbian-s60-phones/</guid>
       <description>Whilst searching the Opera Mobile forums, I came across this fairly comprehensive list of free software for S60 phones. Some of the links are broken and there&amp;#8217;s nothing on the development side, but a useful list nonetheless.
 Also, if you&amp;#8217;re excited by the prospect of Flash Lite 2.0 announced back in November, you&amp;#8217;ll also be excited to hear from this official forum post that this will be available to developers from Macromedia Labs in January.</description>
     </item>
     
     <item>
       <title>Push url from Mac to bluetooth phone</title>
-      <link>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</link>
+      <link>/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</link>
       <pubDate>Sat, 17 Dec 2005 06:28:29 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</guid>
+      <guid>/post/2005-12-17-push-url-from-mac-to-bluetooth-phone/</guid>
       <description>Something that seems unnecessarily cumbersome to me is getting a url from my Mac to my phone (a Nokia 6630). So I knocked up a simple solution using QuickSilver and Framework Labs&amp;#8217; Bluetooth Object Push Automator Action stuck together with a little AppleScript.
 After you&amp;#8217;ve installed the action, create an Automator workflow using the Push File to Bluetooth Device action, configure it for your device (assuming you&amp;#8217;ve already set up your phone for use with your Mac using the Bluetooth Setup Assistant) and save this to your desktop as an application named Push2Phone.</description>
     </item>
     
     <item>
       <title>Rails 1.0 released</title>
-      <link>https://robbevan.com/post/2005-12-13-rails-10-released/</link>
+      <link>/post/2005-12-13-rails-10-released/</link>
       <pubDate>Tue, 13 Dec 2005 23:09:27 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-12-13-rails-10-released/</guid>
-      <description>15 months after its initial launch, Rails finally reaches 1.0. Maybe now the constant stream of innovation will slow down long enough for some of us to catch up&amp;#8230; oh, wait, perhaps not&amp;#8230; &amp;#8220;1.1 is already pretty far along in development and will see some of the biggest upgrades of any Rails release&amp;#8221;. Can&amp;#8217;t wait.
-(Technorati tags: rails) </description>
+      <guid>/post/2005-12-13-rails-10-released/</guid>
+      <description>15 months after its initial launch, Rails finally reaches 1.0. Maybe now the constant stream of innovation will slow down long enough for some of us to catch up&amp;#8230; oh, wait, perhaps not&amp;#8230; &amp;#8220;1.1 is already pretty far along in development and will see some of the biggest upgrades of any Rails release&amp;#8221;. Can&amp;#8217;t wait.</description>
     </item>
     
     <item>
       <title>Google Analytics</title>
-      <link>https://robbevan.com/post/2005-11-14-google-analytics/</link>
+      <link>/post/2005-11-14-google-analytics/</link>
       <pubDate>Mon, 14 Nov 2005 12:38:47 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-14-google-analytics/</guid>
+      <guid>/post/2005-11-14-google-analytics/</guid>
       <description>A few months ago Google bought Urchin, provider of web analytics software &amp;#8216;used by over 20% of the Fortune 500&amp;#8242; and also, until their recent move, by TextDrive where this site is hosted. TextDrive seemed unable to re-negotiate a site license for Urchin (and began work on a home-grown Ruby on Rails solution code-named Anemone). Here&amp;#8217;s the reason why: Google Analytics, released today, is essentially Urchin 5 for free. And I was just thinking about buying Mint.</description>
     </item>
     
     <item>
       <title>Comment using the Skype API</title>
-      <link>https://robbevan.com/post/2005-11-12-using-the-skype-api/</link>
+      <link>/post/2005-11-12-comment-using-the-skype-api/</link>
       <pubDate>Sat, 12 Nov 2005 18:49:19 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-12-using-the-skype-api/</guid>
+      <guid>/post/2005-11-12-comment-using-the-skype-api/</guid>
       <description>I spent some time yesterday playing around with the Skype API because I wanted to see if I can initiate text-to-speech calls for a project we have in development.
 Seems like the Mac OS X API, like the Skype app itself, lags a little behind the Windows/Linux versions and the Applescript interface (which is easiest to use from a cgi script) is only partially implemented.
 I did manage to get a simple web-based IM sending app running on OS X server.</description>
@@ -63,47 +62,38 @@ I did manage to get a simple web-based IM sending app running on OS X server.</d
     
     <item>
       <title>AppleJacked!</title>
-      <link>https://robbevan.com/post/2005-11-01-applejacked/</link>
+      <link>/post/2005-11-01-applejacked/</link>
       <pubDate>Tue, 01 Nov 2005 23:46:36 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-11-01-applejacked/</guid>
+      <guid>/post/2005-11-01-applejacked/</guid>
       <description>For some reason, my PowerBook decided not to recognise me this morning and wouldn&amp;#8217;t allow me to log in. Eventually, I figured out I could reset my (corrupt) account&amp;#8217;s password from the login window using my &amp;#8216;master password&amp;#8217;, but then I wasn&amp;#8217;t able to start up to anything other than a blue screen. (Coincidentally, I&amp;#8217;d earlier read that one ofMac OS X 10.4.3&amp;#8242;s fixes &amp;#8211; released today &amp;#8211; addressed (an unrelated) issue in which high ASCII characters in a password could lead to a blue screen at startup, or prevent log in.</description>
     </item>
     
     <item>
       <title>Working with Flex 2 on Mac OS X</title>
-      <link>https://robbevan.com/post/2005-10-23-working-with-flex-2-on-mac-os-x/</link>
+      <link>/post/2005-10-23-working-with-flex-2-on-mac-os-x/</link>
       <pubDate>Sun, 23 Oct 2005 18:13:33 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-10-23-working-with-flex-2-on-mac-os-x/</guid>
+      <guid>/post/2005-10-23-working-with-flex-2-on-mac-os-x/</guid>
       <description>(Note: this post was originally written on release of the Flex 2 alpha. I&amp;#8217;ve since updated it for the Flex 2 beta.)
 Macromedia recently announced Macromedia Labs and the availability of the Flex 2 product line alpha, which includes a new Eclipse-based IDE and a new high performance client runtime (Flash Player 8.5) alongside the development framework. Unfortunately, for now, development on the Mac is not supported and Macromedia only provide an installer for Flex Builder 2, the Flex Framework 2, Flex samples and command line tools for Windows.</description>
     </item>
     
     <item>
       <title>Giving .Mac the chop</title>
-      <link>https://robbevan.com/post/2005-10-07-giving-mac-the-chop/</link>
+      <link>/post/2005-10-07-giving-mac-the-chop/</link>
       <pubDate>Fri, 07 Oct 2005 13:47:37 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-10-07-giving-mac-the-chop/</guid>
+      <guid>/post/2005-10-07-giving-mac-the-chop/</guid>
       <description>Today I let my .Macsubscription expire. I&amp;#8217;ve been a .Macsubscriber since Apple began charging for what was once a free service, but I can no longer justify the &amp;#8216;equivalent of &amp;pound;5.75 a month&amp;#8217; for Apple&amp;#8217;s suite of Internet services. I&amp;#8217;ve grudgingly paid the $100 fee for the past couple of years, largely for the ability to sync my bookmarks, calendars and contacts across machines, even if each time I&amp;#8217;ve felt vaguely conned at having to pay for something that ought to be free (the same feeling you get on finding out you need to purchase a new QuickTime Pro key with each version bump).</description>
     </item>
     
     <item>
-      <title>Running Macromedia Flex with JBoss on Mac OS X Server</title>
-      <link>https://robbevan.com/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/</link>
-      <pubDate>Thu, 06 Oct 2005 01:45:45 +0000</pubDate>
-      
-      <guid>https://robbevan.com/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/</guid>
-      <description>Although one of the early Flex beta installers for Linux also worked on Mac OS X, this is no longer true for the 1.0 release version. However, this doesn&amp;#8217;t mean it can&amp;#8217;t be installed. All you need to do is extract the WAR files from the installer: unzip -d flex flex-10-lin.bin (extracting the contents of the archive to a new directory &amp;#8216;flex&amp;#8217; in the working directory). These will be in the dist directory at flex/R_/dist.</description>
-    </item>
-    
-    <item>
       <title>Wrong number</title>
-      <link>https://robbevan.com/post/2005-06-17-wrong-number/</link>
+      <link>/post/2005-06-17-wrong-number/</link>
       <pubDate>Fri, 17 Jun 2005 14:53:30 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-06-17-wrong-number/</guid>
+      <guid>/post/2005-06-17-wrong-number/</guid>
       <description>Just had my first SkypeIn wrong number: &amp;#8220;&amp;#8216;Ello, is that KwikFit?&amp;#8221;
 http://www.skype.com/go/skypebuttons
 --   </description>
@@ -111,38 +101,38 @@ http://www.skype.com/go/skypebuttons
     
     <item>
       <title>Lifeblog</title>
-      <link>https://robbevan.com/post/2005-04-27-lifeblog/</link>
+      <link>/post/2005-04-27-lifeblog/</link>
       <pubDate>Wed, 27 Apr 2005 21:33:47 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-04-27-lifeblog/</guid>
+      <guid>/post/2005-04-27-lifeblog/</guid>
       <description>After a year long fling with Sony Ericsson, I&amp;#8217;ve come back to Nokia and upgraded to a 6630 Smartphone. Actually, I haven&amp;#8217;t dumped the T610 entirely, this will sit next to my server, with a pay as you go SIM, so I can start working on a couple of SMS apps using Tim Ellis&amp;#8217; excellent UltraSMS utility.
 The 6630 is a great phone. Not only does it have a very usable 1.</description>
     </item>
     
     <item>
       <title>Ta-da</title>
-      <link>https://robbevan.com/post/2005-01-20-ta-da/</link>
+      <link>/post/2005-01-20-ta-da/</link>
       <pubDate>Thu, 20 Jan 2005 17:25:13 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2005-01-20-ta-da/</guid>
+      <guid>/post/2005-01-20-ta-da/</guid>
       <description>I&amp;#8217;m a huge fan of Basecamp and have been a happy and productive basecamper for six months or so. My favourite feature has always been the To-Do list and now 37signals have released this as a separate app: Ta-da Lists. In their own words, &amp;#8220;just what you need and nothing you don&amp;#8217;t&amp;#8221;. Best of all, it&amp;#8217;s free.</description>
     </item>
     
     <item>
       <title>ActionScript for TextMate</title>
-      <link>https://robbevan.com/post/2004-10-09-actionscript-for-textmate/</link>
+      <link>/post/2004-10-09-actionscript-for-textmate/</link>
       <pubDate>Sat, 09 Oct 2004 08:19:09 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-10-09-actionscript-for-textmate/</guid>
+      <guid>/post/2004-10-09-actionscript-for-textmate/</guid>
       <description>This installer adds ActionScript syntax colouring and a Test Movie in Flash command to the awesome TextMate editor for Mac OS X. Test Movie in Flash works with .fla files added to your project (hit Cmd-Rtn with a .fla file selected), although at the moment TextMate displays binary files as text, which for a large file can be slow. Hopefully this issue will be dealt with in the upcoming 1.0.1.</description>
     </item>
     
     <item>
       <title>Subversion on Mac OS X with DarwinPorts</title>
-      <link>https://robbevan.com/post/2004-08-17-subversion-on-mac-os-x-with-darwinports/</link>
+      <link>/post/2004-08-17-subversion-on-mac-os-x-with-darwinports/</link>
       <pubDate>Mon, 16 Aug 2004 23:41:17 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-08-17-subversion-on-mac-os-x-with-darwinports/</guid>
+      <guid>/post/2004-08-17-subversion-on-mac-os-x-with-darwinports/</guid>
       <description>I wish I&amp;#8217;d had the benefit of this article a few months back when I was setting up my Subversion server. Although the svn documentation is excellent, it&amp;#8217;s good to see a Mac OS X specific tutorial.
 Installing Subversion (plus dependencies) using DarwinPorts is really simple: just cd to your darwinports/dports/ directory and type sudo port install subversion +mod_dav_svn. Instructions on how to install DarwinPorts are here.
 I put together a Subversion startup item (installed into /Library/StartUpItems/), although really this is just an Apache2 startup item, but I called it Subversion since that&amp;#8217;s all I&amp;#8217;m using Apache2 for.</description>
@@ -150,21 +140,30 @@ I put together a Subversion startup item (installed into /Library/StartUpItems/)
     
     <item>
       <title>ActionScript syntax colouring in Xcode</title>
-      <link>https://robbevan.com/post/2004-06-01-actionscript-syntax-colouring-in-xcode/</link>
+      <link>/post/2004-06-01-actionscript-syntax-colouring-in-xcode/</link>
       <pubDate>Tue, 01 Jun 2004 07:22:24 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2004-06-01-actionscript-syntax-colouring-in-xcode/</guid>
+      <guid>/post/2004-06-01-actionscript-syntax-colouring-in-xcode/</guid>
       <description>(New: see also ActionScript for TextMate)
 I had this working previously in Project Builder, but the specification files were broken in Xcode. Thanks to the C# versions I found here, I&amp;#8217;ve been able to update these for Xcode. This installer adds two files, ActionScript.pbfilespec and ActionScript.pblangspec to /Library/Application Support/Apple/Developer Tools/Specifications, adding ActionScript syntax colouring and code completion (press opt-esc) to Xcode.
 Update: Sam Robbins updated ActionScript.pblangspec to include component methods and properties.</description>
     </item>
     
     <item>
+      <title>Running Macromedia Flex with JBoss on Mac OS X Server</title>
+      <link>/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/</link>
+      <pubDate>Sun, 04 Apr 2004 07:33:29 +0000</pubDate>
+      
+      <guid>/post/2004-04-04-running-macromedia-flex-with-jboss-on-mac-os-x-server/</guid>
+      <description>Although one of the early Flex beta installers for Linux also worked on Mac OS X, this is no longer true for the 1.0 release version. However, this doesn&amp;#8217;t mean it can&amp;#8217;t be installed. All you need to do is extract the WAR files from the installer: unzip -d flex flex-10-lin.bin (extracting the contents of the archive to a new directory &amp;#8216;flex&amp;#8217; in the working directory). These will be in the dist directory at flex/R_/dist.</description>
+    </item>
+    
+    <item>
       <title>Macromedia Flex</title>
-      <link>https://robbevan.com/post/2003-11-17-macromedia-flex/</link>
+      <link>/post/2003-11-17-macromedia-flex/</link>
       <pubDate>Mon, 17 Nov 2003 15:59:12 +0000</pubDate>
       
-      <guid>https://robbevan.com/post/2003-11-17-macromedia-flex/</guid>
+      <guid>/post/2003-11-17-macromedia-flex/</guid>
       <description>If you&amp;#8217;ve spent any time, as I have over the last year or so, working with Flash as the presentation layer for Java-based webapps, keeping as much of your ActionScript as possible in text files so that you can integrate these with your version control system along with your other source files, and wishing you didn&amp;#8217;t have to use the Flash authoring tool to compile your movies, Flex (formerly Royale), a &amp;#8220;standards-based programming methodology for building the presentation tier of Rich Internet Applications&amp;#8221; from Macromedia (now in beta) might just be what you&amp;#8217;re looking for.</description>
     </item>
     
