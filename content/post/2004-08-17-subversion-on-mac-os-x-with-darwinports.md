@@ -18,9 +18,7 @@ I put together a [Subversion startup item][6] (installed into /Library/StartUpIt
   </p>
 
   <p>
-    <code>svn co http://guest:guest@websvn.tigris.org/svn/websvn/tags/1.61/ websvn</code></div> <p class="technorati-tags">
-      (Technorati tags: <a href="http://technorati.com/tag/subversion" rel="tag">subversion</a> | <a href="http://technorati.com/tag/darwinports" rel="tag">darwinports</a>)
-    </p>
+    <code>svn co http://guest:guest@websvn.tigris.org/svn/websvn/tags/1.61/ websvn</code></div> 
 
  [1]: http://www.oreillynet.com/pub/au/1943
  [2]: http://subversion.tigris.org/

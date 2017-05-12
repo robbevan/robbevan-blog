@@ -23,10 +23,6 @@ Aside from adding some other site sections (about, contact, the usual stuff, plu
 **Get tumbling**  
 I&#8217;d like to get into the habit of &#8220;quick and dirty stream of consciousness&#8221; [tumblelog-style][14] posting, either here or [elsewhere][15]. If you&#8217;re going to do this well it obviously requires real commitment, very streamlined processes and clear differentiation from the [best][16] [examples][17].
 
-<p class="technorati-tags">
-  (<img style="float: none; padding: 2px 2px 0 2px;"  src="http://robbevan.com/blog/wp-content/themes/robbevan/images/technorati-small.gif" alt="" /> Technorati tags: <a href="http://technorati.com/tag/wordpress" rel="tag">wordpress</a>)
-</p>
-
  [1]: http://www.ketchupweek.com/
  [2]: http://www.variety.com/ac2006_article/VR1117935157?nav=bafta
  [3]: http://wordpress.org/download/
