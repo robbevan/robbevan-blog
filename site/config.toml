@@ -3,7 +3,7 @@ languageCode = "en-GB" # Controls site language
 title = "Rob Bevan" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
 
-# theme = "after-dark" # Uncomment to use as default theme
+theme = "after-dark" # Uncomment to use as default theme
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics
