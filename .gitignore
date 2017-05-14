@@ -1,1 +1,3 @@
-/themes/*
+dist/
+node_modules/
+site/themes/*
