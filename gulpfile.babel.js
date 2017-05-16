@@ -18,22 +18,22 @@ gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture
 gulp.task("build", ["css", "js", "hugo"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
-gulp.task("css", () => (
-  gulp.src("./src/css/*.css")
-    .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()]))
-    .pipe(gulp.dest("./dist/css"))
-    .pipe(browserSync.stream())
-));
+gulp.task("css", () =>
+  gulp.src("./src/css/*.css").pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()])).pipe(gulp.dest("./dist/css")).pipe(browserSync.stream()),
+);
 
 gulp.task("js", (cb) => {
   const myConfig = Object.assign({}, webpackConfig);
 
   webpack(myConfig, (err, stats) => {
     if (err) throw new gutil.PluginError("webpack", err);
-    gutil.log("[webpack]", stats.toString({
-      colors: true,
-      progress: true
-    }));
+    gutil.log(
+      "[webpack]",
+      stats.toString({
+        colors: true,
+        progress: true,
+      }),
+    );
     browserSync.reload();
     cb();
   });
@@ -42,8 +42,8 @@ gulp.task("js", (cb) => {
 gulp.task("server", ["hugo", "css", "js"], () => {
   browserSync.init({
     server: {
-      baseDir: "./dist"
-    }
+      baseDir: "./dist",
+    },
   });
   gulp.watch("./src/js/**/*.js", ["js"]);
   gulp.watch("./src/css/**/*.css", ["css"]);
