@@ -1,6 +1,6 @@
 +++
 categories = ["micro"]
-date = "2007-04-09T01:06:35+01:00"
+date = "2007-04-09T01:06:35"
 tags = ["film","tumblr"]
 title = "An Interview with Walter Murch"
 +++
