@@ -5,7 +5,7 @@ tags = ["film","tumblr"]
 title = "An Interview with Walter Murch"
 +++
 
-{{< blockquote cite="The Heliocentric Pantheon: An Interview with Walter Murch" citelink="http://www.bldgblog.com/2007/04/the-heliocentric-pantheon-an-interview-with-walter-murch/" >}}
+{{<blockquote cite="The Heliocentric Pantheon: An Interview with Walter Murch" citelink="http://www.bldgblog.com/2007/04/the-heliocentric-pantheon-an-interview-with-walter-murch/">}}
   <p>
     There are little hints of underlying cinematic structures now and then. For instance: to make a convincing action sequence requires, on average, fourteen different camera angles a minute. I don’t mean fourteen cuts – you can have many more than fourteen cuts per minute – but fourteen new views. Let’s say there is a one-minute action scene with thirty cuts, so that the average length of each is two seconds – but, of those thirty cuts, sixteen of them will be repeats of a previous camera angle.
   </p>
@@ -24,4 +24,4 @@ title = "An Interview with Walter Murch"
 
   <p>
   </p>
-{{< /blockquote >}}
+{{</blockquote>}}
