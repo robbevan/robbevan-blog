@@ -1,7 +1,7 @@
 +++
 categories = ["micro"]
 date = "2007-05-29T07:09:47"
-tags = ["art","photograph"]
+tags = ["art","photography","tumblr"]
 title = "The Mended Spiderweb series"
 +++
 
