@@ -1,4 +1,2 @@
-/themes/*
-dist
-node_modules
-site
+dist/
+node_modules/
